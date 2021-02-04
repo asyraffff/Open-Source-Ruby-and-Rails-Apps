@@ -162,7 +162,19 @@
 - [Greenhouse](https://github.com/MichaelMCoates/Greenhouse) - Greenhouse is a full-stack clone of Indiegogo, built with Ruby on Rails and React.js 🔥 ✅ 🚀
 - [gsrd](https://github.com/LeonardoCardoso/gsrd) - GitHub Starred Repos Downloader 🔥
 ### H
-
+- [Happyhours](https://github.com/DefactoSoftware/Hours) - Time registration that doesn't suck 🔥 ✅ 🚀
+- [heaven](https://github.com/atmos/heaven) - 🚶 Rails app for GitHub Flow 👴 ✅
+- [HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs. 🔥 🚀
+- [Helpy](https://github.com/helpyio/helpy) - Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email. 🔥 ✅ 🚀
+- [Homebrew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) 🔥 ✅ 🚀
+- [Homeland](https://github.com/ruby-china/homeland) - 🎪 An open source forum/community system based on Rails, developed based on Ruby China. 🔥 ✅ 🚀
+- [hotwire-rails](https://github.com/hotwired/hotwire-rails) - Use Hotwire in your Ruby on Rails app 🔥 ✅ 🚀
+- [hotwire-rails-demo-chat](https://github.com/hotwired/hotwire-rails-demo-chat) - Repository from the Hotwire demo 🔥 ✅ 🚀
+- [hotwire-site](https://github.com/hotwired/hotwire-site) - hotwire.dev web site 🔥 🚀
+- [Hound](https://github.com/houndci/hound) - Automated code review for GitHub pull requests. 🔥 ✅ 🚀
+- [Hugin](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf. Your agents are standing by! 🔥 ✅ 🚀
+- [hypernova_apollo_rails](https://github.com/bessey/hypernova_apollo_rails) - Example of React + Apollo + Hypernova + Rails + Webpacker 🔥
+- [HyperLearn](https://github.com/wilsontheory/HyperLearn) - Web app inspired by BrainScape flashcard studying platform to demonstrate React.js + Rails 🔥 ✅ 🚀
 ### I
 
 ### J
