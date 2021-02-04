@@ -136,7 +136,19 @@
 - [EventListenr](https://github.com/gevuong/EventListenr) - a single-page web application inspired by Eventbrite 🔥 ✅ 🚀
 - [evil-icons](https://github.com/evil-icons/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN 🔥 ✅ 🚀
 ### F
-
+- [faeCMS](https://github.com/wearefine/fae) - CMS for Rails. For Reals. 🔥 ✅
+- [fastlane](https://github.com/fastlane/fastlane) - The easiest way to automate building and releasing your iOS and Android apps 🔥 ✅ 🚀
+- [fatfreecrm](https://github.com/fatfreecrm/fat_free_crm) - An open source, Ruby on Rails customer relationship management (CRM) platform . 🔥 ✅ 🚀
+- [feedbin](https://github.com/feedbin/feedbin) - a simple, fast and nice looking RSS reader. 🔥 ✅ 🚀
+- [FinalCapstone](https://github.com/Dandush03/FinalCapstone.BackEnd) - This project is designed so you can keep your daily task like; working, sleeping, etc. and see a resume of your day. 🔥 ✅
+- [Findaloo](https://github.com/guitar71989/Findaloo) - a Yelp-inspired web application designed to help New Yorkers find free and convenient restrooms in their local neighborhoods 👴 ✅ 🚀
+- [Flipr](https://github.com/hanqingchen15/Flipr) - Full stack clone of Flickr using React/Redux and Ruby on Rails 🔥 ✅ 🚀
+- [fluentd](https://github.com/fluent/fluentd) - Fluentd helps you unify your logging infrastructure 🔥 ✅ 🚀
+- [foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers 🔥 ✅ 🚀
+- [forem](https://github.com/forem/forem) - Forem is open source software for building communities that powers dev.to 🔥 ✅ 🚀
+- [fraudify](https://github.com/jamesball27/fraudify) - Free music streaming app built with Rails and React 🔥 ✅
+- [Freddit](https://github.com/fsladkey/Freddit) - Reddit clone built using Rails and React/Flux. Just for fun! 👴 ✅
+- [fulcrum](https://github.com/fulcrum-agile/fulcrum) - An agile project planning tool 👴 ✅
 ### G
 
 ### H
