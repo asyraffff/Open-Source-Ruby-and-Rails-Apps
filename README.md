@@ -187,7 +187,10 @@
 - [invoice_printer](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing 🔥 ✅ 🚀
 - [issuehub.io](https://github.com/despo/issuehub.io) - Find open source issues to work on! 🔥 ✅ 🚀
 ### J
-
+- [Jekyll](https://github.com/jekyll/jekyll) - 🌐 Jekyll is a blog-aware static site generator in Ruby 🔥 ✅ 🚀
+- [Jetify](https://github.com/shadeying/Jetify) - Jetify is an app that allows you to see events happening in your area and creates a playlist based on those events  🔥 ✅ 
+- [jumpstart](https://github.com/excid3/jumpstart) - Easily jumpstart a new Rails application with a bunch of great features by default 🔥 ✅ 🚀
+- [JustEats](https://github.com/as6730/JustEats) - Full-Stack web application that allows users to search, discover and review restaurants 🔥 ✅
 ### K
 
 ### L
