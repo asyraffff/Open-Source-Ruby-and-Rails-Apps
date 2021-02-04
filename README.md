@@ -109,7 +109,20 @@
 - [create-react-app-with-rails-boilerplate](https://github.com/lirenyeo/create-react-app-with-rails-boilerplate) - CRA + Rails API + Devise Login + ActiveAdmin Boilerplate 🔥 🚀
 
 ### D
-
+- [Danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby) 🔥 ✅ 🚀
+- [dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search Engine experience you can find. 🔥 ✅ 🚀
+- [Dependabot](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot 🔥 ✅ 🚀
+- [Devdocs](https://github.com/freeCodeCamp/devdocs) - combines multiple developer documentations in a clean and organized web UI 🔥 ✅ 🚀
+- [diakonos](https://github.com/pistos/diakonos) - Linux console text editor for the masses. 🔥
+- [Diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network. 🔥 ✅ 🚀
+- [Discoded](https://github.com/nicolaseschneider/Discoded) - Clone of Discord 🔥 ✅ 🚀
+- [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. 🔥 ✅ 🚀
+- [docker-rails5-react-redux-boilerplate](https://github.com/Angelmmiguel/docker-rails5-react-redux-boilerplate) - Docker + Rails 5 API + React + Redux 👴 ✅
+- [doctors](https://github.com/carloshdelreal/doctors) - Doctor's Appointment application that is intended to showcase full-stack web development skills, particularly in Ruby on Rails and React. 🔥 ✅
+- [doesmystartupideasuck](https://github.com/yshmarov/doesmystartupideasuck) - Innovation incubation/Ideation platform. Share & discuss ideas. Vote for the best ones 🔥 ✅ 🚀
+- [DownBeat](https://github.com/masag0/DownBeat) - a Spotify inspired web application streaming music player-- Ruby on Rails, React, Redux, and PostgreSQL 👴 ✅
+- [drgCMS](https://github.com/drgcms/drg-cms) - Content management system for Ruby, Rails and MongoDB 🔥 ✅
+- [Dryrun](https://github.com/cesarferreira/dryrun) - Try any android library hosted online directly from the command line 🔥 🚀
 ### E
 
 ### F
