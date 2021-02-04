@@ -66,7 +66,15 @@
 - [autolab](https://github.com/autolab/Autolab) - Course management service that enables auto-graded programming assignments.
 - [awestruct](https://github.com/awestruct/awestruct/) - A static site baking and deployment tool written in Ruby.
 ### B
-
+- [bannerbear-tutorial-app](https://github.com/yongfook/bannerbear-tutorial-app) - A full Ruby on Rails app showing how to integrate with the Bannerbear REST API
+- [best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆 Core Infrastructure Initiative Best Practices Badge
+- [black_candy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server
+- [bluedoc](https://github.com/huacnlee/bluedoc) - An open-source document management tool for enterprise self host.
+- [bonsai](https://github.com/benschwarz/bonsai) - A tiny static web site generator
+- [bill-process](https://github.com/anastassia-b/bill-process) - Fullstack bill processing app-- enables various account types to collaborate on bill actions before it is sent to a customer. Rails, PostgreSQL, React/Redux 🔥
+- [branston](https://github.com/futurechimp/branston) - An agile user story tracker that generates gherkin files and step definitions for use with the cucumber testing framework. 👴
+- [BrowserCMS](https://github.com/browsermedia/browsercms) -  Humane Content Management for Rails 👴
+- [BvY_Chess](https://github.com/minusobjects/BvY_Chess) - Terminal chess game, built in Ruby. 👴 🔥
 ### C
 
 ### D
