@@ -124,7 +124,17 @@
 - [drgCMS](https://github.com/drgcms/drg-cms) - Content management system for Ruby, Rails and MongoDB 🔥 ✅
 - [Dryrun](https://github.com/cesarferreira/dryrun) - Try any android library hosted online directly from the command line 🔥 🚀
 ### E
-
+- [eatmore](https://github.com/marckohlbrugge/eatmore) - Telegram bot that reminds you to eat more 🔥 🚀
+- [Eatry](https://github.com/dannam83/Eatery) - a website that shows restaurants and reviews of those restaurants. 🔥 ✅
+- [edurge](https://github.com/yshmarov/edurge) - Most advanced Udemy clone using Ruby on Rails 5. 🔥 ✅ 🚀
+- [enigma-chat](https://github.com/jamesball27/enigma-chat) - Real-time chat app that allows you to send encrypted messages using the World War II era Enigma encryption scheme. 👴 ✅
+- [enki](https://github.com/xaviershay/enki) - A Ruby on Rails blogging app for the fashionable developer. It's better than Mephisto or SimpleLog 🔥 ✅ 🚀
+- [errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant 🔥 ✅ 🚀
+- [etsaclone](https://github.com/christinewang319/etsaclone) - a single-page e-commerce web application that's inspired by Etsy. 👴 ✅ 🚀
+- [eventlite](https://github.com/learnetto/eventlite) - Eventbrite clone 🔥 ✅ 🚀
+- [eventx](https://github.com/andela/eventx) - for Event Managers who are not interested in the complexities of Event Management, but want to organize a world-class event! 👴 ✅ 🚀
+- [EventListenr](https://github.com/gevuong/EventListenr) - a single-page web application inspired by Eventbrite 🔥 ✅ 🚀
+- [evil-icons](https://github.com/evil-icons/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN 🔥 ✅ 🚀
 ### F
 
 ### G
