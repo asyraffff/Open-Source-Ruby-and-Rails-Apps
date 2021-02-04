@@ -150,7 +150,17 @@
 - [Freddit](https://github.com/fsladkey/Freddit) - Reddit clone built using Rails and React/Flux. Just for fun! 👴 ✅
 - [fulcrum](https://github.com/fulcrum-agile/fulcrum) - An agile project planning tool 👴 ✅
 ### G
-
+- [genius](https://github.com/samblyon/genius) - So-Genius, a lyrics-annotation and discussion site using React.js, Rails and PostgresQL 👴 ✅
+- [GetOut](https://github.com/tylerreichle/GetOut) - React Native App to meet and chat with nearby people who share similar interests 🔥 ✅ 🚀
+- [Gitlab](https://github.com/gitlabhq/gitlabhq) - The canonical source of GitLab where all development takes place is hosted on GitLab.com. 🔥 ✅ 🚀
+- [git_time_extractor](https://github.com/rietta/git_time_extractor) - Analyzes Git repository commit logs to compute developer working hours, weekly activity, and to detect death marches in software development. 👴 ✅
+- [gitreflow](https://github.com/reenhanced/gitreflow) - Reflow automatically creates pull requests, ensures the code review is approved, and squash merges finished branches to master with a great commit message template. 🔥 ✅ 🚀
+- [gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend. 🔥 ✅ 🚀
+- [gosu](https://github.com/gosu/gosu/) - 2D game development library for Ruby and C++ 🔥
+- [Graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere 🔥 🚀 
+- [Graphql-Medium-Clone](https://github.com/CharlyJazz/GraphQL-Medium-Clone) - GraphQL API of a Medium clone. Ready to use in your front end application 🔥 ✅
+- [Greenhouse](https://github.com/MichaelMCoates/Greenhouse) - Greenhouse is a full-stack clone of Indiegogo, built with Ruby on Rails and React.js 🔥 ✅ 🚀
+- [gsrd](https://github.com/LeonardoCardoso/gsrd) - GitHub Starred Repos Downloader 🔥
 ### H
 
 ### I
