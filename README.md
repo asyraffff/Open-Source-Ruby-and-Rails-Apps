@@ -176,7 +176,16 @@
 - [hypernova_apollo_rails](https://github.com/bessey/hypernova_apollo_rails) - Example of React + Apollo + Hypernova + Rails + Webpacker 🔥
 - [HyperLearn](https://github.com/wilsontheory/HyperLearn) - Web app inspired by BrainScape flashcard studying platform to demonstrate React.js + Rails 🔥 ✅ 🚀
 ### I
-
+- [iBuy](https://github.com/steveninouye/iBuy) - Full stack, SPA Ebay clone built with React, Redux, Ruby on Rails, & PostgreSQL 🔥 ✅ 🚀
+- [ideaboard-api](https://github.com/learnetto/ideaboard-api) - A Rails 5.1 API app for an Idea board 👴 ✅
+- [ifme](https://github.com/ifmeorg/ifme) - Free, open source mental health communication web app to share experiences with loved ones 🔥 ✅ 🚀
+- [infusion](https://github.com/infusionvlc/infusion) - 📆 Web application for managing the community meetups 🔥 ✅ 🚀
+- [Insoshi](https://github.com/insoshi/insoshi) - An open source social networking platform in Ruby on Rails 👴 ✅
+- [instants](https://github.com/mkonikov/instants) - Instants is a full-stack web application inspired by Instagram. 🔥 ✅
+- [Instaqram](https://github.com/dimasjt/Instaqram) - Instagram like, built with Rails 5.1, Webpacker, React, GraphQL, ApolloClient, Redux, ReactRouter, MaterialUI 👴 ✅ 
+- [intelilex](https://github.com/yshmarov/intelilex) - Website with contact form 🔥
+- [invoice_printer](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing 🔥 ✅ 🚀
+- [issuehub.io](https://github.com/despo/issuehub.io) - Find open source issues to work on! 🔥 ✅ 🚀
 ### J
 
 ### K
