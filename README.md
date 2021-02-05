@@ -400,9 +400,9 @@
 - [translation-server](https://github.com/blueberryapps/translation-server) - Stores translations with location and screenshot. Enable users to easily edit translations and then any rails/react application can use them. 🔥 ✅ 🚀
 - [Tugboat](https://github.com/petems/tugboat) - A command line tool for interacting with your DigitalOcean droplets. 🔥 ✅ 🚀
 - [turbo.hotwire.dev site](https://github.com/hotwired/turbo-site) - turbo.hotwire.dev web site 🔥 ✅ 🚀
-# U
 ### U
-
+- [uke](https://github.com/janlelis/uke) - 🎶  Ukulele CLI Support 🔥
+- [upwork_telegram_notifier](https://github.com/vitalyliber/upwork_telegram_notifier) - Get notifications for new Upwork jobs right into your Telegram 🔥 🚀
 ### V
 
 ### W
