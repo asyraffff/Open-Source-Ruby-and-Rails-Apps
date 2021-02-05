@@ -238,7 +238,12 @@
 - [Mutant](https://github.com/mbj/mutant) - An automated code review tool, with a side effect of producing semantic code coverage metrics. 🔥 ✅ 🚀
 - [my_site_archive](https://github.com/stevepolitodesign/my_site_archive) - The simplest way to archive your website. 🔥 ✅ 🚀
 ### N
-
+- [Nanoc](https://github.com/nanoc/nanoc) - A powerful web publishing system 🔥 ✅ 🚀
+- [nestaCMS](https://github.com/gma/nesta) - A lightweight CMS, implemented in Sinatra. 🔥
+- [next-right-now](https://github.com/UnlyEd/next-right-now) - Flexible production-grade boilerplate with Next.js 10, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, Internationalization, CI/CD and SaaS B2B multi single-tenancy (monorepo) support 🔥 🚀
+- [Nformd](https://github.com/PSalant726/Nformd) - Nformd is a web application inspired by Medium that was built using Ruby on Rails and React.js. 🔥 ✅ 🚀
+- [notesclub](https://github.com/notesclub/notesclub) - Notes Club 🔥 🚀
+- [nsrails](https://github.com/dingbat/nsrails) - iOS/Mac OS framework for Rails 👴 ✅
 ### O
 
 ### P
