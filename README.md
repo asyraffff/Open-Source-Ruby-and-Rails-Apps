@@ -282,7 +282,58 @@
 - [Quickstarter](https://github.com/loralee90/Quickstarter) - A single-page app inspired by Kickstarter that lets you start and fund projects. 🔥 ✅ 🚀
 - [quick_search](https://github.com/gevuong/quick_search) - A responsive (phone, tablet, desktop) full stack web application that allows user to quick filter a list of campgrounds using National Park Service's open public API to pull campground-related data. 🔥
 ### R
-
+- [rabel](https://github.com/daqing/rabel) - An open-source web forum built on the Ruby on Rails framework. 🔥 ✅
+- [rabbit](https://github.com/rabbit-shocker/rabbit) - A programmable presentation tool by Ruby. 🔥 ✅ 🚀
+- [raidantCMS](https://github.com/radiant/radiant) - Radiant is a no-fluff, open source content management system designed for small teams. 🔥 🚀
+- [railscasts](https://github.com/ryanb/railscasts) - This is the source code for the RailsCasts site. 🔥 ✅ 🚀
+- [railsCRM](https://github.com/brobertsaz/railscrm) - Ruby on Rails CRM for lead tracking made with MongoDB, Twitter Bootstrap and Devise. 👴 ✅
+- [Rails-API-React-Tutorial](https://github.com/johncorderox/Rails-API-React-Tutorial) - 📱 A Rails 5 API backend React JS Frontend Guide. Learn API setup, serializers, react fetch calls, and app setup. 🔥 🚀
+- [rails-composer](https://github.com/RailsApps/rails-composer) - An application template that creates starter applications for Rails. 🔥
+- [rails_panel](https://github.com/dejan/rails_panel) - Chrome/Firefox extension for Rails development 🔥 🚀
+- [rails-template (mattbrictson)](https://github.com/mattbrictson/rails-template) - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity. 🔥
+- [rails-template (dao42)](https://github.com/dao42/rails-template) - A best & newest & fastest rails 6.x template for senior rails developer. 🔥
+- [rails-templates (lewagon)](https://github.com/lewagon/rails-templates) - Jump start your Rails development with Le Wagon best practices 🔥
+- [rails-react-boilerplate](https://github.com/giannisp/rails-react-boilerplate) - Ruby on Rails, React, Webpack 4 boilerplate app. 🔥
+- [rails-react-example](https://github.com/stevepolitodesign/rails-react-example) - An example application built with Rails and React 🔥
+- [Rails-React-DTA-Template](https://github.com/GunnarPDX/Rails-React-DTA-Template) - 💎 React on Rails with devise_token_auth -> Starter App 🔥
+- [rails5_api_tutorial](https://github.com/vasilakisfil/rails5_api_tutorial) - Learn how to build a modern API on Michael Hartl's Rails 5 tutorial 🔥
+- [rails-react-typescript-docker-example](https://github.com/ohbarye/rails-react-typescript-docker-example) - An example app built on Ruby on Rails 6.1 + React.js 17 + TypeScript 4.1 + Docker Compose 🔥 🚀
+- [rails_react_graphql_docker_boilerplate](https://github.com/K-Sato1995/Rails_React_GraphQL_Docker_Boilerplate) - 🤡 Rails + React + GraphQL + Docker 🔥
+- [react_on_rails_tutorial_with_ssr_and_hmr_fast_refresh](https://github.com/shakacode/react_on_rails_tutorial_with_ssr_and_hmr_fast_refresh) - react_on_rails tutorial demonstrating SSR, HMR fast refresh, and Typescript based on the rails/webpacker webpack setup 🔥
+- [rainbow](https://github.com/sickill/rainbow) - Ruby gem for colorizing printed text on ANSI terminals 🔥
+- [reactchat](https://github.com/learnetto/reactchat) - A chat app built with React.js and ActionCable in Ruby on Rails 5.1 👴 ✅
+- [reactfit](https://github.com/learnetto/reactfit) - A fitness dashboard app built using Rails 5.1 and React.js 👴 ✅
+- [react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial) - Example of integration of Rails, react, redux, using the react_on_rails gem, webpack, enabling the es7 and jsx transpilers, and node integration. And React Native!  🔥 🚀
+- [react-rails-example-app](https://github.com/BookOfGreg/react-rails-example-app) - Minimal basic demonstration React-Rails sample application using Webpacker 🔥
+- [react_rails_starter_app](https://github.com/atomicjolt/react_rails_starter_app) - React with Rails using Webpack 🔥
+- [react-rails-boilerplate](https://github.com/NimaBoscarino/react-rails-boilerplate) - ⚛︎ ❤️ 💎 A React + Rails boilerplate to help you get the best of both worlds 🔥
+- [react-rails-crud-app](https://github.com/jameshibbard/react-rails-crud-app) - A simple CRUD app built with React, Rails and the Webpacker gem 🔥
+- [react-rails-hmr](https://github.com/edelgado/react-rails-hmr) - Demo of a Rails app that uses the `react-rails` gem, and the `react-hot-reloader` module to enable hot module reloading. 🔥
+- [react-shopify-app](https://github.com/sureswiftcapital/react-shopify-app) - A React/Rails Shopify base app maintained by Plug in SEO 🔥
+- [React-Takser-App](https://github.com/ekatsuta/React-Tasker-App) - Simple task tracking application using React.js and Ruby on Rails 🔥
+- [react_rails_event_scheduler](https://github.com/AndresFMoya/react-rails_event_scheduler) - This project consist of building a mobile web app for an Events Scheduler using Rails API as backend, and ReactJS as frontend. 🔥 ✅ 🚀
+- [reru_scrum](https://github.com/joshrendek/reru_scrum) - Open source rails scrum tool 👴 
+- [reveal-ck](https://github.com/jedcn/reveal-ck) - Create slides with ruby (and usually in markdown) 🔥 🚀
+- [rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. 🔥 ✅ 🚀
+- [redcar](https://github.com/danlucraft/redcar) - A cross-platform programmer's editor written in Ruby. 👴 ✅
+- [Redmine](https://github.com/edavis10/redmine) - Redmine is a flexible project management web application written using Ruby on Rails framework. 🔥 ✅ 🚀
+- [real-world-rails](https://github.com/eliotsykes/real-world-rails) - Real World Rails applications and their open source codebases for developers to learn from 🔥 ✅ 🚀
+- [refinerycms](https://github.com/refinery/refinerycms) - An extendable Ruby on Rails CMS that supports Rails 6.0+ 🔥 ✅
+- [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - A graphql, relay and standard rails application powered demo weblog. 👴 ✅
+- [retrospectiva](https://github.com/dim/retrospectiva) - Open source, web-based agile project management, featuring: Goal planner, Story management, Issue-tracker, Code review, SCM Integration, Wiki & Blog. 👴 ✅
+- [RN-Rock-Paper-Scissors](https://github.com/ShivamJoker/RN-Rock-Paper-Scissors) - Simple Rock Paper Scissors Game Made in React Native runs on Android, iOS, Web, MacOS, Windows 🔥 ✅ 🚀
+- [ror_ecommerce](https://github.com/drhenner/ror_ecommerce) - Ruby on Rails Ecommerce platform, perfect for your small business solution. 🔥 ✅ 🚀
+- [ruber](https://github.com/stcrocco/ruber) - An IDE for Ruby written in Ruby using KDE 👴 ✅ 🚀
+- [ruby2d](https://github.com/ruby2d/ruby2d) - 🎮 The Ruby 2D gem 🔥 🚀
+- [Ruby-Meetup-Calender](https://github.com/MikeRogers0/Ruby-Meetup-Calendar) - List all the current Ruby Meetups 🔥 ✅ 🚀
+- [Ruby-Starter-Kits](https://github.com/Ruby-Starter-Kits/) - Starter kits to help you get up and running with Ruby quickly. 🔥 🚀
+- [Rubygems](https://github.com/rubygems/rubygems) - Library packaging and distribution for Ruby. 🔥 ✅ 🚀
+- [rubydoc.info](https://github.com/docmeta/rubydoc.info) - Next generation rdoc.info site 🔥 ✅ 🚀
+- [Ruby-git](https://github.com/ruby-git/ruby-git) - Ruby/Git is a Ruby library that can be used to create, read and manipulate Git repositories by wrapping system calls to the git binary. 🔥 ✅ 🚀
+- [ruby-lang.org](https://github.com/ruby/www.ruby-lang.org) - Source of the https://www.ruby-lang.org website. 🔥 ✅ 🚀
+- [rubytoolbox](https://github.com/rubytoolbox/rubytoolbox) - Find actively maintained & popular open source software libraries for the Ruby programming language 🔥 ✅ 🚀
+- [ruco](https://github.com/grosser/ruco) - Desktop-style, Intuitive, Commandline Editor in Ruby. "Better than nano, simpler than vim." 👴 🚀
+- [Runtaoblr](https://github.com/runtao0/Runtaoblr) - A social blogging web application made with Ruby on Rails and React/Redux 👴 ✅
 ### S
 
 ### T
