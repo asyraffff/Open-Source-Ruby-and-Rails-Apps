@@ -336,7 +336,41 @@
 - [ruco](https://github.com/grosser/ruco) - Desktop-style, Intuitive, Commandline Editor in Ruby. "Better than nano, simpler than vim." 👴 🚀
 - [Runtaoblr](https://github.com/runtao0/Runtaoblr) - A social blogging web application made with Ruby on Rails and React/Redux 👴 ✅
 ### S
-
+- [sample_app_6th_ed](https://github.com/mhartl/sample_app_6th_ed) - The main sample app for the Ruby on Rails Tutorial, 6th Edition (railstutorial.org) 🔥 ✅
+- [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem. 🔥 ✅ 🚀
+- [Sharetribe](https://github.com/sharetribe/sharetribe) - Sharetribe Go is a source available marketplace software, also available as a hosted, no-code SaaS product. 🔥 ✅ 🚀
+- [sheepsafe](https://github.com/nicksieger/sheepsafe) - Sheepsafe is a small utility to keep you safe from FireSheep! It's a tool for mobile geeks. 👴 🚀
+- [showoff](https://github.com/puppetlabs/showoff) - Don't just present; interact with your audience! 🔥 ✅ 🚀
+- [shoes4](https://github.com/shoes/shoes4) - Shoes is a little DSL for cross-platform (Mac, Windows, and Linux) GUI programming. 🔥 🚀
+- [shopify_app](https://github.com/Shopify/shopify_app) - A Rails Engine for building Shopify Apps 🔥 ✅ 🚀
+- [Sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby 🔥 ✅ 🚀
+- [simple_discussion](https://github.com/excid3/simple_discussion) - A simple, extensible Rails forum 🔥 ✅ 🚀
+- [simple_review_app](https://github.com/ChrisBr/simple_review_app) - A simple way to create review apps for your open pull requests 🔥 🚀
+- [sitepress](https://github.com/sitepress/sitepress) - Sitepress is a file-backed website content manager that can be embedded in popular web frameworks like Rails, run stand-alone, or be compiled into static sites. Its useful for marketing pages or small websites that you need to deploy within your web frameworks. 🔥
+- [slack-bot-on-rails](https://github.com/slack-ruby/slack-bot-on-rails) - A Rails + React application with a slack bot. 🔥 ✅ 🚀
+- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API 🔥 
+- [slidedown](https://github.com/nakajima/slidedown) - Generate syntax-highlighted slides from Markdown 👴 🚀
+- [slideshow](https://github.com/slideshow-s9/slideshow) - write your slides / talks / presentations in plain text with markdown formatting conventions 🔥 🚀
+- [stacks_tracker_app](https://github.com/MuriloRoque/stacks_tracker_app) - In this app, you are able to track which languages you already know. You can choose which ones you are currently learning and see your learning progress, based on a goal you set. 🔥 ✅
+- [social-login-in-rails](https://github.com/mohitjain/social-login-in-rails) - A small application with integrates with Devise + Twitter + Facebook + Linkedin + Google + Github. 🔥 ✅ 
+- [SocialBusinessStarter](https://github.com/lucianstroie/SocialBusinessStarter) - A KickStarter clone built with Rails and React/Redux 👴 ✅ 🚀
+- [socify](https://github.com/scaffeinate/socify) - Socify is an open source social networking platform written in Ruby on Rails 👴 ✅ 🚀
+- [Solidus](https://github.com/solidusio/solidus) - 🛒 Solidus, Rails eCommerce System 🔥 ✅ 🚀
+- [SomeRecipes](https://github.com/joycechau/SomeRecipes) - Full-stack single-page application inspired by AllRecipes built on Ruby on Rails, React, and Redux 🔥 ✅ 🚀
+- [SpinaCMS](https://github.com/SpinaCMS/Spina) - Spina CMS is an easy to use CMS that features a clean interface without distractions. 🔥 ✅ 🚀
+- [Spree](https://github.com/spree/spree) - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! 🔥 ✅ 🚀
+- [SprintApp](https://github.com/macfanatic/SprintApp) - Project management and time tracking should be easy. SprintApp is simple to setup, simple to use, and elegant - making you look like a hero in your organization. 👴 ✅
+- [Squash](https://github.com/SquareSquash/web) - Squash is a collection of tools that help engineers find and kill bugs in their code by automatically collecting, collating and analyzing run time exceptions.  👴 ✅
+- [StarDuck](https://github.com/JerChuang/StartDuck) - StartDuck is a productivity app that generates activities based on user's choice of category and input hours. 🔥 ✅ 🚀
+- [star-table](https://github.com/zw301/star-table) - ⭐ A restaurant reservation web application. Using Ruby on Rails, PostgreSQL, JavaScript/React/Redux, JSX, SCSS. 🔥 ✅ 🚀
+- [Staytus](https://github.com/adamcooke/staytus) - 💡 An open source solution for publishing the status of your services 🔥 ✅ 🚀
+- [stealth](https://github.com/hellostealth/stealth) - 🤖 An open source Ruby framework for text and voice chatbots. 🔥 ✅ 🚀
+- [stickers.win](https://github.com/learnetto/stickers.win) - An online store built with React and Rails 👴 ✅
+- [stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have 🔥 ✅ 🚀
+- [stimulus.hotwire.dev site](https://github.com/hotwired/stimulus-site) - stimulus.hotwire.dev web site 🔥 🚀
+- [Storytime](https://github.com/CultivateLabs/storytime) - Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. 🔥 ✅
+- [Stringer](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader. 🔥 ✅ 🚀
+- [Suspenders (thoughtbot)](https://github.com/thoughtbot/suspenders) - A Rails template with our standard defaults, ready to deploy to Heroku. 🔥 ✅ 🚀
 ### T
 
 ### U
