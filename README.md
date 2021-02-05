@@ -372,7 +372,35 @@
 - [Stringer](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader. 🔥 ✅ 🚀
 - [Suspenders (thoughtbot)](https://github.com/thoughtbot/suspenders) - A Rails template with our standard defaults, ready to deploy to Heroku. 🔥 ✅ 🚀
 ### T
-
+- [tag-along](https://github.com/leighhalliday/tag-along) - Real-time geo tracking using Rails, ActionCable, React, MobX, and MapBox 👴 ✅ 🚀
+- [tasky](https://github.com/dapi/tasky) - Kanban-style task manager on Ruby On Rails / React 🔥 ✅ 🚀
+- [teambox](https://github.com/redbooth/teambox) - This is the legacy version of Teambox - the award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter. 👴 ✅
+- [tebukuro](https://github.com/shinosakarb/tebukuro) - Build communities and ticketing 🔥 ✅
+- [terrastories](https://github.com/Terrastories/terrastories) - Terrastories is a geostorytelling application built to enable local communities to locate and map their own oral storytelling traditions about places of significant meaning or value to them. 🔥 ✅ 🚀
+- [terminal-table](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich. 🔥 🚀
+- [theodinproject](https://github.com/TheOdinProject/theodinproject) - Main Website for The Odin Project 🔥 ✅ 🚀
+- [ThinkPiece](https://github.com/Gabriel-Lewis/ThinkPiece) - A blogging website inspired by Medium 👴 ✅ 🚀
+- [thredded](https://github.com/thredded/thredded) - The best Rails forums engine ever. 🔥 ✅ 🚀
+- [ting](https://github.com/Aufree/ting) - A music social networking project written in Ruby on Rails and Semantic-UI 🔥 ✅
+- [tomatoes](https://github.com/tomatoes-app/tomatoes) - Pomodoro Technique® online time tracker 🔥 ✅ 🚀
+- [toto](https://github.com/cloudhead/toto) - the 10 second blog-engine for hackers 👴 🚀
+- [tty](https://github.com/piotrmurach/tty) - Toolkit for developing sleek command line apps. 🔥 ✅ 🚀
+- [tty-box](https://github.com/piotrmurach/tty-box) - Draw various frames and boxes in your terminal window 🔥 ✅ 🚀
+- [tty-screen](https://github.com/piotrmurach/tty-screen) - Terminal screen detection - cross platform, major ruby interpreters 🔥 ✅ 🚀
+- [tty-color](https://github.com/piotrmurach/tty-color) - Terminal color capabilities detection 🔥 ✅ 🚀
+- [tty-cursor](https://github.com/piotrmurach/tty-cursor) - Terminal cursor movement and manipulation of cursor properties such as visibility 🔥 ✅ 🚀
+- [tty-font](https://github.com/piotrmurach/tty-font) - Terminal fonts 🔥 ✅ 🚀
+- [tty-spinner](https://github.com/piotrmurach/tty-spinner) - A terminal spinner for tasks that have non-deterministic time frame. 🔥 ✅ 🚀
+- [tty-markdown](https://github.com/piotrmurach/tty-markdown) - Convert a markdown document or text into a terminal friendly output 🔥 ✅ 🚀
+- [tty-pie](https://github.com/piotrmurach/tty-pie) - Draw pie charts in your terminal window 🔥 ✅ 🚀
+- [tty-prompt](https://github.com/piotrmurach/tty-prompt) - A beautiful and powerful interactive command line prompt 🔥 ✅ 🚀
+- [tty-progressbar](https://github.com/piotrmurach/tty-progressbar) - Display a single or multiple progress bars in the terminal. 🔥 ✅ 🚀
+- [tty-reader](https://github.com/piotrmurach/tty-reader) - A set of methods for processing keyboard input in character, line and multiline modes. 🔥 ✅ 🚀
+- [tty-table](https://github.com/piotrmurach/tty-table) - A flexible and intuitive table generator 🔥 ✅ 🚀
+- [translation-server](https://github.com/blueberryapps/translation-server) - Stores translations with location and screenshot. Enable users to easily edit translations and then any rails/react application can use them. 🔥 ✅ 🚀
+- [Tugboat](https://github.com/petems/tugboat) - A command line tool for interacting with your DigitalOcean droplets. 🔥 ✅ 🚀
+- [turbo.hotwire.dev site](https://github.com/hotwired/turbo-site) - turbo.hotwire.dev web site 🔥 ✅ 🚀
+# U
 ### U
 
 ### V
