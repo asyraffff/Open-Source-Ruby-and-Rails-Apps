@@ -192,7 +192,18 @@
 - [jumpstart](https://github.com/excid3/jumpstart) - Easily jumpstart a new Rails application with a bunch of great features by default 🔥 ✅ 🚀
 - [JustEats](https://github.com/as6730/JustEats) - Full-Stack web application that allows users to search, discover and review restaurants 🔥 ✅
 ### K
-
+- [kaiju](https://github.com/cerner/kaiju) - A drag and drop web editor for React components. 🔥 ✅ 🚀
+- [kails](https://github.com/embbnux/kails) - A Web App like Ruby on Rails with Koa2, Webpack and Postgres 🔥
+- [kanban](https://github.com/seanomlor/kanban) - Kanban 看板 is a Trello clone in Rails and Backbone.js 👴 ✅
+- [keepScrolling](https://github.com/tbuchannan/keepScrolling) - Fullstack web application inspired by Tumblr. 🔥 ✅
+- [Kelp](https://github.com/vzajkov/Kelp) - React/Redux and Rails app inspired by Yelp 🔥 ✅ 🚀
+- [kevin.tv](https://github.com/k-2tha-brimm/kevin.tv) - A full-stack clone of the popular video game streaming service twitch.tv 🔥 ✅ 🚀
+- [kicker](https://github.com/griffinsharp/kicker) - A full-stack website clone of Kickstarter built using Ruby on Rails, PostgreSQL, React, and Redux. 🔥 ✅
+- [kitabu](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown using Ruby. Using the Prince PDF generator, you'll be able to get high quality PDFs. Also supports EPUB, Mobi, Text and HTML generation. 🔥 ✅ 🚀
+- [kms](https://github.com/apiqcms/kms) - Simple and powerful Ruby on Rails CMS for developers 🔥
+- [Koala](https://github.com/arsduo/koala) - A lightweight Facebook library supporting the Graph, Marketing, and Atlas APIs, realtime updates, test users, and OAuth. 🔥
+- [Kontena](https://github.com/kontena/kontena) - The developer friendly container and micro services platform. Works on any cloud, easy to setup, simple to use. 🔥 ✅ 🚀
+- [Kramdown](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions. 🔥
 ### L
 
 ### M
