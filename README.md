@@ -423,3 +423,5 @@
 ### Y
 - [yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for "Yay!" 🔥 ✅ 🚀
 ### Z
+- [Zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system  🔥 ✅ 🚀
+- [zipsell](https://github.com/yongfook/zipsell) - A free open source platform for selling digital downloads such as ebooks 🔥 ✅ 🚀
