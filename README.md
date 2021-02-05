@@ -404,7 +404,10 @@
 - [uke](https://github.com/janlelis/uke) - 🎶  Ukulele CLI Support 🔥
 - [upwork_telegram_notifier](https://github.com/vitalyliber/upwork_telegram_notifier) - Get notifications for new Upwork jobs right into your Telegram 🔥 🚀
 ### V
-
+- [Vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments. 🔥 ✅ 🚀
+- [vedeu](https://github.com/gavinlaking/vedeu) - A framework written in Ruby for building GUI/TUI terminal/console applications. 👴
+- [ved_akadem_students](https://github.com/KyivKrishnaAcademy/ved_akadem_students) - Students attendance and progress monitoring tool. 🔥 ✅ 🚀
+- [VideoCall-React-Component---Tutorial](https://github.com/nicolaseschneider/VideoCall-React-Component---Tutorial) - A quick and painless VideoCall component that can be easily implemented with a rails backend 🔥 ✅ 🚀
 ### W
 
 ### X
