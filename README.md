@@ -409,7 +409,15 @@
 - [ved_akadem_students](https://github.com/KyivKrishnaAcademy/ved_akadem_students) - Students attendance and progress monitoring tool. 🔥 ✅ 🚀
 - [VideoCall-React-Component---Tutorial](https://github.com/nicolaseschneider/VideoCall-React-Component---Tutorial) - A quick and painless VideoCall component that can be easily implemented with a rails backend 🔥 ✅ 🚀
 ### W
-
+- [watchpoll](https://github.com/petevdp/watchpoll) - Watch a youtube playlist with others, and vote on the next video to be played democratically! 🔥 ✅ 🚀
+- [WatchTube](https://github.com/DanielLChang/WatchTube) - A video-streaming and sharing single-page web app based on YouTube, built using Ruby on Rails and React/Redux 👴 ✅ 🚀
+- [webgen](https://github.com/gettalong/webgen) - webgen is a fast, powerful and extensible static website generator 🔥 ✅ 🚀
+- [webshot](https://github.com/vitalie/webshot) - Captures a web page as a screenshot. 🔥 ✅ 🚀
+- [weby](https://github.com/cercomp/weby) - A simple, flexible and extensible CMS in Ruby on Rails 🔥 ✅
+- [wiigo](https://github.com/spacether/wiigo) - A 'Meetup' clone made with Ruby on Rails and React/Redux. 👴 ✅ 🚀
+- [Whatweb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner 🔥 ✅ 🚀
+- [Whenevernote](https://github.com/tylerreichle/Whenevernote) - Full-stack web application inspired by Evernote built using React/Redux and Ruby on Rails with PostgreSQL 👴 ✅ 🚀
+- [Wordmove](https://github.com/welaika/wordmove) - Multi-stage command line deploy/mirroring and task runner for Wordpress 🔥 ✅ 🚀
 ### X
 
 ### Y
