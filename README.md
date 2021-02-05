@@ -245,7 +245,22 @@
 - [notesclub](https://github.com/notesclub/notesclub) - Notes Club 🔥 🚀
 - [nsrails](https://github.com/dingbat/nsrails) - iOS/Mac OS framework for Rails 👴 ✅
 ### O
-
+- [Octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with <3 by GitHub 🔥 ✅ 🚀
+- [octopress](https://github.com/octopress/octopress) - Octopress is an obsessively designed toolkit for writing and deploying Jekyll blogs. Pretty sweet, huh? 👴 
+- [Onebody](https://github.com/seven1m/onebody) - OneBody was open-source, web-based social networking, email list, online directory, and lightweight document management software for churches. 🔥 ✅
+- [Octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications 🔥 ✅ 🚀
+- [on_ruby](https://github.com/phoet/on_ruby) - 💎 🛤 Whitelabel Site for Ruby Communities 🔥 ✅ 🚀
+- [open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs 🔥
+- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything! 🔥 ✅ 🚀
+- [Openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce 🔥 ✅ 🚀
+- [open-flights](https://github.com/zayneio/open-flights) - A flight reviews app built with Ruby on Rails and React.js 🔥 ✅ 🚀
+- [OpenProject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. 🔥 ✅ 🚀
+- [open-source-billing](https://github.com/vteams/open-source-billing) - Open Source Billing a super simple way to create and send invoices and receive payments online. 🔥 ✅ 🚀
+- [openstreetmap](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap 🔥 ✅ 🚀
+- [orientation](https://github.com/orientation/orientation) - Your best weapon in the fight against outdated documentation. 🔥 ✅ 🚀
+- [osem](https://github.com/openSUSE/osem) - Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences. 🔥 ✅ 🚀
+- [oupsnow](https://github.com/shingara/oupsnow) - A Bug tracker multi project, simply, but completed like bug tracking. 👴 🚀
+- [overwatch-team-comps](https://github.com/cheshire137/overwatch-team-comps) - Plan your Overwatch team composition per map. Share your team comp with others. 👴 🚀
 ### P
 
 ### Q
