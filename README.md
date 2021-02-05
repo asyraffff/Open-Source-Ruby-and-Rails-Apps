@@ -278,7 +278,9 @@
 - [push_type](https://github.com/pushtype/push_type) - PushType is a modern, open source content management system for Ruby on Rails. 🔥 
 - [pwa-demo](https://github.com/dmcd/pwa-demo) - Progressive Web App Demo using Rails and React 🔥 ✅ 🚀
 ### Q
-
+- [quora](https://github.com/huacnlee/quora) - Quora clone write in Ruby on Rails. 👴 ✅ 
+- [Quickstarter](https://github.com/loralee90/Quickstarter) - A single-page app inspired by Kickstarter that lets you start and fund projects. 🔥 ✅ 🚀
+- [quick_search](https://github.com/gevuong/quick_search) - A responsive (phone, tablet, desktop) full stack web application that allows user to quick filter a list of campgrounds using National Park Service's open public API to pull campground-related data. 🔥
 ### R
 
 ### S
