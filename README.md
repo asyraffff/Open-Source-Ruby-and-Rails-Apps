@@ -219,7 +219,24 @@
 - [loomio](https://github.com/loomio/loomio) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. 🔥 ✅ 🚀
 - [lucha](https://github.com/azuzunaga/lucha) - Strava clone app with a (slight) Spanish flavor. It uses a Rails/PostgreSQL backend, React.js and Redux on the frontend, and the Google Maps API for map interactivity. 🔥 ✅ 🚀
 ### M
-
+- [manageiq](https://github.com/ManageIQ/manageiq) - ManageIQ is an open-source Management Platform that delivers the insight, control, and automation that enterprises need to address the challenges of managing hybrid IT environments. 🔥 ✅ 🚀
+- [mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community 🔥 ✅ 🚀
+- [matestack](https://github.com/matestack/matestack-ui-core) - Matestack enables you to create sophisticated, reactive UIs in pure Ruby, without touching JavaScript and HTML. 🔥 🚀
+- [md2man](https://github.com/sunaku/md2man) - md2man is a Ruby library and a set of command-line programs that convert Markdown into UNIX manpages as well as HTML webpages using Redcarpet. 🔥 🚀
+- [medium](https://github.com/hibiken/stories) - Medium clone built with Ruby on Rails 👴 ✅
+- [Medio](https://github.com/elicsiegel/Medio) - A full-stack web application inspired by Medium utilizing Ruby on Rails, React.js and Redux 🔥 ✅ 🚀
+- [meetsync](https://github.com/dsc-umass/meetsync) - An Application to Meet and Sync with people 🔥 ✅ 🚀
+- [membership (debtcollective)](https://github.com/debtcollective/membership) - 💰 Member dues and Donations platform 🔥 ✅ 🚀
+- [mercury](https://github.com/jejacks0n/mercury) - Mercury Editor: The Rails WYSIWYG editor that allows embedding full page editing capabilities directly inline. 🔥 ✅ 🚀
+- [Message-Medium](https://github.com/minusobjects/Message-Medium) - A storytelling platform inspired by Medium 👴 🔥 ✅
+- [miaudota](https://github.com/Davigl/miaudota) - 🐱 🐶  app that automates the pet adoption process. (rails api + react native) 🔥 ✅ 🚀
+- [Microvers-RoR-Capstone](https://github.com/Dandush03/Microvers-RoR-Capstone) - This app behaves as a Twitter-lite app. It allows users to follow and unfollow other users 🔥 🚀
+- [micro-trello](https://github.com/yshmarov/micro-trello) - Trello Clone in 9 commits. Lists have many tasks. Sort lists, tasks. Move tasks between lists 🔥 ✅ 🚀
+- [middleman](https://github.com/middleman/middleman) - Middleman is a static site generator using all the shortcuts and tools in modern web development. 🔥 ✅ 🚀
+- [modern-datatables](https://github.com/guillaumebriday/modern-datatables) - They are many ways to build reactive web interfaces but do we really need to add the complexity of JavaScript frameworks like Vue.js or React? 🔥 ✅ 🚀
+- [Mr.Hood](https://github.com/BR1K/Mr.Hood) - Robinhood inspired stock-trading full stack application using Rails, PostgreSQL, React.js, and Redux 🔥 ✅ 🚀
+- [Mutant](https://github.com/mbj/mutant) - An automated code review tool, with a side effect of producing semantic code coverage metrics. 🔥 ✅ 🚀
+- [my_site_archive](https://github.com/stevepolitodesign/my_site_archive) - The simplest way to archive your website. 🔥 ✅ 🚀
 ### N
 
 ### O
