@@ -205,7 +205,19 @@
 - [Kontena](https://github.com/kontena/kontena) - The developer friendly container and micro services platform. Works on any cloud, easy to setup, simple to use. 🔥 ✅ 🚀
 - [Kramdown](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions. 🔥
 ### L
-
+- [Lamernews](https://github.com/antirez/lamernews) - Lamer news is an implementation of a Reddit / Hacker News style news web site written using Ruby, Sinatra, Redis and jQuery. 👴 🚀
+- [latercart](https://github.com/bonitac/latercart) - A chrome extension that allows the user to create aggregate wishlists while shopping on different websites such as Ikea, Amazon, Tentree and more. 🔥 🚀
+- [lazylead](https://github.com/dgroup/lazylead) - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows automating (without admin access) daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. 🔥 ✅ 🚀
+- [Leeway](https://github.com/zamandalee/Leeway) - A Slack clone implemented using a Rails backend and React/Redux frontend framework.  🔥 ✅ 🚀
+- [libraries.io](https://github.com/librariesio/libraries.io) - 📚 The Open Source Discovery Service 🔥 ✅ 🚀
+- [Lita](https://github.com/litaio/lita) - Lita is a chat bot written in Ruby with persistent storage provided by Redis. 🔥 ✅ 🚀
+- [live-music](https://github.com/Dounx/live-music) - Web version of NetEase Cloud Music to listen to songs synchronously. 🔥 
+- [Lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion 🔥 ✅ 🚀
+- [localorbit](https://github.com/LocalOrbit/localorbit) - Local Orbit is an open source web application and service that empowers food hubs to efficiently sell and distribute local food. 🔥 ✅ 🚀
+- [locomotiveCMS](https://github.com/locomotivecms/engine) - Locomotive is an open source platform to create, publish and edit sites (CMS) 🔥 ✅
+- [lolcat](https://github.com/busyloop/lolcat) - 🌈 Rainbow your terminal 🔥 🚀
+- [loomio](https://github.com/loomio/loomio) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. 🔥 ✅ 🚀
+- [lucha](https://github.com/azuzunaga/lucha) - Strava clone app with a (slight) Spanish flavor. It uses a Rails/PostgreSQL backend, React.js and Redux on the frontend, and the Google Maps API for map interactivity. 🔥 ✅ 🚀
 ### M
 
 ### N
