@@ -64,6 +64,7 @@
 - [art-book-app](https://github.com/anastassia-b/art-book-app/) - 🖼   ArtBook is a full-stack web app for exploring art portfolios. Ruby on Rails, PostgreSQL, React+Redux.
 - [astuto](https://github.com/riggraz/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [autolab](https://github.com/autolab/Autolab) - Course management service that enables auto-graded programming assignments.
+- [awesome-ruby](https://github.com/markets/awesome-ruby) - A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software. 🔥 ✅
 - [awestruct](https://github.com/awestruct/awestruct/) - A static site baking and deployment tool written in Ruby.
 ### B
 - [bannerbear-tutorial-app](https://github.com/yongfook/bannerbear-tutorial-app) - A full Ruby on Rails app showing how to integrate with the Bannerbear REST API
