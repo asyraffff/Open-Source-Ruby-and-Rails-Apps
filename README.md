@@ -1,17 +1,28 @@
-# Awesome Ruby and Rails Open Source applications
 ![](https://blog.codemy.net/content/images/2019/01/ruby-rails-part-1-cover.jpg)
+# Awesome Ruby and Rails Open Source applications
 
 ---
 
 <p align="left">
 <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
 
-## Why I create this
-
-## contain
-
+List of awesome open source applications written in Ruby and Rails. The main goal of this repository is to find free open source Ruby and Rails apps and start contributing 🚀 . Feel free to contribute to the list, any suggestions are welcome!
+## Contain
+- cool ruby gem
+  - real-world production app
+  - CMS
+  - Tutorial
+  - Terminal app
+  - boilerplate
+  - backend with rails
+  - clone of real-world startup/company
+  - website
+  - ide
+  - ecommerce
+  - ....
 ## Support
-
+Hey friend! Help me out for a couple of ☕️
+<a href="https://www.buymeacoffee.com/asyraff" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 ## Todo
 
 ## Contents
