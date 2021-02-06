@@ -1,4 +1,5 @@
 # Awesome Ruby and Rails Open Source applications
+![](https://blog.codemy.net/content/images/2019/01/ruby-rails-part-1-cover.jpg)
 
 ---
 
