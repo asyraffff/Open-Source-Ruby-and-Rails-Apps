@@ -9,19 +9,20 @@
 List of awesome open source applications written in Ruby and Rails. The main goal of this repository is to find free open source Ruby and Rails apps and start contributing 🚀 . Feel free to contribute to the list, any suggestions are welcome!
 ## Contain
 - cool ruby gem
-  - real-world production app
-  - CMS
-  - Tutorial
-  - Terminal app
-  - boilerplate
-  - backend with rails
-  - clone of real-world startup/company
-  - website
-  - ide
-  - ecommerce
-  - ....
+- real-world production app
+- CMS
+- Tutorial
+- Terminal app
+- boilerplate
+- backend with rails
+- clone of real-world startup/company
+- website
+- ide
+- ecommerce
+- ....
 ## Support
 Hey friend! Help me out for a couple of ☕️
+
 <a href="https://www.buymeacoffee.com/asyraff" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 100px !important;" ></a>
 ## Todo
 
