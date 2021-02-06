@@ -22,7 +22,7 @@ List of awesome open source applications written in Ruby and Rails. The main goa
   - ....
 ## Support
 Hey friend! Help me out for a couple of ☕️
-<a href="https://www.buymeacoffee.com/asyraff" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/asyraff" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 100px !important;" ></a>
 ## Todo
 
 ## Contents
