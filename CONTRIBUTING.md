@@ -35,4 +35,4 @@ Thank you for your suggestions! 🥳
 
 ## Don't know what to contribute ??
 
-See the TODO file 😉
+See the [TODO](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps/blob/main/TODO.md) file 😉
