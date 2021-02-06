@@ -24,8 +24,14 @@ List of awesome open source applications written in Ruby and Rails. The main goa
 Hey friend! Help me out for a couple of ☕️
 
 <a href="https://www.buymeacoffee.com/asyraff" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 100px !important;" ></a>
-## Todo
+## Legend
+  - 🔥 new/hot/cool
+  - 👴 old
+  - ✅ real-world project
+  - 🚀 super duper cool
+> **note**: Rails versions of these apps are valid as the date of latest commit. They are defined in their Gemfile and/or Gemfile.lock and they might be outdated. Ff you see some old project, don't worry cuz the structure of file are same , just some syntax tweak.
 
+> **perfect combination**: 🔥 ✅ 🚀
 ## Contents
 - [@123](#123)
 - [A](#a)
