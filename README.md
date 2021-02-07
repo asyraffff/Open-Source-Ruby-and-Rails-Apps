@@ -29,7 +29,7 @@ Hey friend! Help me out for a couple of ☕️
   - 👴 old
   - ✅ real-world project
   - 🚀 super duper cool
-> **note**: Rails versions of these apps are valid as the date of latest commit. They are defined in their Gemfile and/or Gemfile.lock and they might be outdated. Ff you see some old project, don't worry cuz the structure of file are same , just some syntax tweak.
+> **note**: Rails versions of these apps are valid as the date of latest commit. They are defined in their Gemfile and/or Gemfile.lock and they might be outdated. If you see some old project, don't worry cuz the structure of file are same , just some syntax tweak.
 
 > **perfect combination**: 🔥 ✅ 🚀
 ## Contents
