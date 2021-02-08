@@ -369,6 +369,7 @@ Hey friend! Help me out for a couple of ☕️
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API 🔥 
 - [slidedown](https://github.com/nakajima/slidedown) - Generate syntax-highlighted slides from Markdown 👴 🚀
 - [slideshow](https://github.com/slideshow-s9/slideshow) - write your slides / talks / presentations in plain text with markdown formatting conventions 🔥 🚀
+- [snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager 🔥 ✅ 🚀
 - [stacks_tracker_app](https://github.com/MuriloRoque/stacks_tracker_app) - In this app, you are able to track which languages you already know. You can choose which ones you are currently learning and see your learning progress, based on a goal you set. 🔥 ✅
 - [social-login-in-rails](https://github.com/mohitjain/social-login-in-rails) - A small application with integrates with Devise + Twitter + Facebook + Linkedin + Google + Github. 🔥 ✅ 
 - [SocialBusinessStarter](https://github.com/lucianstroie/SocialBusinessStarter) - A KickStarter clone built with Rails and React/Redux 👴 ✅ 🚀
