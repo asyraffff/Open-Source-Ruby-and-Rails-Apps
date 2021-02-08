@@ -247,6 +247,7 @@ Hey friend! Help me out for a couple of ☕️
 - [meetsync](https://github.com/dsc-umass/meetsync) - An Application to Meet and Sync with people 🔥 ✅ 🚀
 - [membership (debtcollective)](https://github.com/debtcollective/membership) - 💰 Member dues and Donations platform 🔥 ✅ 🚀
 - [mercury](https://github.com/jejacks0n/mercury) - Mercury Editor: The Rails WYSIWYG editor that allows embedding full page editing capabilities directly inline. 🔥 ✅ 🚀
+- [mersea](https://github.com/FranckKe/mersea) - Web app to manage and visualise geolocalized waste report 🔥 ✅ 🚀
 - [Message-Medium](https://github.com/minusobjects/Message-Medium) - A storytelling platform inspired by Medium 👴 🔥 ✅
 - [miaudota](https://github.com/Davigl/miaudota) - 🐱 🐶  app that automates the pet adoption process. (rails api + react native) 🔥 ✅ 🚀
 - [Microvers-RoR-Capstone](https://github.com/Dandush03/Microvers-RoR-Capstone) - This app behaves as a Twitter-lite app. It allows users to follow and unfollow other users 🔥 🚀
