@@ -208,6 +208,7 @@ Hey friend! Help me out for a couple of ☕️
 ### J
 - [Jekyll](https://github.com/jekyll/jekyll) - 🌐 Jekyll is a blog-aware static site generator in Ruby 🔥 ✅ 🚀
 - [Jetify](https://github.com/shadeying/Jetify) - Jetify is an app that allows you to see events happening in your area and creates a playlist based on those events  🔥 ✅ 
+- [jinro](https://github.com/fshin1988/jinro_rails) - open source werewolf game application. You can play the werewolf game with chat. 🔥 🚀
 - [jumpstart](https://github.com/excid3/jumpstart) - Easily jumpstart a new Rails application with a bunch of great features by default 🔥 ✅ 🚀
 - [JustEats](https://github.com/as6730/JustEats) - Full-Stack web application that allows users to search, discover and review restaurants 🔥 ✅
 ### K
