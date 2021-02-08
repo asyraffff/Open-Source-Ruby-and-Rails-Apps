@@ -266,6 +266,7 @@ Hey friend! Help me out for a couple of ☕️
 - [Nformd](https://github.com/PSalant726/Nformd) - Nformd is a web application inspired by Medium that was built using Ruby on Rails and React.js. 🔥 ✅ 🚀
 - [notesclub](https://github.com/notesclub/notesclub) - Notes Club 🔥 🚀
 - [nsrails](https://github.com/dingbat/nsrails) - iOS/Mac OS framework for Rails 👴 ✅
+- [nu-appoinments](https://github.com/UribeNelson/nu-appointments) - simple appointments app 🔥 ✅ 🚀
 ### O
 - [Octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with <3 by GitHub 🔥 ✅ 🚀
 - [octopress](https://github.com/octopress/octopress) - Octopress is an obsessively designed toolkit for writing and deploying Jekyll blogs. Pretty sweet, huh? 👴 
