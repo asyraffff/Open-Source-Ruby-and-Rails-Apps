@@ -382,6 +382,7 @@ Hey friend! Help me out for a couple of ☕️
 - [Spree](https://github.com/spree/spree) - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! 🔥 ✅ 🚀
 - [SprintApp](https://github.com/macfanatic/SprintApp) - Project management and time tracking should be easy. SprintApp is simple to setup, simple to use, and elegant - making you look like a hero in your organization. 👴 ✅
 - [Squash](https://github.com/SquareSquash/web) - Squash is a collection of tools that help engineers find and kill bugs in their code by automatically collecting, collating and analyzing run time exceptions.  👴 ✅
+- [StackBox](https://github.com/Stack-Box/stackbox) - Create app stacks loaded with all your favourite clients, services and infra along with code boilerplates in under 5 mins. 🔥 ✅ 🚀
 - [StarDuck](https://github.com/JerChuang/StartDuck) - StartDuck is a productivity app that generates activities based on user's choice of category and input hours. 🔥 ✅ 🚀
 - [star-table](https://github.com/zw301/star-table) - ⭐ A restaurant reservation web application. Using Ruby on Rails, PostgreSQL, JavaScript/React/Redux, JSX, SCSS. 🔥 ✅ 🚀
 - [Staytus](https://github.com/adamcooke/staytus) - 💡 An open source solution for publishing the status of your services 🔥 ✅ 🚀
