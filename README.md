@@ -255,6 +255,7 @@ Hey friend! Help me out for a couple of ☕️
 - [micro-trello](https://github.com/yshmarov/micro-trello) - Trello Clone in 9 commits. Lists have many tasks. Sort lists, tasks. Move tasks between lists 🔥 ✅ 🚀
 - [middleman](https://github.com/middleman/middleman) - Middleman is a static site generator using all the shortcuts and tools in modern web development. 🔥 ✅ 🚀
 - [modern-datatables](https://github.com/guillaumebriday/modern-datatables) - They are many ways to build reactive web interfaces but do we really need to add the complexity of JavaScript frameworks like Vue.js or React? 🔥 ✅ 🚀
+- [moonboard](https://github.com/emilosman/moonboard) - A moodboard inspired by gomoodboard. Built with Rails and Vue.js. 🔥 ✅ 🚀
 - [Mr.Hood](https://github.com/BR1K/Mr.Hood) - Robinhood inspired stock-trading full stack application using Rails, PostgreSQL, React.js, and Redux 🔥 ✅ 🚀
 - [Mutant](https://github.com/mbj/mutant) - An automated code review tool, with a side effect of producing semantic code coverage metrics. 🔥 ✅ 🚀
 - [my_site_archive](https://github.com/stevepolitodesign/my_site_archive) - The simplest way to archive your website. 🔥 ✅ 🚀
