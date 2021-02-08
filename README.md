@@ -407,6 +407,7 @@ Hey friend! Help me out for a couple of ☕️
 - [ting](https://github.com/Aufree/ting) - A music social networking project written in Ruby on Rails and Semantic-UI 🔥 ✅
 - [tomatoes](https://github.com/tomatoes-app/tomatoes) - Pomodoro Technique® online time tracker 🔥 ✅ 🚀
 - [toto](https://github.com/cloudhead/toto) - the 10 second blog-engine for hackers 👴 🚀
+- [trello](https://github.com/emilosman/trello-clone) - A Trello clone made in Ruby on Rails and Vue.js 🔥 ✅ 🚀
 - [trello-clone](https://github.com/MrGrillet/trello-clone) - Project management boards with draggable lists and cards. Built with Rails and Vue.js 🔥 ✅ 
 - [tty](https://github.com/piotrmurach/tty) - Toolkit for developing sleek command line apps. 🔥 ✅ 🚀
 - [tty-box](https://github.com/piotrmurach/tty-box) - Draw various frames and boxes in your terminal window 🔥 ✅ 🚀
