@@ -2,7 +2,7 @@
 
 - find open source ruby and rails app that integrate with
 
- - [ ] Vuejs
+ - [x] Vuejs
  - [ ] Svelte
  - [ ] React Native
  - [ ] StimulusJs
