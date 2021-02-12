@@ -159,6 +159,7 @@ Hey friend! Help me out for a couple of ☕️
 - [fastlane](https://github.com/fastlane/fastlane) - The easiest way to automate building and releasing your iOS and Android apps 🔥 ✅ 🚀
 - [fatfreecrm](https://github.com/fatfreecrm/fat_free_crm) - An open source, Ruby on Rails customer relationship management (CRM) platform . 🔥 ✅ 🚀
 - [feedbin](https://github.com/feedbin/feedbin) - a simple, fast and nice looking RSS reader. 🔥 ✅ 🚀
+- [FeedBunch](https://github.com/amatriain/feedbunch) - A simple and elegant feed reader. 🔥 ✅ 🚀
 - [FinalCapstone](https://github.com/Dandush03/FinalCapstone.BackEnd) - This project is designed so you can keep your daily task like; working, sleeping, etc. and see a resume of your day. 🔥 ✅
 - [Findaloo](https://github.com/guitar71989/Findaloo) - a Yelp-inspired web application designed to help New Yorkers find free and convenient restrooms in their local neighborhoods 👴 ✅ 🚀
 - [Flipr](https://github.com/hanqingchen15/Flipr) - Full stack clone of Flickr using React/Redux and Ruby on Rails 🔥 ✅ 🚀
