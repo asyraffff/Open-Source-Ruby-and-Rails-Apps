@@ -212,6 +212,7 @@ Hey friend! Help me out for a couple of ☕️
 - [jinro](https://github.com/fshin1988/jinro_rails) - open source werewolf game application. You can play the werewolf game with chat. 🔥 🚀
 - [jumpstart](https://github.com/excid3/jumpstart) - Easily jumpstart a new Rails application with a bunch of great features by default 🔥 ✅ 🚀
 - [JustEats](https://github.com/as6730/JustEats) - Full-Stack web application that allows users to search, discover and review restaurants 🔥 ✅
+- [just-the-docs](https://github.com/pmarsceill/just-the-docs) A modern, high customizable, responsive Jekyll theme for documention with built-in search. 🔥 ✅ 🚀
 ### K
 - [kaiju](https://github.com/cerner/kaiju) - A drag and drop web editor for React components. 🔥 ✅ 🚀
 - [kails](https://github.com/embbnux/kails) - A Web App like Ruby on Rails with Koa2, Webpack and Postgres 🔥
