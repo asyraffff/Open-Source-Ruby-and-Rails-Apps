@@ -357,6 +357,7 @@ Hey friend! Help me out for a couple of ☕️
 - [Ruby-git](https://github.com/ruby-git/ruby-git) - Ruby/Git is a Ruby library that can be used to create, read and manipulate Git repositories by wrapping system calls to the git binary. 🔥 ✅ 🚀
 - [ruby-lang.org](https://github.com/ruby/www.ruby-lang.org) - Source of the https://www.ruby-lang.org website. 🔥 ✅ 🚀
 - [rubytoolbox](https://github.com/rubytoolbox/rubytoolbox) - Find actively maintained & popular open source software libraries for the Ruby programming language 🔥 ✅ 🚀
+- [rubytogether.org](https://github.com/rubytogether/rubytogether.org) - The Ruby Together website 🔥 ✅ 🚀
 - [ruco](https://github.com/grosser/ruco) - Desktop-style, Intuitive, Commandline Editor in Ruby. "Better than nano, simpler than vim." 👴 🚀
 - [Runtaoblr](https://github.com/runtao0/Runtaoblr) - A social blogging web application made with Ruby on Rails and React/Redux 👴 ✅
 ### S
