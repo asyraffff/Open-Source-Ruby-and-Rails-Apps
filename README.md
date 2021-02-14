@@ -222,6 +222,7 @@ Hey friend! Help me out for a couple of ☕️
 - [kevin.tv](https://github.com/k-2tha-brimm/kevin.tv) - A full-stack clone of the popular video game streaming service twitch.tv 🔥 ✅ 🚀
 - [kicker](https://github.com/griffinsharp/kicker) - A full-stack website clone of Kickstarter built using Ruby on Rails, PostgreSQL, React, and Redux. 🔥 ✅
 - [kitabu](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown using Ruby. Using the Prince PDF generator, you'll be able to get high quality PDFs. Also supports EPUB, Mobi, Text and HTML generation. 🔥 ✅ 🚀
+- [klmeetups](https://github.com/alienxp03/klmeetups) - Find tech events in Malaysia 🔥 
 - [kms](https://github.com/apiqcms/kms) - Simple and powerful Ruby on Rails CMS for developers 🔥
 - [Koala](https://github.com/arsduo/koala) - A lightweight Facebook library supporting the Graph, Marketing, and Atlas APIs, realtime updates, test users, and OAuth. 🔥
 - [Kontena](https://github.com/kontena/kontena) - The developer friendly container and micro services platform. Works on any cloud, easy to setup, simple to use. 🔥 ✅ 🚀
