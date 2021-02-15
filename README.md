@@ -136,6 +136,7 @@ Hey friend! Help me out for a couple of ☕️
 - [Diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network. 🔥 ✅ 🚀
 - [Discoded](https://github.com/nicolaseschneider/Discoded) - Clone of Discord 🔥 ✅ 🚀
 - [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. 🔥 ✅ 🚀
+- [Diveboard](https://github.com/Diveboard/diveboard-web) - Main Diveboard Rails app 🔥 ✅ 🚀
 - [docker-rails5-react-redux-boilerplate](https://github.com/Angelmmiguel/docker-rails5-react-redux-boilerplate) - Docker + Rails 5 API + React + Redux 👴 ✅
 - [doctors](https://github.com/carloshdelreal/doctors) - Doctor's Appointment application that is intended to showcase full-stack web development skills, particularly in Ruby on Rails and React. 🔥 ✅
 - [doesmystartupideasuck](https://github.com/yshmarov/doesmystartupideasuck) - Innovation incubation/Ideation platform. Share & discuss ideas. Vote for the best ones 🔥 ✅ 🚀
