@@ -130,6 +130,7 @@ Hey friend! Help me out for a couple of ☕️
 ### D
 - [Danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby) 🔥 ✅ 🚀
 - [dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search Engine experience you can find. 🔥 ✅ 🚀
+- [decidim](https://github.com/decidim/decidim) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails 🔥 ✅ 🚀
 - [Dependabot](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot 🔥 ✅ 🚀
 - [Devdocs](https://github.com/freeCodeCamp/devdocs) - combines multiple developer documentations in a clean and organized web UI 🔥 ✅ 🚀
 - [diakonos](https://github.com/pistos/diakonos) - Linux console text editor for the masses. 🔥
