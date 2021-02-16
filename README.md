@@ -403,6 +403,7 @@ Hey friend! Help me out for a couple of ☕️
 - [Stringer](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader. 🔥 ✅ 🚀
 - [Suspenders (thoughtbot)](https://github.com/thoughtbot/suspenders) - A Rails template with our standard defaults, ready to deploy to Heroku. 🔥 ✅ 🚀
 ### T
+- [t](https://github.com/sferik/t) - A command-line power tool for Twitter. 🔥 ✅ 🚀
 - [tag-along](https://github.com/leighhalliday/tag-along) - Real-time geo tracking using Rails, ActionCable, React, MobX, and MapBox 👴 ✅ 🚀
 - [tasky](https://github.com/dapi/tasky) - Kanban-style task manager on Ruby On Rails / React 🔥 ✅ 🚀
 - [teambox](https://github.com/redbooth/teambox) - This is the legacy version of Teambox - the award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter. 👴 ✅
