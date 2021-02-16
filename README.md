@@ -234,6 +234,7 @@ Hey friend! Help me out for a couple of ☕️
 - [lazylead](https://github.com/dgroup/lazylead) - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows automating (without admin access) daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. 🔥 ✅ 🚀
 - [Leeway](https://github.com/zamandalee/Leeway) - A Slack clone implemented using a Rails backend and React/Redux frontend framework.  🔥 ✅ 🚀
 - [libraries.io](https://github.com/librariesio/libraries.io) - 📚 The Open Source Discovery Service 🔥 ✅ 🚀
+- [linguist]*https://github.com/github/linguist) - This library is used on GitHub.com to detect blob languages, ignore binary or vendored files, suppress generated files in diffs, and generate language breakdown graphs. 🔥 ✅ 🚀
 - [Lita](https://github.com/litaio/lita) - Lita is a chat bot written in Ruby with persistent storage provided by Redis. 🔥 ✅ 🚀
 - [live-music](https://github.com/Dounx/live-music) - Web version of NetEase Cloud Music to listen to songs synchronously. 🔥 
 - [Lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion 🔥 ✅ 🚀
