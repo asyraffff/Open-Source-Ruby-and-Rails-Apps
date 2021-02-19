@@ -185,6 +185,7 @@ Hey friend! Help me out for a couple of ☕️
 - [gsrd](https://github.com/LeonardoCardoso/gsrd) - GitHub Starred Repos Downloader 🔥
 ### H
 - [Happyhours](https://github.com/DefactoSoftware/Hours) - Time registration that doesn't suck 🔥 ✅ 🚀
+- [haven](https://github.com/havenweb/haven) - Self-hostable private blogging 🔥 ✅ 🚀
 - [heaven](https://github.com/atmos/heaven) - 🚶 Rails app for GitHub Flow 👴 ✅
 - [HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs. 🔥 🚀
 - [Helpy](https://github.com/helpyio/helpy) - Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email. 🔥 ✅ 🚀
