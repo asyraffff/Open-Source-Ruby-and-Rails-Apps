@@ -147,6 +147,7 @@ Hey friend! Help me out for a couple of ☕️
 ### E
 - [eatmore](https://github.com/marckohlbrugge/eatmore) - Telegram bot that reminds you to eat more 🔥 🚀
 - [Eatry](https://github.com/dannam83/Eatery) - a website that shows restaurants and reviews of those restaurants. 🔥 ✅
+- [EBWiki](https://github.com/EBWiki/EBWiki) - repository of police abuse cases against people of color 🔥 ✅ 🚀
 - [edurge](https://github.com/yshmarov/edurge) - Most advanced Udemy clone using Ruby on Rails 5. 🔥 ✅ 🚀
 - [enigma-chat](https://github.com/jamesball27/enigma-chat) - Real-time chat app that allows you to send encrypted messages using the World War II era Enigma encryption scheme. 👴 ✅
 - [enki](https://github.com/xaviershay/enki) - A Ruby on Rails blogging app for the fashionable developer. It's better than Mephisto or SimpleLog 🔥 ✅ 🚀
