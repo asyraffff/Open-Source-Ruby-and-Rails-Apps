@@ -106,6 +106,7 @@ Hey friend! Help me out for a couple of ☕️
 - [Catarse](https://github.com/catarse/catarse) - The first open source crowdfunding platform for creative projects in the world 🔥 ✅ 🚀
 - [chess.rb](https://github.com/jamesball27/chess.rb) - Command-line based chess game for two human players, written in Ruby. 🔥
 - [Change-App](https://github.com/ZHShang/Change-App) - Round-Up App to make a change in the world! 🔥 ✅
+- [Champaign](https://github.com/SumOfUs/Champaign) - SumOfUs Online Campaign Platform. 🔥 ✅ 🚀
 - [Chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform 🔥 ✅ 🚀
 - [Chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥 ✅ 🚀
 - [Chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale 🔥 ✅ 🚀
