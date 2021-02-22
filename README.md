@@ -232,6 +232,7 @@ Hey friend! Help me out for a couple of ☕️
 - [Kontena](https://github.com/kontena/kontena) - The developer friendly container and micro services platform. Works on any cloud, easy to setup, simple to use. 🔥 ✅ 🚀
 - [Kramdown](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions. 🔥
 ### L
+- [lale-help](https://github.com/lale-help/lale-help) - A collaborative platform for volunteer refugee support. 🔥 ✅ 🚀
 - [Lamernews](https://github.com/antirez/lamernews) - Lamer news is an implementation of a Reddit / Hacker News style news web site written using Ruby, Sinatra, Redis and jQuery. 👴 🚀
 - [latercart](https://github.com/bonitac/latercart) - A chrome extension that allows the user to create aggregate wishlists while shopping on different websites such as Ikea, Amazon, Tentree and more. 🔥 🚀
 - [lazylead](https://github.com/dgroup/lazylead) - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows automating (without admin access) daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. 🔥 ✅ 🚀
