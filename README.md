@@ -467,3 +467,4 @@ Hey friend! Help me out for a couple of ☕️
 ### Z
 - [Zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system  🔥 ✅ 🚀
 - [zipsell](https://github.com/yongfook/zipsell) - A free open source platform for selling digital downloads such as ebooks 🔥 ✅ 🚀
+- [zk](https://github.com/sirupsen/zk) - 📚 Zettelkasten on the command-line 🔥 ✅ 🚀
