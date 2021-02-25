@@ -279,6 +279,7 @@ Hey friend! Help me out for a couple of ☕️
 - [nsrails](https://github.com/dingbat/nsrails) - iOS/Mac OS framework for Rails 👴 ✅
 - [nu-appoinments](https://github.com/UribeNelson/nu-appointments) - simple appointments app 🔥 ✅ 🚀
 ### O
+- [obsidian_utils](https://github.com/mm53bar/obsidian_utils) - Various scripts and utilities for `Obsidian.md` 🔥 🚀
 - [Octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with <3 by GitHub 🔥 ✅ 🚀
 - [octopress](https://github.com/octopress/octopress) - Octopress is an obsessively designed toolkit for writing and deploying Jekyll blogs. Pretty sweet, huh? 👴 
 - [Onebody](https://github.com/seven1m/onebody) - OneBody was open-source, web-based social networking, email list, online directory, and lightweight document management software for churches. 🔥 ✅
