@@ -127,6 +127,7 @@ Hey friend! Help me out for a couple of ☕️
 - [colorls](https://github.com/athityakumar/colorls) - 🎉 A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. 🔥 🚀 
 - [Crank-starter](https://github.com/yosephha/Crank-Starter) - A single-page app inspired by Kickstarter. Ruby on Rails backend, React/Redux frontend 👴 ✅ 
 - [create-react-app-with-rails-boilerplate](https://github.com/lirenyeo/create-react-app-with-rails-boilerplate) - CRA + Rails API + Devise Login + ActiveAdmin Boilerplate 🔥 🚀
+- [css-only-chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend 🔥 ✅ 🚀
 
 ### D
 - [Danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby) 🔥 ✅ 🚀
