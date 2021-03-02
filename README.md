@@ -213,6 +213,7 @@ Hey friend! Help me out for a couple of ☕️
 - [intelilex](https://github.com/yshmarov/intelilex) - Website with contact form 🔥
 - [invoice_printer](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing 🔥 ✅ 🚀
 - [issuehub.io](https://github.com/despo/issuehub.io) - Find open source issues to work on! 🔥 ✅ 🚀
+- [iStats](https://github.com/Chris911/iStats) - Ruby gem for your mac stats 👴 🚀
 ### J
 - [Jekyll](https://github.com/jekyll/jekyll) - 🌐 Jekyll is a blog-aware static site generator in Ruby 🔥 ✅ 🚀
 - [Jetify](https://github.com/shadeying/Jetify) - Jetify is an app that allows you to see events happening in your area and creates a playlist based on those events  🔥 ✅ 
