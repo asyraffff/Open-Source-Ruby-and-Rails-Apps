@@ -311,6 +311,7 @@ Hey friend! Help me out for a couple of ☕️
 - [Postal](https://github.com/postalhq/postal) - 📨  A fully featured open source mail delivery platform for incoming & outgoing e-mail 🔥 ✅ 🚀
 - [property_web_builder](https://github.com/etewiah/property_web_builder) - ⛺ The ultimate Ruby on Rails engine for creating real estate websites 🔥 ✅ 🚀
 - [Publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails. 🔥 ✅
+- [pull-request-roulette](https://github.com/davearonson/pull-request-roulette) - Site to match up developers with people willing to comment on their pull requests 👴 🚀
 - [puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application 🔥 ✅ 🚀
 - [push_type](https://github.com/pushtype/push_type) - PushType is a modern, open source content management system for Ruby on Rails. 🔥 
 - [pwa-demo](https://github.com/dmcd/pwa-demo) - Progressive Web App Demo using Rails and React 🔥 ✅ 🚀
