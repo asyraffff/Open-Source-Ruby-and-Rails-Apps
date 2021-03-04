@@ -147,6 +147,7 @@ Hey friend! Help me out for a couple of ☕️
 - [drgCMS](https://github.com/drgcms/drg-cms) - Content management system for Ruby, Rails and MongoDB 🔥 ✅
 - [Dryrun](https://github.com/cesarferreira/dryrun) - Try any android library hosted online directly from the command line 🔥 🚀
 ### E
+- [earthquake-croatia](https://github.com/vlado/earthquake-croatia) - Code for app hosted on https://potres.herokuapp.com used for helping people in need during the earthquake crisis in Croatia 🔥 🚀
 - [eatmore](https://github.com/marckohlbrugge/eatmore) - Telegram bot that reminds you to eat more 🔥 🚀
 - [Eatry](https://github.com/dannam83/Eatery) - a website that shows restaurants and reviews of those restaurants. 🔥 ✅
 - [EBWiki](https://github.com/EBWiki/EBWiki) - repository of police abuse cases against people of color 🔥 ✅ 🚀
