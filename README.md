@@ -393,7 +393,6 @@ Hey friend! Help me out for a couple of ☕️
 - [slideshow](https://github.com/slideshow-s9/slideshow) - write your slides / talks / presentations in plain text with markdown formatting conventions 🔥 🚀
 - [snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager 🔥 ✅ 🚀
 - [snippet_app](https://github.com/SnippetSafe/snippet_app) - A social code snippet sharing app that allows you to create, file and share code snippets with anyone. 🔥 ✅ 🚀
-- [stacks_tracker_app](https://github.com/MuriloRoque/stacks_tracker_app) - In this app, you are able to track which languages you already know. You can choose which ones you are currently learning and see your learning progress, based on a goal you set. 🔥 ✅
 - [social-login-in-rails](https://github.com/mohitjain/social-login-in-rails) - A small application with integrates with Devise + Twitter + Facebook + Linkedin + Google + Github. 🔥 ✅ 
 - [SocialBusinessStarter](https://github.com/lucianstroie/SocialBusinessStarter) - A KickStarter clone built with Rails and React/Redux 👴 ✅ 🚀
 - [socify](https://github.com/scaffeinate/socify) - Socify is an open source social networking platform written in Ruby on Rails 👴 ✅ 🚀
@@ -404,6 +403,8 @@ Hey friend! Help me out for a couple of ☕️
 - [SprintApp](https://github.com/macfanatic/SprintApp) - Project management and time tracking should be easy. SprintApp is simple to setup, simple to use, and elegant - making you look like a hero in your organization. 👴 ✅
 - [Squash](https://github.com/SquareSquash/web) - Squash is a collection of tools that help engineers find and kill bugs in their code by automatically collecting, collating and analyzing run time exceptions.  👴 ✅
 - [StackBox](https://github.com/Stack-Box/stackbox) - Create app stacks loaded with all your favourite clients, services and infra along with code boilerplates in under 5 mins. 🔥 ✅ 🚀
+- [stacks_tracker_app](https://github.com/MuriloRoque/stacks_tracker_app) - In this app, you are able to track which languages you already know. You can choose which ones you are currently learning and see your learning progress, based on a goal you set. 🔥 ✅
+- [StandardNotes](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.org 🔥 ✅ 🚀
 - [StarDuck](https://github.com/JerChuang/StartDuck) - StartDuck is a productivity app that generates activities based on user's choice of category and input hours. 🔥 ✅ 🚀
 - [star-table](https://github.com/zw301/star-table) - ⭐ A restaurant reservation web application. Using Ruby on Rails, PostgreSQL, JavaScript/React/Redux, JSX, SCSS. 🔥 ✅ 🚀
 - [Staytus](https://github.com/adamcooke/staytus) - 💡 An open source solution for publishing the status of your services 🔥 ✅ 🚀
