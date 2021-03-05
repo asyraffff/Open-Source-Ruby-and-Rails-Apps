@@ -201,6 +201,7 @@ Hey friend! Help me out for a couple of ☕️
 - [hotwire-site](https://github.com/hotwired/hotwire-site) - hotwire.dev web site 🔥 🚀
 - [Hound](https://github.com/houndci/hound) - Automated code review for GitHub pull requests. 🔥 ✅ 🚀
 - [Hugin](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf. Your agents are standing by! 🔥 ✅ 🚀
+- [Hypercable](https://github.com/HyperCable/hypercable) - Hypercable Analytics is a fully featured high performance scalable alternative to Google Analytics, build with timescaledb openresty redis and rails. 🔥 ✅ 🚀
 - [hypernova_apollo_rails](https://github.com/bessey/hypernova_apollo_rails) - Example of React + Apollo + Hypernova + Rails + Webpacker 🔥
 - [HyperLearn](https://github.com/wilsontheory/HyperLearn) - Web app inspired by BrainScape flashcard studying platform to demonstrate React.js + Rails 🔥 ✅ 🚀
 ### I
