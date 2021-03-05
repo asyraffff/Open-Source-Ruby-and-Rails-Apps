@@ -194,6 +194,7 @@ Hey friend! Help me out for a couple of ☕️
 - [heaven](https://github.com/atmos/heaven) - 🚶 Rails app for GitHub Flow 👴 ✅
 - [HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs. 🔥 🚀
 - [Helpy](https://github.com/helpyio/helpy) - Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email. 🔥 ✅ 🚀
+- [highlights](https://github.com/tobi/highlights) - download your kindle highlights and email random ones to your inbox 🔥 ✅ 🚀
 - [Homebrew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) 🔥 ✅ 🚀
 - [Homeland](https://github.com/ruby-china/homeland) - 🎪 An open source forum/community system based on Rails, developed based on Ruby China. 🔥 ✅ 🚀
 - [hotwire-rails](https://github.com/hotwired/hotwire-rails) - Use Hotwire in your Ruby on Rails app 🔥 ✅ 🚀
