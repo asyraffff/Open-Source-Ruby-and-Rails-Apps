@@ -68,7 +68,6 @@ Hey friend! Help me out for a couple of ☕️
 - [24pullrequests](https://github.com/24pullrequests/24pullrequests) - 🎄 Giving back to open source for the holidays
 
 ### A
-
 - [abilitysheet](https://github.com/8398a7/abilitysheet) - This app is ability sheet for beatmania iidx music of level 12 🔥
 - [accounts-react-rails-jsx](https://github.com/rrunyon/accounts-react-rails-jsx) - React/Rails demo application (https://github.com/fervisa/accounts-react-rails/tree/master) converted to JSX 🔥
 - [acebook](https://github.com/vorpus/acebook) - Acebook is a clone of Facebook featuring profiles from professional poker players. 👴 ✅ 🚀
@@ -93,6 +92,7 @@ Hey friend! Help me out for a couple of ☕️
 - [bill-process](https://github.com/anastassia-b/bill-process) - Fullstack bill processing app-- enables various account types to collaborate on bill actions before it is sent to a customer. Rails, PostgreSQL, React/Redux 🔥
 - [branston](https://github.com/futurechimp/branston) - An agile user story tracker that generates gherkin files and step definitions for use with the cucumber testing framework. 👴
 - [BrowserCMS](https://github.com/browsermedia/browsercms) -  Humane Content Management for Rails 👴
+- [BugTracker](https://github.com/Dino-SaaS/BugTracker) - open-source bug tracking app 🔥 👴 ✅
 - [BvY_Chess](https://github.com/minusobjects/BvY_Chess) - Terminal chess game, built in Ruby. 👴 🔥
 ### C
 
