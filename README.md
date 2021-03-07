@@ -354,6 +354,7 @@ Hey friend! Help me out for a couple of ☕️
 - [react-shopify-app](https://github.com/sureswiftcapital/react-shopify-app) - A React/Rails Shopify base app maintained by Plug in SEO 🔥
 - [React-Takser-App](https://github.com/ekatsuta/React-Tasker-App) - Simple task tracking application using React.js and Ruby on Rails 🔥
 - [react_rails_event_scheduler](https://github.com/AndresFMoya/react-rails_event_scheduler) - This project consist of building a mobile web app for an Events Scheduler using Rails API as backend, and ReactJS as frontend. 🔥 ✅ 🚀
+- [real-world-rails](https://github.com/eliotsykes/real-world-rails) - Real World Rails applications and their open source codebases for developers to learn from 🔥 ✅ 🚀
 - [reru_scrum](https://github.com/joshrendek/reru_scrum) - Open source rails scrum tool 👴 
 - [reveal-ck](https://github.com/jedcn/reveal-ck) - Create slides with ruby (and usually in markdown) 🔥 🚀
 - [rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. 🔥 ✅ 🚀
