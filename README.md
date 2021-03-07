@@ -469,6 +469,7 @@ Hey friend! Help me out for a couple of ☕️
 - [wiigo](https://github.com/spacether/wiigo) - A 'Meetup' clone made with Ruby on Rails and React/Redux. 👴 ✅ 🚀
 - [Whatweb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner 🔥 ✅ 🚀
 - [Whenevernote](https://github.com/tylerreichle/Whenevernote) - Full-stack web application inspired by Evernote built using React/Redux and Ruby on Rails with PostgreSQL 👴 ✅ 🚀
+- [whitehall](https://github.com/alphagov/whitehall) - a Ruby on Rails content management application for content published by government departments and agencies. 🔥 ✅ 🚀
 - [Wordmove](https://github.com/welaika/wordmove) - Multi-stage command line deploy/mirroring and task runner for Wordpress 🔥 ✅ 🚀
 ### X
 - [Xcodeproj](https://github.com/CocoaPods/Xcodeproj) - Create and modify Xcode projects from Ruby. 🔥 ✅ 🚀
