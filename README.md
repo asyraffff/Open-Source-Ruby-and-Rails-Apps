@@ -385,6 +385,7 @@ Hey friend! Help me out for a couple of ☕️
 - [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem. 🔥 ✅ 🚀
 - [Sharetribe](https://github.com/sharetribe/sharetribe) - Sharetribe Go is a source available marketplace software, also available as a hosted, no-code SaaS product. 🔥 ✅ 🚀
 - [sheepsafe](https://github.com/nicksieger/sheepsafe) - Sheepsafe is a small utility to keep you safe from FireSheep! It's a tool for mobile geeks. 👴 🚀
+- [ShinyCMS](https://github.com/denny/ShinyCMS-ruby) - ShinyCMS is an open-source CMS built in Ruby on Rails, with support for themes, plugins, and cloud hosting. 🔥 ✅ 🚀
 - [showoff](https://github.com/puppetlabs/showoff) - Don't just present; interact with your audience! 🔥 ✅ 🚀
 - [shoes4](https://github.com/shoes/shoes4) - Shoes is a little DSL for cross-platform (Mac, Windows, and Linux) GUI programming. 🔥 🚀
 - [shopify_app](https://github.com/Shopify/shopify_app) - A Rails Engine for building Shopify Apps 🔥 ✅ 🚀
