@@ -125,6 +125,7 @@ Hey friend! Help me out for a couple of ☕️
 - [Choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project 🔥 ✅ 🚀
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods) - CocoaPods manages dependencies for your Xcode projects. 🔥 ✅ 🚀
 - [colorls](https://github.com/athityakumar/colorls) - 🎉 A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. 🔥 🚀 
+- [connector](https://github.com/AndyObtiva/connector) - A minimalist open-source multi-engine web browser built in Ruby with Glimmer DSL for SWT 🔥 🚀
 - [Crank-starter](https://github.com/yosephha/Crank-Starter) - A single-page app inspired by Kickstarter. Ruby on Rails backend, React/Redux frontend 👴 ✅ 
 - [create-react-app-with-rails-boilerplate](https://github.com/lirenyeo/create-react-app-with-rails-boilerplate) - CRA + Rails API + Devise Login + ActiveAdmin Boilerplate 🔥 🚀
 - [css-only-chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend 🔥 ✅ 🚀
