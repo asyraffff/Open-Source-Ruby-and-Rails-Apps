@@ -435,6 +435,7 @@ Hey friend! Help me out for a couple of ☕️
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) - Main Website for The Odin Project 🔥 ✅ 🚀
 - [ThinkPiece](https://github.com/Gabriel-Lewis/ThinkPiece) - A blogging website inspired by Medium 👴 ✅ 🚀
 - [thredded](https://github.com/thredded/thredded) - The best Rails forums engine ever. 🔥 ✅ 🚀
+- [til](https://github.com/magma-labs/til) - Today I Learned MagmaLab's Server Implementation 🔥 🚀
 - [timeoverflow](https://github.com/coopdevs/timeoverflow) - 🏦 ⌛ A time banking system 🔥 ✅ 🚀
 - [ting](https://github.com/Aufree/ting) - A music social networking project written in Ruby on Rails and Semantic-UI 🔥 ✅
 - [tomatoes](https://github.com/tomatoes-app/tomatoes) - Pomodoro Technique® online time tracker 🔥 ✅ 🚀
