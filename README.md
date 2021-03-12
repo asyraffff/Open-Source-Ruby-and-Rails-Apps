@@ -137,6 +137,7 @@ Hey friend! Help me out for a couple of ☕️
 - [decidim](https://github.com/decidim/decidim) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails 🔥 ✅ 🚀
 - [Dependabot](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot 🔥 ✅ 🚀
 - [Devdocs](https://github.com/freeCodeCamp/devdocs) - combines multiple developer documentations in a clean and organized web UI 🔥 ✅ 🚀
+- [developer_news_cli_app](https://github.com/anthonygharvey/developer_news_cli_app) - A Ruby CLI app that scrapes article information from FreeCodeCamp, HackerNoon, Codeburst and A List Apart. 🔥 🚀
 - [diakonos](https://github.com/pistos/diakonos) - Linux console text editor for the masses. 🔥
 - [Diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network. 🔥 ✅ 🚀
 - [Discoded](https://github.com/nicolaseschneider/Discoded) - Clone of Discord 🔥 ✅ 🚀
