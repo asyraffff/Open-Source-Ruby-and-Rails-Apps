@@ -309,15 +309,16 @@ Hey friend! Help me out for a couple of ☕️
 - [palindrome_app](https://github.com/mhartl/palindrome_app) - A palindrome detector Sinatra App 🔥
 - [PandaNote](https://github.com/imahungrypanda/PandaNote) - PandaNote is an Evernote clone that uses a Rails backend with a React frontend 👴 ✅ 🚀
 - [pastel](https://github.com/piotrmurach/pastel) - 🌈 Terminal output styling with intuitive and clean API. 🔥 🚀
+- [past.codesa](https://github.com/gjtorikian/past.codes) - Remember the repositories you starred on GitHub 🔥 ✅ 🚀
 - [pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres 🔥 ✅ 🚀
 - [picco_blog](https://github.com/acentro/picco_blog) - PiccoBlog is a simple Ruby on Rails markdown blog engine 🔥 
-- [publiclab](https://github.com/publiclab/plots2) - a collaborative knowledge-exchange platform in Rails 🔥 ✅
+- [plylst](https://github.com/Shpigford/plylst) - Smart playlists for Spotify! Stop relying on fancy pants algorithms to organize your library and instead build playlists the way you want. 🔥 🚀
 - [Poemist](https://github.com/tracykm/Poemist) - A web application for creating and sharing found poems. 🔥 ✅ 🚀
 - [portfolio](https://github.com/tsurupin/portfolio) - A blog and Portfolio CMS built with Rails, React, Redux, Material-UI, CSS Modules. 👴 🚀
 - [PorkChop](https://github.com/PorkChopClub/porkchop) - A ping pong scoreboard and stat-tracking application. 🔥
 - [Postal](https://github.com/postalhq/postal) - 📨  A fully featured open source mail delivery platform for incoming & outgoing e-mail 🔥 ✅ 🚀
-- [past.codesa](https://github.com/gjtorikian/past.codes) - Remember the repositories you starred on GitHub 🔥 ✅ 🚀
 - [property_web_builder](https://github.com/etewiah/property_web_builder) - ⛺ The ultimate Ruby on Rails engine for creating real estate websites 🔥 ✅ 🚀
+- [publiclab](https://github.com/publiclab/plots2) - a collaborative knowledge-exchange platform in Rails 🔥 ✅
 - [Publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails. 🔥 ✅
 - [pull-request-roulette](https://github.com/davearonson/pull-request-roulette) - Site to match up developers with people willing to comment on their pull requests 👴 🚀
 - [puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application 🔥 ✅ 🚀
