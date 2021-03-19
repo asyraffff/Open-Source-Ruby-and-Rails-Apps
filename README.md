@@ -369,6 +369,7 @@ Hey friend! Help me out for a couple of ☕️
 - [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - A graphql, relay and standard rails application powered demo weblog. 👴 ✅
 - [retrospectiva](https://github.com/dim/retrospectiva) - Open source, web-based agile project management, featuring: Goal planner, Story management, Issue-tracker, Code review, SCM Integration, Wiki & Blog. 👴 ✅
 - [RN-Rock-Paper-Scissors](https://github.com/ShivamJoker/RN-Rock-Paper-Scissors) - Simple Rock Paper Scissors Game Made in React Native runs on Android, iOS, Web, MacOS, Windows 🔥 ✅ 🚀
+- [rockburg](https://github.com/Rockburg/rockburg) - Rockburg is a music industry simulation game. 🤘 🔥 ✅ 🚀
 - [ror_ecommerce](https://github.com/drhenner/ror_ecommerce) - Ruby on Rails Ecommerce platform, perfect for your small business solution. 🔥 ✅ 🚀
 - [ruber](https://github.com/stcrocco/ruber) - An IDE for Ruby written in Ruby using KDE 👴 ✅ 🚀
 - [ruby2d](https://github.com/ruby2d/ruby2d) - 🎮 The Ruby 2D gem 🔥 🚀
