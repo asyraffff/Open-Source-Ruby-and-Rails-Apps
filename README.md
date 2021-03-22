@@ -428,6 +428,7 @@ Hey friend! Help me out for a couple of ☕️
 - [Storytime](https://github.com/CultivateLabs/storytime) - Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. 🔥 ✅
 - [Stringer](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader. 🔥 ✅ 🚀
 - [super-imap](https://github.com/rustyio/super-imap) - SuperIMAP - Monitor inboxes for incoming email, at scale. 👴 ✅
+- [support-your-local-businesses](https://github.com/mikejahn/support-your-local-businesses) - A web application to support supporting your local businesses online 🔥 ✅ 🚀
 - [Suspenders (thoughtbot)](https://github.com/thoughtbot/suspenders) - A Rails template with our standard defaults, ready to deploy to Heroku. 🔥 ✅ 🚀
 ### T
 - [t](https://github.com/sferik/t) - A command-line power tool for Twitter. 🔥 ✅ 🚀
