@@ -248,6 +248,7 @@ Hey friend! Help me out for a couple of ☕️
 - [Lamernews](https://github.com/antirez/lamernews) - Lamer news is an implementation of a Reddit / Hacker News style news web site written using Ruby, Sinatra, Redis and jQuery. 👴 🚀
 - [latercart](https://github.com/bonitac/latercart) - A chrome extension that allows the user to create aggregate wishlists while shopping on different websites such as Ikea, Amazon, Tentree and more. 🔥 🚀
 - [lazylead](https://github.com/dgroup/lazylead) - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows automating (without admin access) daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. 🔥 ✅ 🚀
+- [learnawesome.org](https://github.com/learn-awesome/learn) - A social network of lifelong learners built around humanity's universal learning map.
 - [Leeway](https://github.com/zamandalee/Leeway) - A Slack clone implemented using a Rails backend and React/Redux frontend framework.  🔥 ✅ 🚀
 - [libraries.io](https://github.com/librariesio/libraries.io) - 📚 The Open Source Discovery Service 🔥 ✅ 🚀
 - [linguist]*https://github.com/github/linguist) - This library is used on GitHub.com to detect blob languages, ignore binary or vendored files, suppress generated files in diffs, and generate language breakdown graphs. 🔥 ✅ 🚀
