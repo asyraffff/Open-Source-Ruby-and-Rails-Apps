@@ -399,6 +399,7 @@ Hey friend! Help me out for a couple of ☕️
 - [showoff](https://github.com/puppetlabs/showoff) - Don't just present; interact with your audience! 🔥 ✅ 🚀
 - [shoes4](https://github.com/shoes/shoes4) - Shoes is a little DSL for cross-platform (Mac, Windows, and Linux) GUI programming. 🔥 🚀
 - [shopify_app](https://github.com/Shopify/shopify_app) - A Rails Engine for building Shopify Apps 🔥 ✅ 🚀
+- [shopify-app-starter-kit](https://github.com/ASoftCo/shopify-app-starter-kit) - Shopify app starter kit written in Ruby on Rails w/ appropriate tools to get your Shopify app up and running quickly 🚀
 - [Sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby 🔥 ✅ 🚀
 - [simple_discussion](https://github.com/excid3/simple_discussion) - A simple, extensible Rails forum 🔥 ✅ 🚀
 - [simple_review_app](https://github.com/ChrisBr/simple_review_app) - A simple way to create review apps for your open pull requests 🔥 🚀
