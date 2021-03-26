@@ -302,6 +302,7 @@ Hey friend! Help me out for a couple of ☕️
 - [open-flights](https://github.com/zayneio/open-flights) - A flight reviews app built with Ruby on Rails and React.js 🔥 ✅ 🚀
 - [OpenProject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. 🔥 ✅ 🚀
 - [open-source-billing](https://github.com/vteams/open-source-billing) - Open Source Billing a super simple way to create and send invoices and receive payments online. 🔥 ✅ 🚀
+- [opensourcefriday](https://github.com/github/opensourcefriday) - 🚲 Contribute to the open source community every Friday 🔥 🚀
 - [openstreetmap](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap 🔥 ✅ 🚀
 - [orientation](https://github.com/orientation/orientation) - Your best weapon in the fight against outdated documentation. 🔥 ✅ 🚀
 - [osem](https://github.com/openSUSE/osem) - Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences. 🔥 ✅ 🚀
