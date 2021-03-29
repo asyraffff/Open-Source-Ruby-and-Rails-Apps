@@ -185,6 +185,7 @@ Hey friend! Help me out for a couple of ☕️
 ### G
 - [genius](https://github.com/samblyon/genius) - So-Genius, a lyrics-annotation and discussion site using React.js, Rails and PostgresQL 👴 ✅
 - [GetOut](https://github.com/tylerreichle/GetOut) - React Native App to meet and chat with nearby people who share similar interests 🔥 ✅ 🚀
+- [github-awards](https://github.com/vdaubry/github-awards) - Discover your ranking on github 🔥 🚀
 - [Gitlab](https://github.com/gitlabhq/gitlabhq) - The canonical source of GitLab where all development takes place is hosted on GitLab.com. 🔥 ✅ 🚀
 - [git_time_extractor](https://github.com/rietta/git_time_extractor) - Analyzes Git repository commit logs to compute developer working hours, weekly activity, and to detect death marches in software development. 👴 ✅
 - [gitreflow](https://github.com/reenhanced/gitreflow) - Reflow automatically creates pull requests, ensures the code review is approved, and squash merges finished branches to master with a great commit message template. 🔥 ✅ 🚀
