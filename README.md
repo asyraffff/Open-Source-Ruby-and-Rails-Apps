@@ -428,6 +428,7 @@ Hey friend! Help me out for a couple of ☕️
 - [StandardNotes](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.org 🔥 ✅ 🚀
 - [StarDuck](https://github.com/JerChuang/StartDuck) - StartDuck is a productivity app that generates activities based on user's choice of category and input hours. 🔥 ✅ 🚀
 - [star-table](https://github.com/zw301/star-table) - ⭐ A restaurant reservation web application. Using Ruby on Rails, PostgreSQL, JavaScript/React/Redux, JSX, SCSS. 🔥 ✅ 🚀
+- [startup-time](https://github.com/chocolateboy/startup-time) - A command-line benchmarking tool to measure the startup times of programs in various languages 🔥 🚀
 - [Staytus](https://github.com/adamcooke/staytus) - 💡 An open source solution for publishing the status of your services 🔥 ✅ 🚀
 - [stealth](https://github.com/hellostealth/stealth) - 🤖 An open source Ruby framework for text and voice chatbots. 🔥 ✅ 🚀
 - [stickers.win](https://github.com/learnetto/stickers.win) - An online store built with React and Rails 👴 ✅
