@@ -508,6 +508,7 @@ Hey friend! Help me out for a couple of ☕️
  - [canvas-lms)](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc. 🔥 ✅ 🚀
  - [pupilfirst](https://github.com/pupilfirst/pupilfirst) - A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interaction. 🔥 ✅ 🚀
  - [mumuki-laboratory](https://github.com/mumuki/mumuki-laboratory) - 🔬 Where students practice and receive automated and human feedback 🔥 ✅ 🚀
+ - [fedena](https://github.com/projectfedena/fedena) - open source school management system based on Ruby on Rails. 🔥 ✅ 🚀
  - [lepo](https://github.com/lepo-project/lepo) - Learning Management System with Note & Sticky 🔥 🚀
  - [edctn](https://github.com/mikeoleynik/edctn) - 📖 Open-source LMS. A teacher should be a rockstar. 🔥 🚀
  - [CascadeLMS](https://github.com/mikehelmick/CascadeLMS) - Cascade Learning Management System 👴 ✅ 🚀
