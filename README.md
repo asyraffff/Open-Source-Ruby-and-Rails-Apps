@@ -90,6 +90,7 @@ Hey friend! Help me out for a couple of ☕️
 - [black_candy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server 🔥 ✅ 🚀
 - [bluedoc](https://github.com/huacnlee/bluedoc) - An open-source document management tool for enterprise self host. 🔥 ✅ 🚀
 - [bonsai](https://github.com/benschwarz/bonsai) - A tiny static web site generator 👴 🚀
+- [Books-app](https://github.com/Temmarie/Books-app) - app that allows you to register books you've read and group them based on their genres. 🔥 🚀
 - [bill-process](https://github.com/anastassia-b/bill-process) - Fullstack bill processing app-- enables various account types to collaborate on bill actions before it is sent to a customer. Rails, PostgreSQL, React/Redux 🔥
 - [branston](https://github.com/futurechimp/branston) - An agile user story tracker that generates gherkin files and step definitions for use with the cucumber testing framework. 👴
 - [BrowserCMS](https://github.com/browsermedia/browsercms) -  Humane Content Management for Rails 👴
