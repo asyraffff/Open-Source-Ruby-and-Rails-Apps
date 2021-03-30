@@ -504,6 +504,9 @@ Hey friend! Help me out for a couple of ☕️
 
 ---
 
+# Email
+  - [lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats. 👴 ✅ 🚀
+
 # LMS
  - [canvas-lms)](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc. 🔥 ✅ 🚀
  - [pupilfirst](https://github.com/pupilfirst/pupilfirst) - A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interaction. 🔥 ✅ 🚀
