@@ -512,6 +512,9 @@ Hey friend! Help me out for a couple of ☕️
   - newsletter
     - [newsletter](https://github.com/rilian/newsletter) - This project aims to streamline delivery of quality IT reading/watching resources to curious developers 🔥 🚀
 
+# Human Resources (HR)
+  - [hrms](https://github.com/rilian/hrms) - Advanced HR management system. Manage company Employees (profiles, vacations, attachments, notes, notifications) and Candidates (vacancies, HR status funnel) 🔥 ✅ 🚀
+
 # LMS
  - [canvas-lms)](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc. 🔥 ✅ 🚀
  - [pupilfirst](https://github.com/pupilfirst/pupilfirst) - A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interaction. 🔥 ✅ 🚀
