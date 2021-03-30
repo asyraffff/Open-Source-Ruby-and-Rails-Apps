@@ -513,6 +513,7 @@ Hey friend! Help me out for a couple of ☕️
     - [newsletter](https://github.com/rilian/newsletter) - This project aims to streamline delivery of quality IT reading/watching resources to curious developers 🔥 🚀
     - [iReach](https://github.com/LoneStarInternet/newsletter) - A Ruby on Rails email newsletter template design and wysiwyg editor. 🔥 ✅ 🚀
     - [TechNewsletter](https://github.com/thyrlian/TechNewsletter) - The engineering way of composing a responsive design newsletter email in markup language 🔥 🚀
+    - [trello_newsletter](https://github.com/code-newbies/trello_newsletter) - Newsletter using Trello boards 👴 🚀
   - command line
     - [rumble](https://github.com/yegor256/rumble) - Command Line Tool to Send Newsletters 🔥 🚀
 
