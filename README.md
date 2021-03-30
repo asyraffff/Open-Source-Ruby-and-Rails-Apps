@@ -520,5 +520,8 @@ Hey friend! Help me out for a couple of ☕️
  - [CascadeLMS](https://github.com/mikehelmick/CascadeLMS) - Cascade Learning Management System 👴 ✅ 🚀
  - [grasp](https://github.com/graspapp/grasp) - an open-source LMS for Common Core classrooms. 👴 ✅ 🚀
 
+# Music
+ - [MailTape](https://github.com/MailTape/MailTape.github.io) - Feed your inspiration with music, every Sunday morning. 🔥 ✅ 🚀
+
 # Tools
  - [RESTular](https://github.com/georgewambold/RESTular) - Easy to understand RESTful routing for Sinatra / Ruby on Rails app
