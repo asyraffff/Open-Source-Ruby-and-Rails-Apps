@@ -511,6 +511,7 @@ Hey friend! Help me out for a couple of ☕️
   - [lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats. 👴 ✅ 🚀
   - newsletter
     - [newsletter](https://github.com/rilian/newsletter) - This project aims to streamline delivery of quality IT reading/watching resources to curious developers 🔥 🚀
+    - [iReach](https://github.com/LoneStarInternet/newsletter) - A Ruby on Rails email newsletter template design and wysiwyg editor. 🔥 ✅ 🚀
 
 # Human Resources (HR)
   - [hrms](https://github.com/rilian/hrms) - Advanced HR management system. Manage company Employees (profiles, vacations, attachments, notes, notifications) and Candidates (vacancies, HR status funnel) 🔥 ✅ 🚀
