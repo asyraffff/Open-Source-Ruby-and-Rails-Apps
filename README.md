@@ -504,6 +504,9 @@ Hey friend! Help me out for a couple of ☕️
 
 ---
 
+# Blogging
+  - [listed](https://github.com/standardnotes/listed) - Create an online publication with automatic email newsletters 🔥 ✅ 🚀
+
 # Email
   - [lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats. 👴 ✅ 🚀
 
