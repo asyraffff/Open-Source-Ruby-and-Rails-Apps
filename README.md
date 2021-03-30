@@ -512,6 +512,8 @@ Hey friend! Help me out for a couple of ☕️
   - newsletter
     - [newsletter](https://github.com/rilian/newsletter) - This project aims to streamline delivery of quality IT reading/watching resources to curious developers 🔥 🚀
     - [iReach](https://github.com/LoneStarInternet/newsletter) - A Ruby on Rails email newsletter template design and wysiwyg editor. 🔥 ✅ 🚀
+  - command line
+    - [rumble](https://github.com/yegor256/rumble) - Command Line Tool to Send Newsletters 🔥 🚀
 
 # Human Resources (HR)
   - [hrms](https://github.com/rilian/hrms) - Advanced HR management system. Manage company Employees (profiles, vacations, attachments, notes, notifications) and Candidates (vacancies, HR status funnel) 🔥 ✅ 🚀
