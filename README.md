@@ -32,40 +32,10 @@ Hey friend! Help me out for a couple of ☕️
 > **note**: Rails versions of these apps are valid as the date of latest commit. They are defined in their Gemfile and/or Gemfile.lock and they might be outdated. If you see some old project, don't worry cuz the structure of file are same , just some syntax tweak.
 
 > **perfect combination**: 🔥 ✅ 🚀
-## Contents
-- [@123](#123)
-- [A](#a)
-- [B](#b)
-- [C](#c)
-- [D](#d)
-- [E](#e)
-- [F](#f)
-- [G](#g)
-- [H](#h)
-- [I](#i)
-- [J](#j)
-- [K](#k)
-- [L](#l)
-- [M](#m)
-- [N](#n)
-- [O](#o)
-- [P](#p)
-- [Q](#q)
-- [R](#r)
-- [S](#s)
-- [T](#t)
-- [U](#u)
-- [V](#v)
-- [W](#w)
-- [X](#x)
-- [Y](#y)
-- [Z](#z)
+
+---
 
 ## Applications
-
-### @123
-
-- [24pullrequests](https://github.com/24pullrequests/24pullrequests) - 🎄 Giving back to open source for the holidays
 
 ### A
 - [abilitysheet](https://github.com/8398a7/abilitysheet) - This app is ability sheet for beatmania iidx music of level 12 🔥
@@ -492,24 +462,21 @@ Hey friend! Help me out for a couple of ☕️
 - [Whatweb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner 🔥 ✅ 🚀
 - [Whenevernote](https://github.com/tylerreichle/Whenevernote) - Full-stack web application inspired by Evernote built using React/Redux and Ruby on Rails with PostgreSQL 👴 ✅ 🚀
 - [whitehall](https://github.com/alphagov/whitehall) - a Ruby on Rails content management application for content published by government departments and agencies. 🔥 ✅ 🚀
-- [Wordmove](https://github.com/welaika/wordmove) - Multi-stage command line deploy/mirroring and task runner for Wordpress 🔥 ✅ 🚀
-### X
-- [Xcodeproj](https://github.com/CocoaPods/Xcodeproj) - Create and modify Xcode projects from Ruby. 🔥 ✅ 🚀
-### Y
-- [yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for "Yay!" 🔥 ✅ 🚀
-### Z
-- [Zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system  🔥 ✅ 🚀
-- [zipsell](https://github.com/yongfook/zipsell) - A free open source platform for selling digital downloads such as ebooks 🔥 ✅ 🚀
-- [zk](https://github.com/sirupsen/zk) - 📚 Zettelkasten on the command-line 🔥 ✅ 🚀
 
 ---
 
 # Blogging
   - [listed](https://github.com/standardnotes/listed) - Create an online publication with automatic email newsletters 🔥 ✅ 🚀
 
+# Customer Support
+  - [Zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system  🔥 ✅ 🚀
+
+# Documentation
+  - [yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for "Yay!" 🔥 ✅ 🚀
+
 # Email
   - [lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats. 👴 ✅ 🚀
-  - newsletter
+  - **newsletter**
     - [newsletter](https://github.com/rilian/newsletter) - This project aims to streamline delivery of quality IT reading/watching resources to curious developers 🔥 🚀
     - [iReach](https://github.com/LoneStarInternet/newsletter) - A Ruby on Rails email newsletter template design and wysiwyg editor. 🔥 ✅ 🚀
     - [TechNewsletter](https://github.com/thyrlian/TechNewsletter) - The engineering way of composing a responsive design newsletter email in markup language 🔥 🚀
@@ -517,6 +484,9 @@ Hey friend! Help me out for a couple of ☕️
     - [trello_newsletter](https://github.com/code-newbies/trello_newsletter) - Newsletter using Trello boards 👴 🚀
   - command line
     - [rumble](https://github.com/yegor256/rumble) - Command Line Tool to Send Newsletters 🔥 🚀
+
+# Open Source
+  - [24pullrequests](https://github.com/24pullrequests/24pullrequests) - 🎄 Giving back to open source for the holidays
 
 # Human Resources (HR)
   - [hrms](https://github.com/rilian/hrms) - Advanced HR management system. Manage company Employees (profiles, vacations, attachments, notes, notifications) and Candidates (vacancies, HR status funnel) 🔥 ✅ 🚀
@@ -534,8 +504,20 @@ Hey friend! Help me out for a couple of ☕️
 # Music
  - [MailTape](https://github.com/MailTape/MailTape.github.io) - Feed your inspiration with music, every Sunday morning. 🔥 ✅ 🚀
 
+# Platform
+ - [zipsell](https://github.com/yongfook/zipsell) - A free open source platform for selling digital downloads such as ebooks 🔥 ✅ 🚀
+
 # Tools
  - [RESTular](https://github.com/georgewambold/RESTular) - Easy to understand RESTful routing for Sinatra / Ruby on Rails app
 
+# XCode
+ - [Xcodeproj](https://github.com/CocoaPods/Xcodeproj) - Create and modify Xcode projects from Ruby. 🔥 ✅ 🚀
+
+# Wordpress
+ - [Wordmove](https://github.com/welaika/wordmove) - Multi-stage command line deploy/mirroring and task runner for Wordpress 🔥 ✅ 🚀
+
 # Writing
  - [writings.io](https://github.com/chloerei/writings) - Source code of writings.io. 🔥 🚀
+ - **zettlekasten**
+   - [zk](https://github.com/sirupsen/zk) - 📚 Zettelkasten on the command-line 🔥 ✅ 🚀
+
