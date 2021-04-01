@@ -255,130 +255,57 @@ Hey friend! Help me out for a couple of ☕️
 - [Mutant](https://github.com/mbj/mutant) - An automated code review tool, with a side effect of producing semantic code coverage metrics. 🔥 ✅ 🚀
 - [my_site_archive](https://github.com/stevepolitodesign/my_site_archive) - The simplest way to archive your website. 🔥 ✅ 🚀
 ### N
-- [Nanoc](https://github.com/nanoc/nanoc) - A powerful web publishing system 🔥 ✅ 🚀
-- [nestaCMS](https://github.com/gma/nesta) - A lightweight CMS, implemented in Sinatra. 🔥
-- [next-right-now](https://github.com/UnlyEd/next-right-now) - Flexible production-grade boilerplate with Next.js 10, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, Internationalization, CI/CD and SaaS B2B multi single-tenancy (monorepo) support 🔥 🚀
-- [Nformd](https://github.com/PSalant726/Nformd) - Nformd is a web application inspired by Medium that was built using Ruby on Rails and React.js. 🔥 ✅ 🚀
-- [notesclub](https://github.com/notesclub/notesclub) - Notes Club 🔥 🚀
-- [nsrails](https://github.com/dingbat/nsrails) - iOS/Mac OS framework for Rails 👴 ✅
-- [nu-appoinments](https://github.com/UribeNelson/nu-appointments) - simple appointments app 🔥 ✅ 🚀
-### O
-- [obsidian_utils](https://github.com/mm53bar/obsidian_utils) - Various scripts and utilities for `Obsidian.md` 🔥 🚀
-- [Octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with <3 by GitHub 🔥 ✅ 🚀
-- [octopress](https://github.com/octopress/octopress) - Octopress is an obsessively designed toolkit for writing and deploying Jekyll blogs. Pretty sweet, huh? 👴 
-- [Onebody](https://github.com/seven1m/onebody) - OneBody was open-source, web-based social networking, email list, online directory, and lightweight document management software for churches. 🔥 ✅
-- [Octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications 🔥 ✅ 🚀
-- [on_ruby](https://github.com/phoet/on_ruby) - 💎 🛤 Whitelabel Site for Ruby Communities 🔥 ✅ 🚀
-- [open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs 🔥
-- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything! 🔥 ✅ 🚀
-- [Openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce 🔥 ✅ 🚀
-- [open-flights](https://github.com/zayneio/open-flights) - A flight reviews app built with Ruby on Rails and React.js 🔥 ✅ 🚀
-- [OpenProject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. 🔥 ✅ 🚀
-- [open-source-billing](https://github.com/vteams/open-source-billing) - Open Source Billing a super simple way to create and send invoices and receive payments online. 🔥 ✅ 🚀
-- [opensourcefriday](https://github.com/github/opensourcefriday) - 🚲 Contribute to the open source community every Friday 🔥 🚀
-- [openstreetmap](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap 🔥 ✅ 🚀
-- [orientation](https://github.com/orientation/orientation) - Your best weapon in the fight against outdated documentation. 🔥 ✅ 🚀
-- [osem](https://github.com/openSUSE/osem) - Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences. 🔥 ✅ 🚀
-- [oupsnow](https://github.com/shingara/oupsnow) - A Bug tracker multi project, simply, but completed like bug tracking. 👴 🚀
-- [overwatch-team-comps](https://github.com/cheshire137/overwatch-team-comps) - Plan your Overwatch team composition per map. Share your team comp with others. 👴 🚀
-### P
-- [pageflow](https://github.com/codevise/pageflow) - Multimedia story telling for the web.  🔥 ✅ 🚀
-- [palindrome_app](https://github.com/mhartl/palindrome_app) - A palindrome detector Sinatra App 🔥
-- [PandaNote](https://github.com/imahungrypanda/PandaNote) - PandaNote is an Evernote clone that uses a Rails backend with a React frontend 👴 ✅ 🚀
-- [pastel](https://github.com/piotrmurach/pastel) - 🌈 Terminal output styling with intuitive and clean API. 🔥 🚀
-- [past.codesa](https://github.com/gjtorikian/past.codes) - Remember the repositories you starred on GitHub 🔥 ✅ 🚀
-- [pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres 🔥 ✅ 🚀
-- [picco_blog](https://github.com/acentro/picco_blog) - PiccoBlog is a simple Ruby on Rails markdown blog engine 🔥 
-- [plylst](https://github.com/Shpigford/plylst) - Smart playlists for Spotify! Stop relying on fancy pants algorithms to organize your library and instead build playlists the way you want. 🔥 🚀
-- [Poemist](https://github.com/tracykm/Poemist) - A web application for creating and sharing found poems. 🔥 ✅ 🚀
-- [portfolio](https://github.com/tsurupin/portfolio) - A blog and Portfolio CMS built with Rails, React, Redux, Material-UI, CSS Modules. 👴 🚀
-- [PorkChop](https://github.com/PorkChopClub/porkchop) - A ping pong scoreboard and stat-tracking application. 🔥
-- [Postal](https://github.com/postalhq/postal) - 📨  A fully featured open source mail delivery platform for incoming & outgoing e-mail 🔥 ✅ 🚀
-- [property_web_builder](https://github.com/etewiah/property_web_builder) - ⛺ The ultimate Ruby on Rails engine for creating real estate websites 🔥 ✅ 🚀
-- [publiclab](https://github.com/publiclab/plots2) - a collaborative knowledge-exchange platform in Rails 🔥 ✅
-- [Publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails. 🔥 ✅
-- [pull-request-roulette](https://github.com/davearonson/pull-request-roulette) - Site to match up developers with people willing to comment on their pull requests 👴 🚀
-- [puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application 🔥 ✅ 🚀
-- [push_type](https://github.com/pushtype/push_type) - PushType is a modern, open source content management system for Ruby on Rails. 🔥 
-- [pwa-demo](https://github.com/dmcd/pwa-demo) - Progressive Web App Demo using Rails and React 🔥 ✅ 🚀
-### Q
-- [quora](https://github.com/huacnlee/quora) - Quora clone write in Ruby on Rails. 👴 ✅ 
-- [Quickstarter](https://github.com/loralee90/Quickstarter) - A single-page app inspired by Kickstarter that lets you start and fund projects. 🔥 ✅ 🚀
-- [quick_search](https://github.com/gevuong/quick_search) - A responsive (phone, tablet, desktop) full stack web application that allows user to quick filter a list of campgrounds using National Park Service's open public API to pull campground-related data. 🔥
-### R
-- [rabel](https://github.com/daqing/rabel) - An open-source web forum built on the Ruby on Rails framework. 🔥 ✅
-- [rabbit](https://github.com/rabbit-shocker/rabbit) - A programmable presentation tool by Ruby. 🔥 ✅ 🚀
-- [raidantCMS](https://github.com/radiant/radiant) - Radiant is a no-fluff, open source content management system designed for small teams. 🔥 🚀
-- [railscasts](https://github.com/ryanb/railscasts) - This is the source code for the RailsCasts site. 🔥 ✅ 🚀
-- [railsCRM](https://github.com/brobertsaz/railscrm) - Ruby on Rails CRM for lead tracking made with MongoDB, Twitter Bootstrap and Devise. 👴 ✅
-- [Rails-API-React-Tutorial](https://github.com/johncorderox/Rails-API-React-Tutorial) - 📱 A Rails 5 API backend React JS Frontend Guide. Learn API setup, serializers, react fetch calls, and app setup. 🔥 🚀
-- [rails-composer](https://github.com/RailsApps/rails-composer) - An application template that creates starter applications for Rails. 🔥
-- [rails_panel](https://github.com/dejan/rails_panel) - Chrome/Firefox extension for Rails development 🔥 🚀
-- [rails-template (mattbrictson)](https://github.com/mattbrictson/rails-template) - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity. 🔥
-- [rails-template (dao42)](https://github.com/dao42/rails-template) - A best & newest & fastest rails 6.x template for senior rails developer. 🔥
-- [rails-templates (lewagon)](https://github.com/lewagon/rails-templates) - Jump start your Rails development with Le Wagon best practices 🔥
-- [rails-react-boilerplate](https://github.com/giannisp/rails-react-boilerplate) - Ruby on Rails, React, Webpack 4 boilerplate app. 🔥
-- [rails-react-example](https://github.com/stevepolitodesign/rails-react-example) - An example application built with Rails and React 🔥
-- [Rails-React-DTA-Template](https://github.com/GunnarPDX/Rails-React-DTA-Template) - 💎 React on Rails with devise_token_auth -> Starter App 🔥
-- [rails5_api_tutorial](https://github.com/vasilakisfil/rails5_api_tutorial) - Learn how to build a modern API on Michael Hartl's Rails 5 tutorial 🔥
-- [rails-react-typescript-docker-example](https://github.com/ohbarye/rails-react-typescript-docker-example) - An example app built on Ruby on Rails 6.1 + React.js 17 + TypeScript 4.1 + Docker Compose 🔥 🚀
-- [rails_react_graphql_docker_boilerplate](https://github.com/K-Sato1995/Rails_React_GraphQL_Docker_Boilerplate) - 🤡 Rails + React + GraphQL + Docker 🔥
-- [react_on_rails_tutorial_with_ssr_and_hmr_fast_refresh](https://github.com/shakacode/react_on_rails_tutorial_with_ssr_and_hmr_fast_refresh) - react_on_rails tutorial demonstrating SSR, HMR fast refresh, and Typescript based on the rails/webpacker webpack setup 🔥
-- [rainbow](https://github.com/sickill/rainbow) - Ruby gem for colorizing printed text on ANSI terminals 🔥
-- [reactchat](https://github.com/learnetto/reactchat) - A chat app built with React.js and ActionCable in Ruby on Rails 5.1 👴 ✅
-- [reactfit](https://github.com/learnetto/reactfit) - A fitness dashboard app built using Rails 5.1 and React.js 👴 ✅
-- [react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial) - Example of integration of Rails, react, redux, using the react_on_rails gem, webpack, enabling the es7 and jsx transpilers, and node integration. And React Native!  🔥 🚀
-- [react-rails-example-app](https://github.com/BookOfGreg/react-rails-example-app) - Minimal basic demonstration React-Rails sample application using Webpacker 🔥
-- [react_rails_starter_app](https://github.com/atomicjolt/react_rails_starter_app) - React with Rails using Webpack 🔥
-- [react-rails-boilerplate](https://github.com/NimaBoscarino/react-rails-boilerplate) - ⚛︎ ❤️ 💎 A React + Rails boilerplate to help you get the best of both worlds 🔥
-- [react-rails-crud-app](https://github.com/jameshibbard/react-rails-crud-app) - A simple CRUD app built with React, Rails and the Webpacker gem 🔥
-- [react-rails-hmr](https://github.com/edelgado/react-rails-hmr) - Demo of a Rails app that uses the `react-rails` gem, and the `react-hot-reloader` module to enable hot module reloading. 🔥
-- [react-shopify-app](https://github.com/sureswiftcapital/react-shopify-app) - A React/Rails Shopify base app maintained by Plug in SEO 🔥
-- [React-Takser-App](https://github.com/ekatsuta/React-Tasker-App) - Simple task tracking application using React.js and Ruby on Rails 🔥
-- [react_rails_event_scheduler](https://github.com/AndresFMoya/react-rails_event_scheduler) - This project consist of building a mobile web app for an Events Scheduler using Rails API as backend, and ReactJS as frontend. 🔥 ✅ 🚀
-- [real-world-rails](https://github.com/eliotsykes/real-world-rails) - Real World Rails applications and their open source codebases for developers to learn from 🔥 ✅ 🚀
-- [reru_scrum](https://github.com/joshrendek/reru_scrum) - Open source rails scrum tool 👴 
-- [reveal-ck](https://github.com/jedcn/reveal-ck) - Create slides with ruby (and usually in markdown) 🔥 🚀
-- [rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. 🔥 ✅ 🚀
-- [redcar](https://github.com/danlucraft/redcar) - A cross-platform programmer's editor written in Ruby. 👴 ✅
-- [Redmine](https://github.com/edavis10/redmine) - Redmine is a flexible project management web application written using Ruby on Rails framework. 🔥 ✅ 🚀
-- [real-world-rails](https://github.com/eliotsykes/real-world-rails) - Real World Rails applications and their open source codebases for developers to learn from 🔥 ✅ 🚀
-- [refinerycms](https://github.com/refinery/refinerycms) - An extendable Ruby on Rails CMS that supports Rails 6.0+ 🔥 ✅
-- [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - A graphql, relay and standard rails application powered demo weblog. 👴 ✅
-- [retrospectiva](https://github.com/dim/retrospectiva) - Open source, web-based agile project management, featuring: Goal planner, Story management, Issue-tracker, Code review, SCM Integration, Wiki & Blog. 👴 ✅
-- [RN-Rock-Paper-Scissors](https://github.com/ShivamJoker/RN-Rock-Paper-Scissors) - Simple Rock Paper Scissors Game Made in React Native runs on Android, iOS, Web, MacOS, Windows 🔥 ✅ 🚀
-- [roam](https://github.com/sofiajonsson/roam) - Rails Travel App
-- [rockburg](https://github.com/Rockburg/rockburg) - Rockburg is a music industry simulation game. 🤘 🔥 ✅ 🚀
-- [ror_ecommerce](https://github.com/drhenner/ror_ecommerce) - Ruby on Rails Ecommerce platform, perfect for your small business solution. 🔥 ✅ 🚀
-- [ruber](https://github.com/stcrocco/ruber) - An IDE for Ruby written in Ruby using KDE 👴 ✅ 🚀
-- [ruby2d](https://github.com/ruby2d/ruby2d) - 🎮 The Ruby 2D gem 🔥 🚀
-- [Ruby-Meetup-Calender](https://github.com/MikeRogers0/Ruby-Meetup-Calendar) - List all the current Ruby Meetups 🔥 ✅ 🚀
-- [Ruby-Starter-Kits](https://github.com/Ruby-Starter-Kits/) - Starter kits to help you get up and running with Ruby quickly. 🔥 🚀
-- [Rubygems](https://github.com/rubygems/rubygems) - Library packaging and distribution for Ruby. 🔥 ✅ 🚀
-- [rubydoc.info](https://github.com/docmeta/rubydoc.info) - Next generation rdoc.info site 🔥 ✅ 🚀
-- [ruby_ethereum_example](https://github.com/marekkirejczyk/ruby_ethereum_example) - Example rails application using ethereum.rb 👴 🚀
-
 
 ---
 
 # Background Job
 - [Sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby 🔥 ✅ 🚀
 
+# Blockchain
+  - **ethereum**
+    - [ruby_ethereum_example](https://github.com/marekkirejczyk/ruby_ethereum_example) - Example rails application using ethereum.rb 👴 🚀
+
 # Blogging
 - [listed](https://github.com/standardnotes/listed) - Create an online publication with automatic email newsletters 🔥 ✅ 🚀
 - [til](https://github.com/magma-labs/til) - Today I Learned MagmaLab's Server Implementation 🔥 🚀
+- [Publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails. 🔥 ✅
+- [Nanoc](https://github.com/nanoc/nanoc) - A powerful web publishing system 🔥 ✅ 🚀
+- [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - A graphql, relay and standard rails application powered demo weblog. 👴 ✅
 - [Runtaoblr](https://github.com/runtao0/Runtaoblr) - A social blogging web application made with Ruby on Rails and React/Redux 👴 ✅
 - [toto](https://github.com/cloudhead/toto) - the 10 second blog-engine for hackers 👴 🚀
+- [portfolio](https://github.com/tsurupin/portfolio) - A blog and Portfolio CMS built with Rails, React, Redux, Material-UI, CSS Modules. 👴 🚀
+- [octopress](https://github.com/octopress/octopress) - Octopress is an obsessively designed toolkit for writing and deploying Jekyll blogs. Pretty sweet, huh? 👴 
   - **CMS**
     - [Storytime](https://github.com/CultivateLabs/storytime) - Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. 🔥 ✅
+  - **Engine**
+    - [picco_blog](https://github.com/acentro/picco_blog) - PiccoBlog is a simple Ruby on Rails markdown blog engine 🔥 
 
 # Boilerplate/Template
 - [StackBox](https://github.com/Stack-Box/stackbox) - Create app stacks loaded with all your favourite clients, services and infra along with code boilerplates in under 5 mins. 🔥 ✅ 🚀
   - **Rails**
     - [Suspenders (thoughtbot)](https://github.com/thoughtbot/suspenders) - A Rails template with our standard defaults, ready to deploy to Heroku. 🔥 ✅ 🚀
+    - [rails-template (mattbrictson)](https://github.com/mattbrictson/rails-template) - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity. 🔥
+    - [rails-template (dao42)](https://github.com/dao42/rails-template) - A best & newest & fastest rails 6.x template for senior rails developer. 🔥
+    - [rails-templates (lewagon)](https://github.com/lewagon/rails-templates) - Jump start your Rails development with Le Wagon best practices 🔥
+    - [rails-composer](https://github.com/RailsApps/rails-composer) - An application template that creates starter applications for Rails. 🔥
+  - **React + Rails**
+    - [react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial) - Example of integration of Rails, react, redux, using the react_on_rails gem, webpack, enabling the es7 and jsx transpilers, and node integration. And React Native!  🔥 🚀
+    - [react-rails-example-app](https://github.com/BookOfGreg/react-rails-example-app) - Minimal basic demonstration React-Rails sample application using Webpacker 🔥
+    - [react_rails_starter_app](https://github.com/atomicjolt/react_rails_starter_app) - React with Rails using Webpack 🔥
+    - [react-rails-boilerplate](https://github.com/NimaBoscarino/react-rails-boilerplate) - ⚛︎ ❤️ 💎 A React + Rails boilerplate to help you get the best of both worlds 🔥
+    - [rails-react-typescript-docker-example](https://github.com/ohbarye/rails-react-typescript-docker-example) - An example app built on Ruby on Rails 6.1 + React.js 17 + TypeScript 4.1 + Docker Compose 🔥 🚀
+    - [rails_react_graphql_docker_boilerplate](https://github.com/K-Sato1995/Rails_React_GraphQL_Docker_Boilerplate) - 🤡 Rails + React + GraphQL + Docker 🔥
+    - [react_on_rails_tutorial_with_ssr_and_hmr_fast_refresh](https://github.com/shakacode/react_on_rails_tutorial_with_ssr_and_hmr_fast_refresh) - react_on_rails tutorial demonstrating SSR, HMR fast refresh, and Typescript based on the rails/webpacker webpack setup 🔥
+    - [rails-react-boilerplate](https://github.com/giannisp/rails-react-boilerplate) - Ruby on Rails, React, Webpack 4 boilerplate app. 🔥
+    - [rails-react-example](https://github.com/stevepolitodesign/rails-react-example) - An example application built with Rails and React 🔥
+    - [Rails-React-DTA-Template](https://github.com/GunnarPDX/Rails-React-DTA-Template) - 💎 React on Rails with devise_token_auth -> Starter App 🔥
+    - [Rails-API-React-Tutorial](https://github.com/johncorderox/Rails-API-React-Tutorial) - 📱 A Rails 5 API backend React JS Frontend Guide. Learn API setup, serializers, react fetch calls, and app setup. 🔥 🚀
+    - [next-right-now](https://github.com/UnlyEd/next-right-now) - Flexible production-grade boilerplate with Next.js 10, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, Internationalization, CI/CD and SaaS B2B multi single-tenancy (monorepo) support 🔥 🚀
+
 
 # Bugs
 - [Squash](https://github.com/SquareSquash/web) - Squash is a collection of tools that help engineers find and kill bugs in their code by automatically collecting, collating and analyzing run time exceptions.  👴 ✅
+- [oupsnow](https://github.com/shingara/oupsnow) - A Bug tracker multi project, simply, but completed like bug tracking. 👴 🚀
 
 # Chatbots
 - [stealth](https://github.com/hellostealth/stealth) - 🤖 An open source Ruby framework for text and voice chatbots. 🔥 ✅ 🚀
@@ -387,32 +314,46 @@ Hey friend! Help me out for a couple of ☕️
 - [weby](https://github.com/cercomp/weby) - A simple, flexible and extensible CMS in Ruby on Rails 🔥 ✅
 - [SpinaCMS](https://github.com/SpinaCMS/Spina) - Spina CMS is an easy to use CMS that features a clean interface without distractions. 🔥 ✅ 🚀
 - [ShinyCMS](https://github.com/denny/ShinyCMS-ruby) - ShinyCMS is an open-source CMS built in Ruby on Rails, with support for themes, plugins, and cloud hosting. 🔥 ✅ 🚀
+- [RefineryCMS](https://github.com/refinery/refinerycms) - An extendable Ruby on Rails CMS that supports Rails 6.0+ 🔥 ✅
+- [raidantCMS](https://github.com/radiant/radiant) - Radiant is a no-fluff, open source content management system designed for small teams. 🔥 🚀
+- [push_type](https://github.com/pushtype/push_type) - PushType is a modern, open source content management system for Ruby on Rails. 🔥 
+- [nestaCMS](https://github.com/gma/nesta) - A lightweight CMS, implemented in Sinatra. 🔥
 - [whitehall](https://github.com/alphagov/whitehall) - a Ruby on Rails content management application for content published by government departments and agencies. 🔥 ✅ 🚀
 - [Storytime](https://github.com/CultivateLabs/storytime) - Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. 🔥 ✅
 - [sitepress](https://github.com/sitepress/sitepress) - Sitepress is a file-backed website content manager that can be embedded in popular web frameworks like Rails, run stand-alone, or be compiled into static sites. Its useful for marketing pages or small websites that you need to deploy within your web frameworks. 🔥
 
 # Customer Support
 - [Zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system  🔥 ✅ 🚀
+- [railsCRM](https://github.com/brobertsaz/railscrm) - Ruby on Rails CRM for lead tracking made with MongoDB, Twitter Bootstrap and Devise. 👴 ✅
 
 # DevOp
 - [Vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments. 🔥 ✅ 🚀
 - [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem. 🔥 ✅ 🚀
+- [puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application 🔥 ✅ 🚀
+- [open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs 🔥
   - **DigitalOcean**
     - [Tugboat](https://github.com/petems/tugboat) - A command line tool for interacting with your DigitalOcean droplets. 🔥 ✅ 🚀
 
+# Database
+- [pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres 🔥 ✅ 🚀
+
 # Documentation
 - [yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for "Yay!" 🔥 ✅ 🚀
+- [rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. 🔥 ✅ 🚀
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API 🔥 
+- [orientation](https://github.com/orientation/orientation) - Your best weapon in the fight against outdated documentation. 🔥 ✅ 🚀
 
 # Ecommerce/Marketplace
 - [Spree](https://github.com/spree/spree) - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! 🔥 ✅ 🚀
 - [Solidus](https://github.com/solidusio/solidus) - 🛒 Solidus, Rails eCommerce System 🔥 ✅ 🚀
+- [ror_ecommerce](https://github.com/drhenner/ror_ecommerce) - Ruby on Rails Ecommerce platform, perfect for your small business solution. 🔥 ✅ 🚀
   - **App**
     - [stickers.win](https://github.com/learnetto/stickers.win) - An online store built with React and Rails 👴 ✅
   - **Marketplace**
     - [Sharetribe](https://github.com/sharetribe/sharetribe) - Sharetribe Go is a source available marketplace software, also available as a hosted, no-code SaaS product. 🔥 ✅ 🚀
 
 # Email
+- [Postal](https://github.com/postalhq/postal) - 📨  A fully featured open source mail delivery platform for incoming & outgoing e-mail 🔥 ✅ 🚀
 - [lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats. 👴 ✅ 🚀
   - **newsletter**
     - [newsletter](https://github.com/rilian/newsletter) - This project aims to streamline delivery of quality IT reading/watching resources to curious developers 🔥 🚀
@@ -425,21 +366,39 @@ Hey friend! Help me out for a couple of ☕️
 
 # Forum/Discussion
 - [simple_discussion](https://github.com/excid3/simple_discussion) - A simple, extensible Rails forum 🔥 ✅ 🚀
+- [rabel](https://github.com/daqing/rabel) - An open-source web forum built on the Ruby on Rails framework. 🔥 ✅
   - **Engine** 
     - [thredded](https://github.com/thredded/thredded) - The best Rails forums engine ever. 🔥 ✅ 🚀
+
+# Games
+- [ruby2d](https://github.com/ruby2d/ruby2d) - 🎮 The Ruby 2D gem 🔥 🚀
+- [RN-Rock-Paper-Scissors](https://github.com/ShivamJoker/RN-Rock-Paper-Scissors) - Simple Rock Paper Scissors Game Made in React Native runs on Android, iOS, Web, MacOS, Windows 🔥 ✅ 🚀
+- [PorkChop](https://github.com/PorkChopClub/porkchop) - A ping pong scoreboard and stat-tracking application. 🔥
+- [overwatch-team-comps](https://github.com/cheshire137/overwatch-team-comps) - Plan your Overwatch team composition per map. Share your team comp with others. 👴 🚀
 
 # GUI
 - [shoes4](https://github.com/shoes/shoes4) - Shoes is a little DSL for cross-platform (Mac, Windows, and Linux) GUI programming. 🔥 🚀
 
-# Open Source
+# Open Source/Github
 - [24pullrequests](https://github.com/24pullrequests/24pullrequests) - 🎄 Giving back to open source for the holidays 🔥 ✅ 🚀
 - [simple_review_app](https://github.com/ChrisBr/simple_review_app) - A simple way to create review apps for your open pull requests 🔥 🚀
+- [past.codesa](https://github.com/gjtorikian/past.codes) - Remember the repositories you starred on GitHub 🔥 ✅ 🚀
+- [opensourcefriday](https://github.com/github/opensourcefriday) - 🚲 Contribute to the open source community every Friday 🔥 🚀
+- [Octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications 🔥 ✅ 🚀
+- [pull-request-roulette](https://github.com/davearonson/pull-request-roulette) - Site to match up developers with people willing to comment on their pull requests 👴 🚀
 
 # Human Resources (HR)
 - [hrms](https://github.com/rilian/hrms) - Advanced HR management system. Manage company Employees (profiles, vacations, attachments, notes, notifications) and Candidates (vacancies, HR status funnel) 🔥 ✅ 🚀
 
 # I18N
 - [translation-server](https://github.com/blueberryapps/translation-server) - Stores translations with location and screenshot. Enable users to easily edit translations and then any rails/react application can use them. 🔥 ✅ 🚀
+
+# Icons
+- [Octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with <3 by GitHub 🔥 ✅ 🚀
+
+# IDE
+- [ruber](https://github.com/stcrocco/ruber) - An IDE for Ruby written in Ruby using KDE 👴 ✅ 🚀
+- [redcar](https://github.com/danlucraft/redcar) - A cross-platform programmer's editor written in Ruby. 👴 ✅
 
 # LMS
 - [canvas-lms)](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc. 🔥 ✅ 🚀
@@ -451,23 +410,40 @@ Hey friend! Help me out for a couple of ☕️
 - [CascadeLMS](https://github.com/mikehelmick/CascadeLMS) - Cascade Learning Management System 👴 ✅ 🚀
 - [grasp](https://github.com/graspapp/grasp) - an open-source LMS for Common Core classrooms. 👴 ✅ 🚀
 
+# Mobile/Desktop App
+- [nsrails](https://github.com/dingbat/nsrails) - iOS/Mac OS framework for Rails 👴 ✅
+- [pwa-demo](https://github.com/dmcd/pwa-demo) - Progressive Web App Demo using Rails and React 🔥 ✅ 🚀
+
 # Music
 - [MailTape](https://github.com/MailTape/MailTape.github.io) - Feed your inspiration with music, every Sunday morning. 🔥 ✅ 🚀
 - [uke](https://github.com/janlelis/uke) - 🎶  Ukulele CLI Support 🔥
+- [rockburg](https://github.com/Rockburg/rockburg) - Rockburg is a music industry simulation game. 🤘 🔥 ✅ 🚀
+- [plylst](https://github.com/Shpigford/plylst) - Smart playlists for Spotify! Stop relying on fancy pants algorithms to organize your library and instead build playlists the way you want. 🔥 🚀
 
 # Notes
 - [StandardNotes](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.org 🔥 ✅ 🚀
+- [notesclub](https://github.com/notesclub/notesclub) - Notes Club 🔥 🚀
+
+# Payment/Billing
+- [open-source-billing](https://github.com/vteams/open-source-billing) - Open Source Billing a super simple way to create and send invoices and receive payments online. 🔥 ✅ 🚀
 
 # Platform
 - [zipsell](https://github.com/yongfook/zipsell) - A free open source platform for selling digital downloads such as ebooks 🔥 ✅ 🚀
 
 # Presentation
- - [slidedown](https://github.com/nakajima/slidedown) - Generate syntax-highlighted slides from Markdown 👴 🚀
- - [slideshow](https://github.com/slideshow-s9/slideshow) - write your slides / talks / presentations in plain text with markdown formatting conventions 🔥 🚀
- - [showoff](https://github.com/puppetlabs/showoff) - Don't just present; interact with your audience! 🔥 ✅ 🚀
+- [slideshow](https://github.com/slideshow-s9/slideshow) - write your slides / talks / presentations in plain text with markdown formatting conventions 🔥 🚀
+- [showoff](https://github.com/puppetlabs/showoff) - Don't just present; interact with your audience! 🔥 ✅ 🚀
+- [reveal-ck](https://github.com/jedcn/reveal-ck) - Create slides with ruby (and usually in markdown) 🔥 🚀
+- [rabbit](https://github.com/rabbit-shocker/rabbit) - A programmable presentation tool by Ruby. 🔥 ✅ 🚀
+- [slidedown](https://github.com/nakajima/slidedown) - Generate syntax-highlighted slides from Markdown 👴 🚀
 
 # Project Management
+- [Redmine](https://github.com/edavis10/redmine) - Redmine is a flexible project management web application written using Ruby on Rails framework. 🔥 ✅ 🚀
+- [OpenProject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. 🔥 ✅ 🚀
+- [React-Takser-App](https://github.com/ekatsuta/React-Tasker-App) - Simple task tracking application using React.js and Ruby on Rails 🔥
 - [SprintApp](https://github.com/macfanatic/SprintApp) - Project management and time tracking should be easy. SprintApp is simple to setup, simple to use, and elegant - making you look like a hero in your organization. 👴 ✅
+- [retrospectiva](https://github.com/dim/retrospectiva) - Open source, web-based agile project management, featuring: Goal planner, Story management, Issue-tracker, Code review, SCM Integration, Wiki & Blog. 👴 ✅
+- [reru_scrum](https://github.com/joshrendek/reru_scrum) - Open source rails scrum tool 👴 
 
 # Ruby and Rails
 - [rubytogether.org](https://github.com/rubytogether/rubytogether.org) - The Ruby Together website 🔥 ✅ 🚀
@@ -475,6 +451,12 @@ Hey friend! Help me out for a couple of ☕️
 - [ruby-lang.org](https://github.com/ruby/www.ruby-lang.org) - Source of the https://www.ruby-lang.org website. 🔥 ✅ 🚀
 - [ruby-conferences.github.io](https://github.com/ruby-conferences/ruby-conferences.github.io) - A simple list of Ruby conferences 🔥 🚀
 - [rubytoolbox](https://github.com/rubytoolbox/rubytoolbox) - Find actively maintained & popular open source software libraries for the Ruby programming language 🔥 ✅ 🚀
+- [Ruby-Starter-Kits](https://github.com/Ruby-Starter-Kits/) - Starter kits to help you get up and running with Ruby quickly. 🔥 🚀
+- [Rubygems](https://github.com/rubygems/rubygems) - Library packaging and distribution for Ruby. 🔥 ✅ 🚀
+- [rubydoc.info](https://github.com/docmeta/rubydoc.info) - Next generation rdoc.info site 🔥 ✅ 🚀
+- [Ruby-Meetup-Calender](https://github.com/MikeRogers0/Ruby-Meetup-Calendar) - List all the current Ruby Meetups 🔥 ✅ 🚀
+- [on_ruby](https://github.com/phoet/on_ruby) - 💎 🛤 Whitelabel Site for Ruby Communities 🔥 ✅ 🚀
+- [rails_panel](https://github.com/dejan/rails_panel) - Chrome/Firefox extension for Rails development 🔥 🚀
   - **Auth**
     - [social-login-in-rails](https://github.com/mohitjain/social-login-in-rails) - A small application with integrates with Devise + Twitter + Facebook + Linkedin + Google + Github. 🔥 ✅ 
 
@@ -491,37 +473,61 @@ Hey friend! Help me out for a couple of ☕️
 # Shopify
 - [shopify_app](https://github.com/Shopify/shopify_app) - A Rails Engine for building Shopify Apps 🔥 ✅ 🚀
 - [shopify-app-starter-kit](https://github.com/ASoftCo/shopify-app-starter-kit) - Shopify app starter kit written in Ruby on Rails w/ appropriate tools to get your Shopify app up and running quickly 🚀
+- [react-shopify-app](https://github.com/sureswiftcapital/react-shopify-app) - A React/Rails Shopify base app maintained by Plug in SEO 🔥
 
 # Slack
 - [slack-bot-on-rails](https://github.com/slack-ruby/slack-bot-on-rails) - A Rails + React application with a slack bot. 🔥 ✅ 🚀
 
 # Startup
- - **AllRecipes**
-   - [SomeRecipes](https://github.com/joycechau/SomeRecipes) - Full-stack single-page application inspired by AllRecipes built on Ruby on Rails, React, and Redux 🔥 ✅ 🚀
- - **Evernote**
-   - [Whenevernote](https://github.com/tylerreichle/Whenevernote) - Full-stack web application inspired by Evernote built using React/Redux and Ruby on Rails with PostgreSQL 👴 ✅ 🚀
- - **KickStarter**
-   - [SocialBusinessStarter](https://github.com/lucianstroie/SocialBusinessStarter) - A KickStarter clone built with Rails and React/Redux 👴 ✅ 🚀
- - **Medium**
-   - [ThinkPiece](https://github.com/Gabriel-Lewis/ThinkPiece) - A blogging website inspired by Medium 👴 ✅ 🚀
- - **MeetUp**
-   - [wiigo](https://github.com/spacether/wiigo) - A 'Meetup' clone made with Ruby on Rails and React/Redux. 👴 ✅ 🚀
- - **Trello**
-   - [trello](https://github.com/emilosman/trello-clone) - A Trello clone made in Ruby on Rails and Vue.js 🔥 ✅ 🚀
-   - [trello-clone](https://github.com/MrGrillet/trello-clone) - Project management boards with draggable lists and cards. Built with Rails and Vue.js 🔥 ✅
-   - [tasky](https://github.com/dapi/tasky) - Kanban-style task manager on Ruby On Rails / React 🔥 ✅ 🚀 
- - **Youtube**
-   - [WatchTube](https://github.com/DanielLChang/WatchTube) - A video-streaming and sharing single-page web app based on YouTube, built using Ruby on Rails and React/Redux 👴 ✅ 🚀
-   - [watchpoll](https://github.com/petevdp/watchpoll) - Watch a youtube playlist with others, and vote on the next video to be played democratically! 🔥 ✅ 🚀
+- [openstreetmap](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap 🔥 ✅ 🚀
+- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything! 🔥 ✅ 🚀
+- [Openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce 🔥 ✅ 🚀
+   - **AllRecipes**
+     - [SomeRecipes](https://github.com/joycechau/SomeRecipes) - Full-stack single-page application inspired by AllRecipes built on Ruby on Rails, React, and Redux 🔥 ✅ 🚀
+   - **Evernote**
+     - [PandaNote](https://github.com/imahungrypanda/PandaNote) - PandaNote is an Evernote clone that uses a Rails backend with a React frontend 👴 ✅ 🚀
+     - [Whenevernote](https://github.com/tylerreichle/Whenevernote) - Full-stack web application inspired by Evernote built using React/Redux and Ruby on Rails with PostgreSQL 👴 ✅ 🚀
+   - **KickStarter**
+     - [SocialBusinessStarter](https://github.com/lucianstroie/SocialBusinessStarter) - A KickStarter clone built with Rails and React/Redux 👴 ✅ 🚀
+     - [Quickstarter](https://github.com/loralee90/Quickstarter) - A single-page app inspired by Kickstarter that lets you start and fund projects. 🔥 ✅ 🚀
+   - **Medium**
+     - [Nformd](https://github.com/PSalant726/Nformd) - Nformd is a web application inspired by Medium that was built using Ruby on Rails and React.js. 🔥 ✅ 🚀
+     - [ThinkPiece](https://github.com/Gabriel-Lewis/ThinkPiece) - A blogging website inspired by Medium 👴 ✅ 🚀
+   - **MeetUp**
+     - [wiigo](https://github.com/spacether/wiigo) - A 'Meetup' clone made with Ruby on Rails and React/Redux. 👴 ✅ 🚀
+   - **Quora**
+     - [quora](https://github.com/huacnlee/quora) - Quora clone write in Ruby on Rails. 👴 ✅ 
+   - **Trello**
+     - [trello](https://github.com/emilosman/trello-clone) - A Trello clone made in Ruby on Rails and Vue.js 🔥 ✅ 🚀
+     - [trello-clone](https://github.com/MrGrillet/trello-clone) - Project management boards with draggable lists and cards. Built with Rails and Vue.js 🔥 ✅
+     - [tasky](https://github.com/dapi/tasky) - Kanban-style task manager on Ruby On Rails / React 🔥 ✅ 🚀 
+   - **Youtube**
+     - [WatchTube](https://github.com/DanielLChang/WatchTube) - A video-streaming and sharing single-page web app based on YouTube, built using Ruby on Rails and React/Redux 👴 ✅ 🚀
+     - [watchpoll](https://github.com/petevdp/watchpoll) - Watch a youtube playlist with others, and vote on the next video to be played democratically! 🔥 ✅ 🚀
 
 # Awesome App
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) - Main Website for The Odin Project 🔥 ✅ 🚀
+- [pageflow](https://github.com/codevise/pageflow) - Multimedia story telling for the web.  🔥 ✅ 🚀
+- [railscasts](https://github.com/ryanb/railscasts) - This is the source code for the RailsCasts site. 🔥 ✅ 🚀
+- [Onebody](https://github.com/seven1m/onebody) - OneBody was open-source, web-based social networking, email list, online directory, and lightweight document management software for churches. 🔥 ✅
+- [quick_search](https://github.com/gevuong/quick_search) - A responsive (phone, tablet, desktop) full stack web application that allows user to quick filter a list of campgrounds using National Park Service's open public API to pull campground-related data. 🔥
+- [publiclab](https://github.com/publiclab/plots2) - a collaborative knowledge-exchange platform in Rails 🔥 ✅
+- [Poemist](https://github.com/tracykm/Poemist) - A web application for creating and sharing found poems. 🔥 ✅ 🚀
+- [open-flights](https://github.com/zayneio/open-flights) - A flight reviews app built with Ruby on Rails and React.js 🔥 ✅ 🚀
+- [palindrome_app](https://github.com/mhartl/palindrome_app) - A palindrome detector Sinatra App 🔥
+- [nu-appoinments](https://github.com/UribeNelson/nu-appointments) - simple appointments app 🔥 ✅ 🚀
+- [real-world-rails](https://github.com/eliotsykes/real-world-rails) - Real World Rails applications and their open source codebases for developers to learn from 🔥 ✅ 🚀
   - **Collaboration Tool**
     - [teambox](https://github.com/redbooth/teambox) - This is the legacy version of Teambox - the award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter. 👴 ✅
   - **Donation**
     - [shelter-gifts](https://github.com/anthonygharvey/shelter-gifts) - A Ruby on Rails app that makes it easy to donate directly to shelters by scraping their Amazon wishlists 🔥 ✅ 🚀
   - **Email**
     - [super-imap](https://github.com/rustyio/super-imap) - SuperIMAP - Monitor inboxes for incoming email, at scale. 👴 ✅
+  - **Event**
+    - [osem](https://github.com/openSUSE/osem) - Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences. 🔥 ✅ 🚀
+    - [react_rails_event_scheduler](https://github.com/AndresFMoya/react-rails_event_scheduler) - This project consist of building a mobile web app for an Events Scheduler using Rails API as backend, and ReactJS as frontend. 🔥 ✅ 🚀
+  - **Fitness**
+    - [reactfit](https://github.com/learnetto/reactfit) - A fitness dashboard app built using Rails 5.1 and React.js 👴 ✅
   - **Language**
     - [stacks_tracker_app](https://github.com/MuriloRoque/stacks_tracker_app) - In this app, you are able to track which languages you already know. You can choose which ones you are currently learning and see your learning progress, based on a goal you set. 🔥 ✅
   - **Map**
@@ -529,6 +535,8 @@ Hey friend! Help me out for a couple of ☕️
     - [tag-along](https://github.com/leighhalliday/tag-along) - Real-time geo tracking using Rails, ActionCable, React, MobX, and MapBox 👴 ✅ 🚀
   - **Productivity**
     - [StarDuck](https://github.com/JerChuang/StartDuck) - StartDuck is a productivity app that generates activities based on user's choice of category and input hours. 🔥 ✅ 🚀
+  - **Real Estate**
+    - [property_web_builder](https://github.com/etewiah/property_web_builder) - ⛺ The ultimate Ruby on Rails engine for creating real estate websites 🔥 ✅ 🚀
   - **Reservation**
     - [star-table](https://github.com/zw301/star-table) - ⭐ A restaurant reservation web application. Using Ruby on Rails, PostgreSQL, JavaScript/React/Redux, JSX, SCSS. 🔥 ✅ 🚀
   - **Snippet Manager**
@@ -544,7 +552,8 @@ Hey friend! Help me out for a couple of ☕️
   - **Time**
     - [tomatoes](https://github.com/tomatoes-app/tomatoes) - Pomodoro Technique® online time tracker 🔥 ✅ 🚀
     - [timeoverflow](https://github.com/coopdevs/timeoverflow) - 🏦 ⌛ A time banking system 🔥 ✅ 🚀
-
+  - **Travel**
+    - [roam](https://github.com/sofiajonsson/roam) - Rails Travel App
 
 # Telegram
 - [upwork_telegram_notifier](https://github.com/vitalyliber/upwork_telegram_notifier) - Get notifications for new Upwork jobs right into your Telegram 🔥 🚀
@@ -554,6 +563,8 @@ Hey friend! Help me out for a couple of ☕️
 - [terminal-table](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich. 🔥 🚀
 - [t](https://github.com/sferik/t) - A command-line power tool for Twitter. 🔥 ✅ 🚀
 - [startup-time](https://github.com/chocolateboy/startup-time) - A command-line benchmarking tool to measure the startup times of programs in various languages 🔥 🚀
+- [rainbow](https://github.com/sickill/rainbow) - Ruby gem for colorizing printed text on ANSI terminals 🔥
+- [pastel](https://github.com/piotrmurach/pastel) - 🌈 Terminal output styling with intuitive and clean API. 🔥 🚀
 - [ruco](https://github.com/grosser/ruco) - Desktop-style, Intuitive, Commandline Editor in Ruby. "Better than nano, simpler than vim." 👴 🚀
 - [vedeu](https://github.com/gavinlaking/vedeu) - A framework written in Ruby for building GUI/TUI terminal/console applications. 👴
   - **tty**
@@ -593,6 +604,8 @@ Hey friend! Help me out for a couple of ☕️
 
 # Writing
 - [writings.io](https://github.com/chloerei/writings) - Source code of writings.io. 🔥 🚀
+  - **Obsidian**
+    - [obsidian_utils](https://github.com/mm53bar/obsidian_utils) - Various scripts and utilities for `Obsidian.md` 🔥 🚀
   - **zettlekasten**
     - [zk](https://github.com/sirupsen/zk) - 📚 Zettelkasten on the command-line 🔥 ✅ 🚀
 
