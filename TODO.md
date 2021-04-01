@@ -10,5 +10,5 @@
  - [ ] java/android
 
 optional
-- sort the list based on category, instead of in alphabetical order
-(help me 🙏)
+- [x] sort the list based on category, instead of in alphabetical order
+
