@@ -258,6 +258,83 @@ Hey friend! Help me out for a couple of ☕️
 
 ---
 
+# Startup
+- [openstreetmap](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap 🔥 ✅ 🚀
+- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything! 🔥 ✅ 🚀
+- [Openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce 🔥 ✅ 🚀
+   - **AllRecipes**
+     - [SomeRecipes](https://github.com/joycechau/SomeRecipes) - Full-stack single-page application inspired by AllRecipes built on Ruby on Rails, React, and Redux 🔥 ✅ 🚀
+   - **Evernote**
+     - [PandaNote](https://github.com/imahungrypanda/PandaNote) - PandaNote is an Evernote clone that uses a Rails backend with a React frontend 👴 ✅ 🚀
+     - [Whenevernote](https://github.com/tylerreichle/Whenevernote) - Full-stack web application inspired by Evernote built using React/Redux and Ruby on Rails with PostgreSQL 👴 ✅ 🚀
+   - **KickStarter**
+     - [SocialBusinessStarter](https://github.com/lucianstroie/SocialBusinessStarter) - A KickStarter clone built with Rails and React/Redux 👴 ✅ 🚀
+     - [Quickstarter](https://github.com/loralee90/Quickstarter) - A single-page app inspired by Kickstarter that lets you start and fund projects. 🔥 ✅ 🚀
+   - **Medium**
+     - [Nformd](https://github.com/PSalant726/Nformd) - Nformd is a web application inspired by Medium that was built using Ruby on Rails and React.js. 🔥 ✅ 🚀
+     - [ThinkPiece](https://github.com/Gabriel-Lewis/ThinkPiece) - A blogging website inspired by Medium 👴 ✅ 🚀
+   - **MeetUp**
+     - [wiigo](https://github.com/spacether/wiigo) - A 'Meetup' clone made with Ruby on Rails and React/Redux. 👴 ✅ 🚀
+   - **Quora**
+     - [quora](https://github.com/huacnlee/quora) - Quora clone write in Ruby on Rails. 👴 ✅ 
+   - **Trello**
+     - [trello](https://github.com/emilosman/trello-clone) - A Trello clone made in Ruby on Rails and Vue.js 🔥 ✅ 🚀
+     - [trello-clone](https://github.com/MrGrillet/trello-clone) - Project management boards with draggable lists and cards. Built with Rails and Vue.js 🔥 ✅
+     - [tasky](https://github.com/dapi/tasky) - Kanban-style task manager on Ruby On Rails / React 🔥 ✅ 🚀 
+   - **Youtube**
+     - [WatchTube](https://github.com/DanielLChang/WatchTube) - A video-streaming and sharing single-page web app based on YouTube, built using Ruby on Rails and React/Redux 👴 ✅ 🚀
+     - [watchpoll](https://github.com/petevdp/watchpoll) - Watch a youtube playlist with others, and vote on the next video to be played democratically! 🔥 ✅ 🚀
+
+# Awesome App
+- [theodinproject](https://github.com/TheOdinProject/theodinproject) - Main Website for The Odin Project 🔥 ✅ 🚀
+- [pageflow](https://github.com/codevise/pageflow) - Multimedia story telling for the web.  🔥 ✅ 🚀
+- [railscasts](https://github.com/ryanb/railscasts) - This is the source code for the RailsCasts site. 🔥 ✅ 🚀
+- [Onebody](https://github.com/seven1m/onebody) - OneBody was open-source, web-based social networking, email list, online directory, and lightweight document management software for churches. 🔥 ✅
+- [quick_search](https://github.com/gevuong/quick_search) - A responsive (phone, tablet, desktop) full stack web application that allows user to quick filter a list of campgrounds using National Park Service's open public API to pull campground-related data. 🔥
+- [publiclab](https://github.com/publiclab/plots2) - a collaborative knowledge-exchange platform in Rails 🔥 ✅
+- [Poemist](https://github.com/tracykm/Poemist) - A web application for creating and sharing found poems. 🔥 ✅ 🚀
+- [open-flights](https://github.com/zayneio/open-flights) - A flight reviews app built with Ruby on Rails and React.js 🔥 ✅ 🚀
+- [palindrome_app](https://github.com/mhartl/palindrome_app) - A palindrome detector Sinatra App 🔥
+- [nu-appoinments](https://github.com/UribeNelson/nu-appointments) - simple appointments app 🔥 ✅ 🚀
+- [real-world-rails](https://github.com/eliotsykes/real-world-rails) - Real World Rails applications and their open source codebases for developers to learn from 🔥 ✅ 🚀
+  - **Collaboration Tool**
+    - [teambox](https://github.com/redbooth/teambox) - This is the legacy version of Teambox - the award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter. 👴 ✅
+  - **Donation**
+    - [shelter-gifts](https://github.com/anthonygharvey/shelter-gifts) - A Ruby on Rails app that makes it easy to donate directly to shelters by scraping their Amazon wishlists 🔥 ✅ 🚀
+  - **Email**
+    - [super-imap](https://github.com/rustyio/super-imap) - SuperIMAP - Monitor inboxes for incoming email, at scale. 👴 ✅
+  - **Event**
+    - [osem](https://github.com/openSUSE/osem) - Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences. 🔥 ✅ 🚀
+    - [react_rails_event_scheduler](https://github.com/AndresFMoya/react-rails_event_scheduler) - This project consist of building a mobile web app for an Events Scheduler using Rails API as backend, and ReactJS as frontend. 🔥 ✅ 🚀
+  - **Fitness**
+    - [reactfit](https://github.com/learnetto/reactfit) - A fitness dashboard app built using Rails 5.1 and React.js 👴 ✅
+  - **Language**
+    - [stacks_tracker_app](https://github.com/MuriloRoque/stacks_tracker_app) - In this app, you are able to track which languages you already know. You can choose which ones you are currently learning and see your learning progress, based on a goal you set. 🔥 ✅
+  - **Map**
+    - [terrastories](https://github.com/Terrastories/terrastories) - Terrastories is a geostorytelling application built to enable local communities to locate and map their own oral storytelling traditions about places of significant meaning or value to them. 🔥 ✅ 🚀
+    - [tag-along](https://github.com/leighhalliday/tag-along) - Real-time geo tracking using Rails, ActionCable, React, MobX, and MapBox 👴 ✅ 🚀
+  - **Productivity**
+    - [StarDuck](https://github.com/JerChuang/StartDuck) - StartDuck is a productivity app that generates activities based on user's choice of category and input hours. 🔥 ✅ 🚀
+  - **Real Estate**
+    - [property_web_builder](https://github.com/etewiah/property_web_builder) - ⛺ The ultimate Ruby on Rails engine for creating real estate websites 🔥 ✅ 🚀
+  - **Reservation**
+    - [star-table](https://github.com/zw301/star-table) - ⭐ A restaurant reservation web application. Using Ruby on Rails, PostgreSQL, JavaScript/React/Redux, JSX, SCSS. 🔥 ✅ 🚀
+  - **Snippet Manager**
+    - [snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager 🔥 ✅ 🚀
+    - [snippet_app](https://github.com/SnippetSafe/snippet_app) - A social code snippet sharing app that allows you to create, file and share code snippets with anyone. 🔥 ✅ 🚀
+  - **Social Network**
+    - [ting](https://github.com/Aufree/ting) - A music social networking project written in Ruby on Rails and Semantic-UI 🔥 ✅
+    - [socify](https://github.com/scaffeinate/socify) - Socify is an open source social networking platform written in Ruby on Rails 👴 ✅ 🚀
+  - **Support**
+    - [support-your-local-businesses](https://github.com/mikejahn/support-your-local-businesses) - A web application to support supporting your local businesses online 🔥 ✅ 🚀
+  - **Ticketing**
+    - [tebukuro](https://github.com/shinosakarb/tebukuro) - Build communities and ticketing 🔥 ✅
+  - **Time**
+    - [tomatoes](https://github.com/tomatoes-app/tomatoes) - Pomodoro Technique® online time tracker 🔥 ✅ 🚀
+    - [timeoverflow](https://github.com/coopdevs/timeoverflow) - 🏦 ⌛ A time banking system 🔥 ✅ 🚀
+  - **Travel**
+    - [roam](https://github.com/sofiajonsson/roam) - Rails Travel App
+
 # Background Job
 - [Sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby 🔥 ✅ 🚀
 
@@ -477,83 +554,6 @@ Hey friend! Help me out for a couple of ☕️
 
 # Slack
 - [slack-bot-on-rails](https://github.com/slack-ruby/slack-bot-on-rails) - A Rails + React application with a slack bot. 🔥 ✅ 🚀
-
-# Startup
-- [openstreetmap](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap 🔥 ✅ 🚀
-- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything! 🔥 ✅ 🚀
-- [Openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce 🔥 ✅ 🚀
-   - **AllRecipes**
-     - [SomeRecipes](https://github.com/joycechau/SomeRecipes) - Full-stack single-page application inspired by AllRecipes built on Ruby on Rails, React, and Redux 🔥 ✅ 🚀
-   - **Evernote**
-     - [PandaNote](https://github.com/imahungrypanda/PandaNote) - PandaNote is an Evernote clone that uses a Rails backend with a React frontend 👴 ✅ 🚀
-     - [Whenevernote](https://github.com/tylerreichle/Whenevernote) - Full-stack web application inspired by Evernote built using React/Redux and Ruby on Rails with PostgreSQL 👴 ✅ 🚀
-   - **KickStarter**
-     - [SocialBusinessStarter](https://github.com/lucianstroie/SocialBusinessStarter) - A KickStarter clone built with Rails and React/Redux 👴 ✅ 🚀
-     - [Quickstarter](https://github.com/loralee90/Quickstarter) - A single-page app inspired by Kickstarter that lets you start and fund projects. 🔥 ✅ 🚀
-   - **Medium**
-     - [Nformd](https://github.com/PSalant726/Nformd) - Nformd is a web application inspired by Medium that was built using Ruby on Rails and React.js. 🔥 ✅ 🚀
-     - [ThinkPiece](https://github.com/Gabriel-Lewis/ThinkPiece) - A blogging website inspired by Medium 👴 ✅ 🚀
-   - **MeetUp**
-     - [wiigo](https://github.com/spacether/wiigo) - A 'Meetup' clone made with Ruby on Rails and React/Redux. 👴 ✅ 🚀
-   - **Quora**
-     - [quora](https://github.com/huacnlee/quora) - Quora clone write in Ruby on Rails. 👴 ✅ 
-   - **Trello**
-     - [trello](https://github.com/emilosman/trello-clone) - A Trello clone made in Ruby on Rails and Vue.js 🔥 ✅ 🚀
-     - [trello-clone](https://github.com/MrGrillet/trello-clone) - Project management boards with draggable lists and cards. Built with Rails and Vue.js 🔥 ✅
-     - [tasky](https://github.com/dapi/tasky) - Kanban-style task manager on Ruby On Rails / React 🔥 ✅ 🚀 
-   - **Youtube**
-     - [WatchTube](https://github.com/DanielLChang/WatchTube) - A video-streaming and sharing single-page web app based on YouTube, built using Ruby on Rails and React/Redux 👴 ✅ 🚀
-     - [watchpoll](https://github.com/petevdp/watchpoll) - Watch a youtube playlist with others, and vote on the next video to be played democratically! 🔥 ✅ 🚀
-
-# Awesome App
-- [theodinproject](https://github.com/TheOdinProject/theodinproject) - Main Website for The Odin Project 🔥 ✅ 🚀
-- [pageflow](https://github.com/codevise/pageflow) - Multimedia story telling for the web.  🔥 ✅ 🚀
-- [railscasts](https://github.com/ryanb/railscasts) - This is the source code for the RailsCasts site. 🔥 ✅ 🚀
-- [Onebody](https://github.com/seven1m/onebody) - OneBody was open-source, web-based social networking, email list, online directory, and lightweight document management software for churches. 🔥 ✅
-- [quick_search](https://github.com/gevuong/quick_search) - A responsive (phone, tablet, desktop) full stack web application that allows user to quick filter a list of campgrounds using National Park Service's open public API to pull campground-related data. 🔥
-- [publiclab](https://github.com/publiclab/plots2) - a collaborative knowledge-exchange platform in Rails 🔥 ✅
-- [Poemist](https://github.com/tracykm/Poemist) - A web application for creating and sharing found poems. 🔥 ✅ 🚀
-- [open-flights](https://github.com/zayneio/open-flights) - A flight reviews app built with Ruby on Rails and React.js 🔥 ✅ 🚀
-- [palindrome_app](https://github.com/mhartl/palindrome_app) - A palindrome detector Sinatra App 🔥
-- [nu-appoinments](https://github.com/UribeNelson/nu-appointments) - simple appointments app 🔥 ✅ 🚀
-- [real-world-rails](https://github.com/eliotsykes/real-world-rails) - Real World Rails applications and their open source codebases for developers to learn from 🔥 ✅ 🚀
-  - **Collaboration Tool**
-    - [teambox](https://github.com/redbooth/teambox) - This is the legacy version of Teambox - the award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter. 👴 ✅
-  - **Donation**
-    - [shelter-gifts](https://github.com/anthonygharvey/shelter-gifts) - A Ruby on Rails app that makes it easy to donate directly to shelters by scraping their Amazon wishlists 🔥 ✅ 🚀
-  - **Email**
-    - [super-imap](https://github.com/rustyio/super-imap) - SuperIMAP - Monitor inboxes for incoming email, at scale. 👴 ✅
-  - **Event**
-    - [osem](https://github.com/openSUSE/osem) - Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences. 🔥 ✅ 🚀
-    - [react_rails_event_scheduler](https://github.com/AndresFMoya/react-rails_event_scheduler) - This project consist of building a mobile web app for an Events Scheduler using Rails API as backend, and ReactJS as frontend. 🔥 ✅ 🚀
-  - **Fitness**
-    - [reactfit](https://github.com/learnetto/reactfit) - A fitness dashboard app built using Rails 5.1 and React.js 👴 ✅
-  - **Language**
-    - [stacks_tracker_app](https://github.com/MuriloRoque/stacks_tracker_app) - In this app, you are able to track which languages you already know. You can choose which ones you are currently learning and see your learning progress, based on a goal you set. 🔥 ✅
-  - **Map**
-    - [terrastories](https://github.com/Terrastories/terrastories) - Terrastories is a geostorytelling application built to enable local communities to locate and map their own oral storytelling traditions about places of significant meaning or value to them. 🔥 ✅ 🚀
-    - [tag-along](https://github.com/leighhalliday/tag-along) - Real-time geo tracking using Rails, ActionCable, React, MobX, and MapBox 👴 ✅ 🚀
-  - **Productivity**
-    - [StarDuck](https://github.com/JerChuang/StartDuck) - StartDuck is a productivity app that generates activities based on user's choice of category and input hours. 🔥 ✅ 🚀
-  - **Real Estate**
-    - [property_web_builder](https://github.com/etewiah/property_web_builder) - ⛺ The ultimate Ruby on Rails engine for creating real estate websites 🔥 ✅ 🚀
-  - **Reservation**
-    - [star-table](https://github.com/zw301/star-table) - ⭐ A restaurant reservation web application. Using Ruby on Rails, PostgreSQL, JavaScript/React/Redux, JSX, SCSS. 🔥 ✅ 🚀
-  - **Snippet Manager**
-    - [snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager 🔥 ✅ 🚀
-    - [snippet_app](https://github.com/SnippetSafe/snippet_app) - A social code snippet sharing app that allows you to create, file and share code snippets with anyone. 🔥 ✅ 🚀
-  - **Social Network**
-    - [ting](https://github.com/Aufree/ting) - A music social networking project written in Ruby on Rails and Semantic-UI 🔥 ✅
-    - [socify](https://github.com/scaffeinate/socify) - Socify is an open source social networking platform written in Ruby on Rails 👴 ✅ 🚀
-  - **Support**
-    - [support-your-local-businesses](https://github.com/mikejahn/support-your-local-businesses) - A web application to support supporting your local businesses online 🔥 ✅ 🚀
-  - **Ticketing**
-    - [tebukuro](https://github.com/shinosakarb/tebukuro) - Build communities and ticketing 🔥 ✅
-  - **Time**
-    - [tomatoes](https://github.com/tomatoes-app/tomatoes) - Pomodoro Technique® online time tracker 🔥 ✅ 🚀
-    - [timeoverflow](https://github.com/coopdevs/timeoverflow) - 🏦 ⌛ A time banking system 🔥 ✅ 🚀
-  - **Travel**
-    - [roam](https://github.com/sofiajonsson/roam) - Rails Travel App
 
 # Telegram
 - [upwork_telegram_notifier](https://github.com/vitalyliber/upwork_telegram_notifier) - Get notifications for new Upwork jobs right into your Telegram 🔥 🚀
