@@ -642,3 +642,8 @@ Hey friend! Help me out for a couple of ☕️
   - **zettlekasten**
     - [zk](https://github.com/sirupsen/zk) - 📚 Zettelkasten on the command-line 🔥 ✅ 🚀
 
+# Assembly
+- [compile-to-web](https://github.com/ChristianMurphy/compile-to-web) - Discover what languages can be compiled to Web Assembly 🔥 🚀
+- [transrate](https://github.com/blahah/transrate) - Understand your transcriptome assembly 🔥 🚀
+- [pre-assembly](https://github.com/sul-dlss/pre-assembly) - Rails app - prepares objects for assembly workflow and allows discovery report 🔥 🚀
+
