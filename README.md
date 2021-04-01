@@ -280,13 +280,16 @@ Hey friend! Help me out for a couple of ☕️
     - [rails-template (dao42)](https://github.com/dao42/rails-template) - A best & newest & fastest rails 6.x template for senior rails developer. 🔥
     - [rails-templates (lewagon)](https://github.com/lewagon/rails-templates) - Jump start your Rails development with Le Wagon best practices 🔥
     - [rails-composer](https://github.com/RailsApps/rails-composer) - An application template that creates starter applications for Rails. 🔥
+  - **Docker**
+    - [docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose. 🔥
+    - [rails-react-typescript-docker-example](https://github.com/ohbarye/rails-react-typescript-docker-example) - An example app built on Ruby on Rails 6.1 + React.js 17 + TypeScript 4.1 + Docker Compose 🔥 🚀
+    - [rails-react-typescript-docker-example](https://github.com/ohbarye/rails-react-typescript-docker-example) - An example app built on Ruby on Rails 6.1 + React.js 17 + TypeScript 4.1 + Docker Compose 🔥 🚀
+    - [rails_react_graphql_docker_boilerplate](https://github.com/K-Sato1995/Rails_React_GraphQL_Docker_Boilerplate) - 🤡 Rails + React + GraphQL + Docker 🔥
   - **React + Rails**
     - [react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial) - Example of integration of Rails, react, redux, using the react_on_rails gem, webpack, enabling the es7 and jsx transpilers, and node integration. And React Native!  🔥 🚀
     - [react-rails-example-app](https://github.com/BookOfGreg/react-rails-example-app) - Minimal basic demonstration React-Rails sample application using Webpacker 🔥
     - [react_rails_starter_app](https://github.com/atomicjolt/react_rails_starter_app) - React with Rails using Webpack 🔥
     - [react-rails-boilerplate](https://github.com/NimaBoscarino/react-rails-boilerplate) - ⚛︎ ❤️ 💎 A React + Rails boilerplate to help you get the best of both worlds 🔥
-    - [rails-react-typescript-docker-example](https://github.com/ohbarye/rails-react-typescript-docker-example) - An example app built on Ruby on Rails 6.1 + React.js 17 + TypeScript 4.1 + Docker Compose 🔥 🚀
-    - [rails_react_graphql_docker_boilerplate](https://github.com/K-Sato1995/Rails_React_GraphQL_Docker_Boilerplate) - 🤡 Rails + React + GraphQL + Docker 🔥
     - [react_on_rails_tutorial_with_ssr_and_hmr_fast_refresh](https://github.com/shakacode/react_on_rails_tutorial_with_ssr_and_hmr_fast_refresh) - react_on_rails tutorial demonstrating SSR, HMR fast refresh, and Typescript based on the rails/webpacker webpack setup 🔥
     - [rails-react-boilerplate](https://github.com/giannisp/rails-react-boilerplate) - Ruby on Rails, React, Webpack 4 boilerplate app. 🔥
     - [rails-react-example](https://github.com/stevepolitodesign/rails-react-example) - An example application built with Rails and React 🔥
