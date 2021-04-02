@@ -203,6 +203,7 @@ Hey friend! Help me out for a couple of ☕️
   - **Library**
     - [ClassicDiscoveriesApp](https://github.com/adr5240/ClassicDiscoveriesApp) - An online literary library that can be used to search for books or authors. Users can even save books for later on their bookshelves. It was built using React.js/Flux for the front-end and Ruby on Rails for the back-end. 👴 ✅
     - [Books-app](https://github.com/Temmarie/Books-app) - app that allows you to register books you've read and group them based on their genres. 🔥 🚀
+    - [circulate](https://github.com/rubyforgood/circulate) - An operating system for lending libraries 🔥 🚀
   - **Map**
     - [terrastories](https://github.com/Terrastories/terrastories) - Terrastories is a geostorytelling application built to enable local communities to locate and map their own oral storytelling traditions about places of significant meaning or value to them. 🔥 ✅ 🚀
     - [ghgvc](https://github.com/ebimodeling/ghgvc) - Ecosystem Climate Regulation Services Calculator 🔥 ✅ 🚀
