@@ -234,6 +234,7 @@ Hey friend! Help me out for a couple of ☕️
     - [support-your-local-businesses](https://github.com/mikejahn/support-your-local-businesses) - A web application to support supporting your local businesses online 🔥 ✅ 🚀
     - [earthquake-croatia](https://github.com/vlado/earthquake-croatia) - Code for app hosted on https://potres.herokuapp.com used for helping people in need during the earthquake crisis in Croatia 🔥 🚀
     - [diaper](https://github.com/rubyforgood/diaper) - Diaperbase is an inventory system for diaper banks, to aid them in tracking their inventory and providing statistics about their inventory flows. 🔥 ✅ 🚀
+    - [voices-of-consent](https://github.com/rubyforgood/voices-of-consent) - Open source tracking and inventory management application for nonprofit, Voices of Consent 🔥 ✅
     - [ConexionFelina](https://github.com/infusionvlc/ConexionFelina) - 🐱 ❤️ Web application for taking care of street cats 🔥 ✅
     - [EBWiki](https://github.com/EBWiki/EBWiki) - repository of police abuse cases against people of color 🔥 ✅ 🚀
     - [Champaign](https://github.com/SumOfUs/Champaign) - SumOfUs Online Campaign Platform. 🔥 ✅ 🚀
