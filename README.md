@@ -609,23 +609,24 @@ Hey friend! Help me out for a couple of ☕️
 - [developer_news_cli_app](https://github.com/anthonygharvey/developer_news_cli_app) - A Ruby CLI app that scrapes article information from FreeCodeCamp, HackerNoon, Codeburst and A List Apart. 🔥 🚀
 - [colorls](https://github.com/athityakumar/colorls) - 🎉 A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. 🔥 🚀 
 - [cli-ui](https://github.com/shopify/cli-ui) - Terminal user interface library 🔥 🚀
+- [ver](https://github.com/manveru/ver) - Vi & Emacs in Ruby 👴 🚀
 - [iStats](https://github.com/Chris911/iStats) - Ruby gem for your mac stats 👴 🚀
 - [ruco](https://github.com/grosser/ruco) - Desktop-style, Intuitive, Commandline Editor in Ruby. "Better than nano, simpler than vim." 👴 🚀
 - [vedeu](https://github.com/gavinlaking/vedeu) - A framework written in Ruby for building GUI/TUI terminal/console applications. 👴
-  - **tty**
-    - [tty](https://github.com/piotrmurach/tty) - Toolkit for developing sleek command line apps. 🔥 ✅ 🚀
-    - [tty-box](https://github.com/piotrmurach/tty-box) - Draw various frames and boxes in your terminal window 🔥 ✅ 🚀
-    - [tty-screen](https://github.com/piotrmurach/tty-screen) - Terminal screen detection - cross platform, major ruby interpreters 🔥 ✅ 🚀
-    - [tty-color](https://github.com/piotrmurach/tty-color) - Terminal color capabilities detection 🔥 ✅ 🚀
-    - [tty-cursor](https://github.com/piotrmurach/tty-cursor) - Terminal cursor movement and manipulation of cursor properties such as visibility 🔥 ✅ 🚀
-    - [tty-font](https://github.com/piotrmurach/tty-font) - Terminal fonts 🔥 ✅ 🚀
-    - [tty-spinner](https://github.com/piotrmurach/tty-spinner) - A terminal spinner for tasks that have non-deterministic time frame. 🔥 ✅ 🚀
-    - [tty-markdown](https://github.com/piotrmurach/tty-markdown) - Convert a markdown document or text into a terminal friendly output 🔥 ✅ 🚀
-    - [tty-pie](https://github.com/piotrmurach/tty-pie) - Draw pie charts in your terminal window 🔥 ✅ 🚀
-    - [tty-prompt](https://github.com/piotrmurach/tty-prompt) - A beautiful and powerful interactive command line prompt 🔥 ✅ 🚀
-    - [tty-progressbar](https://github.com/piotrmurach/tty-progressbar) - Display a single or multiple progress bars in the terminal. 🔥 ✅ 🚀
-    - [tty-reader](https://github.com/piotrmurach/tty-reader) - A set of methods for processing keyboard input in character, line and multiline modes. 🔥 ✅ 🚀
-    - [tty-table](https://github.com/piotrmurach/tty-table) - A flexible and intuitive table generator 🔥 ✅ 🚀
+- **tty**
+  - [tty](https://github.com/piotrmurach/tty) - Toolkit for developing sleek command line apps. 🔥 ✅ 🚀
+  - [tty-box](https://github.com/piotrmurach/tty-box) - Draw various frames and boxes in your terminal window 🔥 ✅ 🚀
+  - [tty-screen](https://github.com/piotrmurach/tty-screen) - Terminal screen detection - cross platform, major ruby interpreters 🔥 ✅ 🚀
+  - [tty-color](https://github.com/piotrmurach/tty-color) - Terminal color capabilities detection 🔥 ✅ 🚀
+  - [tty-cursor](https://github.com/piotrmurach/tty-cursor) - Terminal cursor movement and manipulation of cursor properties such as visibility 🔥 ✅ 🚀
+  - [tty-font](https://github.com/piotrmurach/tty-font) - Terminal fonts 🔥 ✅ 🚀
+  - [tty-spinner](https://github.com/piotrmurach/tty-spinner) - A terminal spinner for tasks that have non-deterministic time frame. 🔥 ✅ 🚀
+  - [tty-markdown](https://github.com/piotrmurach/tty-markdown) - Convert a markdown document or text into a terminal friendly output 🔥 ✅ 🚀
+  - [tty-pie](https://github.com/piotrmurach/tty-pie) - Draw pie charts in your terminal window 🔥 ✅ 🚀
+  - [tty-prompt](https://github.com/piotrmurach/tty-prompt) - A beautiful and powerful interactive command line prompt 🔥 ✅ 🚀
+  - [tty-progressbar](https://github.com/piotrmurach/tty-progressbar) - Display a single or multiple progress bars in the terminal. 🔥 ✅ 🚀
+  - [tty-reader](https://github.com/piotrmurach/tty-reader) - A set of methods for processing keyboard input in character, line and multiline modes. 🔥 ✅ 🚀
+  - [tty-table](https://github.com/piotrmurach/tty-table) - A flexible and intuitive table generator 🔥 ✅ 🚀
 
 # Tools
 - [RESTular](https://github.com/georgewambold/RESTular) - Easy to understand RESTful routing for Sinatra / Ruby on Rails app
