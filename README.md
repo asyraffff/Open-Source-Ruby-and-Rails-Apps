@@ -252,6 +252,7 @@ Hey friend! Help me out for a couple of ☕️
 
 # Analytics
 - [Hypercable](https://github.com/HyperCable/hypercable) - Hypercable Analytics is a fully featured high performance scalable alternative to Google Analytics, build with timescaledb openresty redis and rails. 🔥 ✅ 🚀
+- [abalone](https://github.com/rubyforgood/abalone) - A data tracking and analytics app for abalone conservation efforts. 🔥 ✅ 🚀
 
 # Background Job
 - [Sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby 🔥 ✅ 🚀
