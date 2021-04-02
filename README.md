@@ -274,30 +274,30 @@ Hey friend! Help me out for a couple of ☕️
 # Boilerplate/Template
 - [StackBox](https://github.com/Stack-Box/stackbox) - Create app stacks loaded with all your favourite clients, services and infra along with code boilerplates in under 5 mins. 🔥 ✅ 🚀
 - [jumpstart](https://github.com/excid3/jumpstart) - Easily jumpstart a new Rails application with a bunch of great features by default 🔥 ✅ 🚀
-  - **Rails**
-    - [Suspenders (thoughtbot)](https://github.com/thoughtbot/suspenders) - A Rails template with our standard defaults, ready to deploy to Heroku. 🔥 ✅ 🚀
-    - [rails-template (mattbrictson)](https://github.com/mattbrictson/rails-template) - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity. 🔥
-    - [rails-template (dao42)](https://github.com/dao42/rails-template) - A best & newest & fastest rails 6.x template for senior rails developer. 🔥
-    - [rails-templates (lewagon)](https://github.com/lewagon/rails-templates) - Jump start your Rails development with Le Wagon best practices 🔥
-    - [rails-composer](https://github.com/RailsApps/rails-composer) - An application template that creates starter applications for Rails. 🔥
-  - **Docker**
-    - [docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose. 🔥
-    - [rails-react-typescript-docker-example](https://github.com/ohbarye/rails-react-typescript-docker-example) - An example app built on Ruby on Rails 6.1 + React.js 17 + TypeScript 4.1 + Docker Compose 🔥 🚀
-    - [rails-react-typescript-docker-example](https://github.com/ohbarye/rails-react-typescript-docker-example) - An example app built on Ruby on Rails 6.1 + React.js 17 + TypeScript 4.1 + Docker Compose 🔥 🚀
-    - [rails_react_graphql_docker_boilerplate](https://github.com/K-Sato1995/Rails_React_GraphQL_Docker_Boilerplate) - 🤡 Rails + React + GraphQL + Docker 🔥
-  - **React + Rails**
-    - [react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial) - Example of integration of Rails, react, redux, using the react_on_rails gem, webpack, enabling the es7 and jsx transpilers, and node integration. And React Native!  🔥 🚀
-    - [react-rails-example-app](https://github.com/BookOfGreg/react-rails-example-app) - Minimal basic demonstration React-Rails sample application using Webpacker 🔥
-    - [react_rails_starter_app](https://github.com/atomicjolt/react_rails_starter_app) - React with Rails using Webpack 🔥
-    - [react-rails-boilerplate](https://github.com/NimaBoscarino/react-rails-boilerplate) - ⚛︎ ❤️ 💎 A React + Rails boilerplate to help you get the best of both worlds 🔥
-    - [react_on_rails_tutorial_with_ssr_and_hmr_fast_refresh](https://github.com/shakacode/react_on_rails_tutorial_with_ssr_and_hmr_fast_refresh) - react_on_rails tutorial demonstrating SSR, HMR fast refresh, and Typescript based on the rails/webpacker webpack setup 🔥
-    - [rails-react-boilerplate](https://github.com/giannisp/rails-react-boilerplate) - Ruby on Rails, React, Webpack 4 boilerplate app. 🔥
-    - [rails-react-example](https://github.com/stevepolitodesign/rails-react-example) - An example application built with Rails and React 🔥
-    - [Rails-React-DTA-Template](https://github.com/GunnarPDX/Rails-React-DTA-Template) - 💎 React on Rails with devise_token_auth -> Starter App 🔥
-    - [Rails-API-React-Tutorial](https://github.com/johncorderox/Rails-API-React-Tutorial) - 📱 A Rails 5 API backend React JS Frontend Guide. Learn API setup, serializers, react fetch calls, and app setup. 🔥 🚀
-    - [next-right-now](https://github.com/UnlyEd/next-right-now) - Flexible production-grade boilerplate with Next.js 10, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, Internationalization, CI/CD and SaaS B2B multi single-tenancy (monorepo) support 🔥 🚀
-    - [hypernova_apollo_rails](https://github.com/bessey/hypernova_apollo_rails) - Example of React + Apollo + Hypernova + Rails + Webpacker 🔥
-    - [create-react-app-with-rails-boilerplate](https://github.com/lirenyeo/create-react-app-with-rails-boilerplate) - CRA + Rails API + Devise Login + ActiveAdmin Boilerplate 🔥 🚀
+- **Rails**
+  - [Suspenders (thoughtbot)](https://github.com/thoughtbot/suspenders) - A Rails template with our standard defaults, ready to deploy to Heroku. 🔥 ✅ 🚀
+  - [rails-template (mattbrictson)](https://github.com/mattbrictson/rails-template) - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity. 🔥
+  - [rails-template (dao42)](https://github.com/dao42/rails-template) - A best & newest & fastest rails 6.x template for senior rails developer. 🔥
+  - [rails-templates (lewagon)](https://github.com/lewagon/rails-templates) - Jump start your Rails development with Le Wagon best practices 🔥
+  - [rails-composer](https://github.com/RailsApps/rails-composer) - An application template that creates starter applications for Rails. 🔥
+- **Docker**
+  - [docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose. 🔥
+  - [rails-react-typescript-docker-example](https://github.com/ohbarye/rails-react-typescript-docker-example) - An example app built on Ruby on Rails 6.1 + React.js 17 + TypeScript 4.1 + Docker Compose 🔥 🚀
+  - [rails-react-typescript-docker-example](https://github.com/ohbarye/rails-react-typescript-docker-example) - An example app built on Ruby on Rails 6.1 + React.js 17 + TypeScript 4.1 + Docker Compose 🔥 🚀
+  - [rails_react_graphql_docker_boilerplate](https://github.com/K-Sato1995/Rails_React_GraphQL_Docker_Boilerplate) - 🤡 Rails + React + GraphQL + Docker 🔥
+- **React + Rails**
+  - [react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial) - Example of integration of Rails, react, redux, using the react_on_rails gem, webpack, enabling the es7 and jsx transpilers, and node integration. And React Native!  🔥 🚀
+  - [react-rails-example-app](https://github.com/BookOfGreg/react-rails-example-app) - Minimal basic demonstration React-Rails sample application using Webpacker 🔥
+  - [react_rails_starter_app](https://github.com/atomicjolt/react_rails_starter_app) - React with Rails using Webpack 🔥
+  - [react-rails-boilerplate](https://github.com/NimaBoscarino/react-rails-boilerplate) - ⚛︎ ❤️ 💎 A React + Rails boilerplate to help you get the best of both worlds 🔥
+  - [react_on_rails_tutorial_with_ssr_and_hmr_fast_refresh](https://github.com/shakacode/react_on_rails_tutorial_with_ssr_and_hmr_fast_refresh) - react_on_rails tutorial demonstrating SSR, HMR fast refresh, and Typescript based on the rails/webpacker webpack setup 🔥
+  - [rails-react-boilerplate](https://github.com/giannisp/rails-react-boilerplate) - Ruby on Rails, React, Webpack 4 boilerplate app. 🔥
+  - [rails-react-example](https://github.com/stevepolitodesign/rails-react-example) - An example application built with Rails and React 🔥
+  - [Rails-React-DTA-Template](https://github.com/GunnarPDX/Rails-React-DTA-Template) - 💎 React on Rails with devise_token_auth -> Starter App 🔥
+  - [Rails-API-React-Tutorial](https://github.com/johncorderox/Rails-API-React-Tutorial) - 📱 A Rails 5 API backend React JS Frontend Guide. Learn API setup, serializers, react fetch calls, and app setup. 🔥 🚀
+  - [next-right-now](https://github.com/UnlyEd/next-right-now) - Flexible production-grade boilerplate with Next.js 10, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, Internationalization, CI/CD and SaaS B2B multi single-tenancy (monorepo) support 🔥 🚀
+  - [hypernova_apollo_rails](https://github.com/bessey/hypernova_apollo_rails) - Example of React + Apollo + Hypernova + Rails + Webpacker 🔥
+  - [create-react-app-with-rails-boilerplate](https://github.com/lirenyeo/create-react-app-with-rails-boilerplate) - CRA + Rails API + Devise Login + ActiveAdmin Boilerplate 🔥 🚀
 
 # Books
 - [kitabu](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown using Ruby. Using the Prince PDF generator, you'll be able to get high quality PDFs. Also supports EPUB, Mobi, Text and HTML generation. 🔥 ✅ 🚀
