@@ -173,6 +173,7 @@ Hey friend! Help me out for a couple of ☕️
   - **Donation**
     - [shelter-gifts](https://github.com/anthonygharvey/shelter-gifts) - A Ruby on Rails app that makes it easy to donate directly to shelters by scraping their Amazon wishlists 🔥 ✅ 🚀
     - [membership (debtcollective)](https://github.com/debtcollective/membership) - 💰 Member dues and Donations platform 🔥 ✅ 🚀
+    - [scan-donation](https://github.com/rubyforgood/scan-donation) - Donation app for Stop Child Abuse Now of Northern VA 👴 ✅
   - **Email**
     - [super-imap](https://github.com/rustyio/super-imap) - SuperIMAP - Monitor inboxes for incoming email, at scale. 👴 ✅
   - **Event**
