@@ -592,6 +592,7 @@ Hey friend! Help me out for a couple of ☕️
 
 # Slack
 - [slack-bot-on-rails](https://github.com/slack-ruby/slack-bot-on-rails) - A Rails + React application with a slack bot. 🔥 ✅ 🚀
+- [Virtual-Coffee-Bot](https://github.com/Virtual-Coffee/Virtual-Coffee-Bot) - A friendly bot to give us a heads up when the next events are. 🔥 🚀
 
 # Telegram
 - [upwork_telegram_notifier](https://github.com/vitalyliber/upwork_telegram_notifier) - Get notifications for new Upwork jobs right into your Telegram 🔥 🚀
