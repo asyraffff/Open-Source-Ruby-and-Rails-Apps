@@ -477,9 +477,10 @@ Hey friend! Help me out for a couple of ☕️
 - [CascadeLMS](https://github.com/mikehelmick/CascadeLMS) - Cascade Learning Management System 👴 ✅ 🚀
 - [grasp](https://github.com/graspapp/grasp) - an open-source LMS for Common Core classrooms. 👴 ✅ 🚀
 
-# Mobile/Desktop App
+# Mobile/Desktop App/IOS
 - [Homebrew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) 🔥 ✅ 🚀
 - [fastlane](https://github.com/fastlane/fastlane) - The easiest way to automate building and releasing your iOS and Android apps 🔥 ✅ 🚀
+- [RubyGateway](https://github.com/johnfairh/RubyGateway) - Embed Ruby in Swift: load Gems, run scripts, call APIs seamlessly in both directions. 🔥 ✅ 🚀
 - [Dryrun](https://github.com/cesarferreira/dryrun) - Try any android library hosted online directly from the command line 🔥 🚀
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods) - CocoaPods manages dependencies for your Xcode projects. 🔥 ✅ 🚀
 - [nsrails](https://github.com/dingbat/nsrails) - iOS/Mac OS framework for Rails 👴 ✅
