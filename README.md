@@ -369,6 +369,7 @@ Hey friend! Help me out for a couple of ☕️
 - [open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs 🔥
 - [lazylead](https://github.com/dgroup/lazylead) - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows automating (without admin access) daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. 🔥 ✅ 🚀
 - [Kontena](https://github.com/kontena/kontena) - The developer friendly container and micro services platform. Works on any cloud, easy to setup, simple to use. 🔥 ✅ 🚀
+- [flipper](https://github.com/jnunemaker/flipper) - 🐬 Beautiful, performant feature flags for Ruby. 🔥 ✅ 🚀
 - [Graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere 🔥 🚀 
 - [gitreflow](https://github.com/reenhanced/gitreflow) - Reflow automatically creates pull requests, ensures the code review is approved, and squash merges finished branches to master with a great commit message template. 🔥 ✅ 🚀
 - [caperoma](https://github.com/zoopyserg/caperoma) - Automate your workflow with Ruby / Git / Jira / PivotalTracker. 🔥 ✅
