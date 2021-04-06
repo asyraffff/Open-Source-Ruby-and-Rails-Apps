@@ -560,6 +560,7 @@ Hey friend! Help me out for a couple of ☕️
 - [rails_panel](https://github.com/dejan/rails_panel) - Chrome/Firefox extension for Rails development 🔥 🚀
 - [gem-browse](https://github.com/tpope/gem-browse) - gem edit, gem open, gem clone, gem browse 🔥 🚀
 - [matestack](https://github.com/matestack/matestack-ui-core) - Matestack enables you to create sophisticated, reactive UIs in pure Ruby, without touching JavaScript and HTML. 🔥 🚀
+- [pluginGeek](https://github.com/thomasklemm/pluginGeek) - Discover great Ruby gems and Javascript plugins. Like AirBnB but for Space Travel. 👴 🚀
   - **Auth**
     - [social-login-in-rails](https://github.com/mohitjain/social-login-in-rails) - A small application with integrates with Devise + Twitter + Facebook + Linkedin + Google + Github. 🔥 ✅ 
   - **gems**
