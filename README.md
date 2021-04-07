@@ -108,6 +108,7 @@ Hey friend! Help me out for a couple of ☕️
      - [Freddit](https://github.com/fsladkey/Freddit) - Reddit clone built using Rails and React/Flux. Just for fun! 👴 ✅
    - **RobinHood**
      - [Mr.Hood](https://github.com/BR1K/Mr.Hood) - Robinhood inspired stock-trading full stack application using Rails, PostgreSQL, React.js, and Redux 🔥 ✅ 🚀
+     - [robinhoops](https://github.com/sirivatd/robinhoops) - A web-based game that appeals to both fantasy sport junkies and Wall Street traders who want to bet on professional athletes 🔥 ✅ 🚀
    - **Slack**
      - [Leeway](https://github.com/zamandalee/Leeway) - A Slack clone implemented using a Rails backend and React/Redux frontend framework.  🔥 ✅ 🚀
    - **Spotify**
