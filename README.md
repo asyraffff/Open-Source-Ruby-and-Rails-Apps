@@ -603,7 +603,7 @@ Hey friend! Help me out for a couple of ☕️
 - [upwork_telegram_notifier](https://github.com/vitalyliber/upwork_telegram_notifier) - Get notifications for new Upwork jobs right into your Telegram 🔥 🚀
 - [eatmore](https://github.com/marckohlbrugge/eatmore) - Telegram bot that reminds you to eat more 🔥 🚀
 
-# Terminal
+# Terminal/CLI
 - [Tugboat](https://github.com/petems/tugboat) - A command line tool for interacting with your DigitalOcean droplets. 🔥 ✅ 🚀
 - [terminal-table](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich. 🔥 🚀
 - [t](https://github.com/sferik/t) - A command-line power tool for Twitter. 🔥 ✅ 🚀
@@ -611,6 +611,7 @@ Hey friend! Help me out for a couple of ☕️
 - [startup-time](https://github.com/chocolateboy/startup-time) - A command-line benchmarking tool to measure the startup times of programs in various languages 🔥 🚀
 - [rainbow](https://github.com/sickill/rainbow) - Ruby gem for colorizing printed text on ANSI terminals 🔥
 - [pastel](https://github.com/piotrmurach/pastel) - 🌈 Terminal output styling with intuitive and clean API. 🔥 🚀
+- [lit](https://github.com/refIekt/lit) - Shine a light on terminal commands. 🔥
 - [md2man](https://github.com/sunaku/md2man) - md2man is a Ruby library and a set of command-line programs that convert Markdown into UNIX manpages as well as HTML webpages using Redcarpet. 🔥 🚀
 - [lolcat](https://github.com/busyloop/lolcat) - 🌈 Rainbow your terminal 🔥 🚀
 - [developer_news_cli_app](https://github.com/anthonygharvey/developer_news_cli_app) - A Ruby CLI app that scrapes article information from FreeCodeCamp, HackerNoon, Codeburst and A List Apart. 🔥 🚀
