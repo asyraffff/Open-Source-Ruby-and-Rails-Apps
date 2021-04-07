@@ -566,6 +566,8 @@ Hey friend! Help me out for a couple of ☕️
     - [social-login-in-rails](https://github.com/mohitjain/social-login-in-rails) - A small application with integrates with Devise + Twitter + Facebook + Linkedin + Google + Github. 🔥 ✅ 
   - **gems**
     - [decidim](https://github.com/decidim/decidim) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails 🔥 ✅ 🚀
+  - **Liscense**
+    - [LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies.
   - **Markdwon**
     - [Kramdown](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions. 🔥
     - [asciidoctor](https://github.com/asciidoctor/asciidoctor) - 💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats. 🔥 🚀 ✅
