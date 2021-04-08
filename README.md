@@ -483,6 +483,7 @@ Hey friend! Help me out for a couple of ☕️
     - [arcadia](https://github.com/angal/arcadia) - Light Ruby Ide 👴
   - **WYSIWYG**
     - [mercury](https://github.com/jejacks0n/mercury) - Mercury Editor: The Rails WYSIWYG editor that allows embedding full page editing capabilities directly inline. 🔥 ✅ 🚀
+    - [block-editor](https://github.com/yamasolutions/block-editor) - A block editor for Ruby on Rails
 
 # LMS
 - [canvas-lms)](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc. 🔥 ✅ 🚀
