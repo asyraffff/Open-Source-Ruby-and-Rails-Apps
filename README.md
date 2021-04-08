@@ -395,6 +395,7 @@ Hey friend! Help me out for a couple of ☕️
 - [rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. 🔥 ✅ 🚀
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API 🔥 
 - [Devdocs](https://github.com/freeCodeCamp/devdocs) - combines multiple developer documentations in a clean and organized web UI 🔥 ✅ 🚀
+- [docshub](https://github.com/w3cub/docshub) - API Documentation Browser based Github Pages service 🔥
 - [orientation](https://github.com/orientation/orientation) - Your best weapon in the fight against outdated documentation. 🔥 ✅ 🚀
 - [just-the-docs](https://github.com/pmarsceill/just-the-docs) A modern, high customizable, responsive Jekyll theme for documention with built-in search. 🔥 ✅ 🚀
 
