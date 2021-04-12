@@ -665,6 +665,7 @@ Hey friend! Help me out for a couple of ☕️
 
 # Wordpress
 - [Wordmove](https://github.com/welaika/wordmove) - Multi-stage command line deploy/mirroring and task runner for Wordpress 🔥 ✅ 🚀
+- [wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner.  🔥 ✅ 🚀
 
 # Writing
 - [writings.io](https://github.com/chloerei/writings) - Source code of writings.io. 🔥 🚀
