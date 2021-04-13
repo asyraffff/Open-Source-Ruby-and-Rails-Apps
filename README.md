@@ -247,6 +247,7 @@ Hey friend! Help me out for a couple of ☕️
     - [EBWiki](https://github.com/EBWiki/EBWiki) - repository of police abuse cases against people of color 🔥 ✅ 🚀
     - [Champaign](https://github.com/SumOfUs/Champaign) - SumOfUs Online Campaign Platform. 🔥 ✅ 🚀
     - [refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms) - REFUGE restrooms indexes and maps safe restroom locations for trans, intersex, and gender nonconforming individuals. 🔥 ✅ 🚀
+    - [india2019.vote](https://github.com/bodhish/india2019.vote) - A prediction app created for indian elections 2019. 🔥 🚀
     - [reentry](https://github.com/rubyforgood/reentry) - Social Services Aggregator and Distribution Hub 👴 ✅ 🚀
     - [playtime](https://github.com/rubyforgood/playtime) - Supporting children and families experiencing homelessness in Washington, DC 👴 ✅
   - **Ticketing**
