@@ -553,6 +553,9 @@ Hey friend! Help me out for a couple of ☕️
 - [fulcrum](https://github.com/fulcrum-agile/fulcrum) - An agile project planning tool 👴 ✅
 - [chiliproject](https://github.com/chiliproject/chiliproject) - web based project management system built on Ruby on Rails 👴 ✅ 
 
+# Prototyping
+- [FireApp](https://github.com/KKBOX/FireApp) - Fire.app is a HTML prototyping tool with Sass/Compass/ERB/Haml/Slim/Markdown support 🔥 ✅ 🚀
+
 # Ruby and Rails
 - [rubytogether.org](https://github.com/rubytogether/rubytogether.org) - The Ruby Together website 🔥 ✅ 🚀
 - [Ruby-git](https://github.com/ruby-git/ruby-git) - Ruby/Git is a Ruby library that can be used to create, read and manipulate Git repositories by wrapping system calls to the git binary. 🔥 ✅ 🚀
