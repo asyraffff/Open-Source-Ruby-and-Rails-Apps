@@ -246,6 +246,7 @@ Hey friend! Help me out for a couple of ☕️
     - [ConexionFelina](https://github.com/infusionvlc/ConexionFelina) - 🐱 ❤️ Web application for taking care of street cats 🔥 ✅
     - [covidliste](https://github.com/hostolab/covidliste) - Covidliste makes it easy to manage waiting lists for vaccination centers. 🔥 ✅ 🚀
     - [casa](https://github.com/rubyforgood/casa) - Volunteer management system for nonprofit CASA, which serves foster youth in counties across America. 🔥 ✅
+    - [worldcubeassociation.org](https://github.com/thewca/worldcubeassociation.org) - All of the code that runs on worldcubeassociation.org 🔥 ✅ 🚀
     - [EBWiki](https://github.com/EBWiki/EBWiki) - repository of police abuse cases against people of color 🔥 ✅ 🚀
     - [Champaign](https://github.com/SumOfUs/Champaign) - SumOfUs Online Campaign Platform. 🔥 ✅ 🚀
     - [refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms) - REFUGE restrooms indexes and maps safe restroom locations for trans, intersex, and gender nonconforming individuals. 🔥 ✅ 🚀
