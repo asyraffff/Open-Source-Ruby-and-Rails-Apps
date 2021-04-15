@@ -574,6 +574,8 @@ Hey friend! Help me out for a couple of ☕️
     - [decidim](https://github.com/decidim/decidim) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails 🔥 ✅ 🚀
   - **Liscense**
     - [LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies.
+  - **Markup Lanugage**
+    - [haml](https://github.com/haml/haml) - HTML Abstraction Markup Language - A Markup Haiku 🔥 ✅ 🚀
   - **Markdwon**
     - [Kramdown](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions. 🔥
     - [asciidoctor](https://github.com/asciidoctor/asciidoctor) - 💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats. 🔥 🚀 ✅
