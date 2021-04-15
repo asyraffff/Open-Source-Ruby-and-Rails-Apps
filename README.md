@@ -156,6 +156,7 @@ Hey friend! Help me out for a couple of ☕️
 - [palindrome_app](https://github.com/mhartl/palindrome_app) - A palindrome detector Sinatra App 🔥
 - [intelilex](https://github.com/yshmarov/intelilex) - Website with contact form 🔥
 - [Cards-Against-the-internet](https://github.com/csx773/Cards-Against-the-Internet) - a clone web application of card game, Cards Against Humanity designed for online play. 🔥 ✅
+- [illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes. 🔥
 - [real-world-rails](https://github.com/eliotsykes/real-world-rails) - Real World Rails applications and their open source codebases for developers to learn from 🔥 ✅ 🚀
 - [css-only-chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend 🔥 ✅ 🚀
 - [enigma-chat](https://github.com/jamesball27/enigma-chat) - Real-time chat app that allows you to send encrypted messages using the World War II era Enigma encryption scheme. 👴 ✅
