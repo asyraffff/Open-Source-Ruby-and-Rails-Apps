@@ -671,6 +671,7 @@ Hey friend! Help me out for a couple of ☕️
   - **SSG**
     - [middleman](https://github.com/middleman/middleman) - Middleman is a static site generator using all the shortcuts and tools in modern web development. 🔥 ✅ 🚀
     - [webgen](https://github.com/gettalong/webgen) - webgen is a fast, powerful and extensible static website generator 🔥 ✅ 🚀
+    - [dimples](https://github.com/waferbaby/dimples) - A little static site generator. 🔥 ✅ 🚀
 
 # Wordpress
 - [Wordmove](https://github.com/welaika/wordmove) - Multi-stage command line deploy/mirroring and task runner for Wordpress 🔥 ✅ 🚀
