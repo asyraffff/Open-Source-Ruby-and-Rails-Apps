@@ -161,112 +161,19 @@ Hey friend! Help me out for a couple of ☕️
 - [real-world-rails](https://github.com/eliotsykes/real-world-rails) - Real World Rails applications and their open source codebases for developers to learn from 🔥 ✅ 🚀
 - [css-only-chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend 🔥 ✅ 🚀
 - [enigma-chat](https://github.com/jamesball27/enigma-chat) - Real-time chat app that allows you to send encrypted messages using the World War II era Enigma encryption scheme. 👴 ✅
-  - **Ads**
-    - [code_fund_ads](https://github.com/gitcoinco/code_fund_ads) - CodeFund is an open source platform that helps fund maintainers, bloggers, and builders through non-tracking ethical ads 🔥 ✅ 🚀
-  - **Anime**
-    - [annict](https://github.com/annict/annict) - The platform for anime addicts built with Rails and Stimulus.js. 🔥 🚀
-  - **Arts**
-    - [art-book-app](https://github.com/anastassia-b/art-book-app/) - 🖼   ArtBook is a full-stack web app for exploring art portfolios. Ruby on Rails, PostgreSQL, React+Redux. 🔥 🚀
-  - **Collaboration Tool**
-    - [loomio](https://github.com/loomio/loomio) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. 🔥 ✅ 🚀
-    - [publiclab](https://github.com/publiclab/plots2) - a collaborative knowledge-exchange platform in Rails 🔥 ✅
-    - [lale-help](https://github.com/lale-help/lale-help) - A collaborative platform for volunteer refugee support. 🔥 ✅ 🚀
-    - [teambox](https://github.com/redbooth/teambox) - This is the legacy version of Teambox - the award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter. 👴 ✅
-  - **Crowdfunding**
-    - [Catarse](https://github.com/catarse/catarse) - The first open source crowdfunding platform for creative projects in the world 🔥 ✅ 🚀
-  - **Donation**
-    - [shelter-gifts](https://github.com/anthonygharvey/shelter-gifts) - A Ruby on Rails app that makes it easy to donate directly to shelters by scraping their Amazon wishlists 🔥 ✅ 🚀
-    - [membership (debtcollective)](https://github.com/debtcollective/membership) - 💰 Member dues and Donations platform 🔥 ✅ 🚀
-    - [scan-donation](https://github.com/rubyforgood/scan-donation) - Donation app for Stop Child Abuse Now of Northern VA 👴 ✅
-  - **Email**
-    - [super-imap](https://github.com/rustyio/super-imap) - SuperIMAP - Monitor inboxes for incoming email, at scale. 👴 ✅
-  - **Event**
-    - [osem](https://github.com/openSUSE/osem) - Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences. 🔥 ✅ 🚀
-    - [klmeetups](https://github.com/alienxp03/klmeetups) - Find tech events in Malaysia 🔥 
-    - [Jetify](https://github.com/shadeying/Jetify) - Jetify is an app that allows you to see events happening in your area and creates a playlist based on those events  🔥 ✅ 
-    - [infusion](https://github.com/infusionvlc/infusion) - 📆 Web application for managing the community meetups 🔥 ✅ 🚀
-    - [nu-appoinments](https://github.com/UribeNelson/nu-appointments) - simple appointments app 🔥 ✅ 🚀
-    - [meetsync](https://github.com/dsc-umass/meetsync) - An Application to Meet and Sync with people 🔥 ✅ 🚀
-    - [react_rails_event_scheduler](https://github.com/AndresFMoya/react-rails_event_scheduler) - This project consist of building a mobile web app for an Events Scheduler using Rails API as backend, and ReactJS as frontend. 🔥 ✅ 🚀
-    - [eventx](https://github.com/andela/eventx) - for Event Managers who are not interested in the complexities of Event Management, but want to organize a world-class event! 👴 ✅ 🚀
-  - **Fitness**
-    - [reactfit](https://github.com/learnetto/reactfit) - A fitness dashboard app built using Rails 5.1 and React.js 👴 ✅
-  - **Food/Drink**
-    - [localorbit](https://github.com/LocalOrbit/localorbit) - Local Orbit is an open source web application and service that empowers food hubs to efficiently sell and distribute local food. 🔥 ✅ 🚀
-    - [JustEats](https://github.com/as6730/JustEats) - Full-Stack web application that allows users to search, discover and review restaurants 🔥 ✅
-    - [Eatry](https://github.com/dannam83/Eatery) - a website that shows restaurants and reviews of those restaurants. 🔥 ✅
-    - [coffee](https://github.com/kubilaycaglayan/coffee) - ☕  Choose your favorite coffee beans. 🔥 
-  - **Government**
-    - [consul](https://github.com/consul/consul) - Open Government and E-Participation Web Software 🔥 ✅ 🚀
-  - **Health**
-    - [ifme](https://github.com/ifmeorg/ifme) - Free, open source mental health communication web app to share experiences with loved ones 🔥 ✅ 🚀
-  - **Kindle**
-    - [highlights](https://github.com/tobi/highlights) - download your kindle highlights and email random ones to your inbox 🔥 ✅ 🚀
-  - **Language**
-    - [stacks_tracker_app](https://github.com/MuriloRoque/stacks_tracker_app) - In this app, you are able to track which languages you already know. You can choose which ones you are currently learning and see your learning progress, based on a goal you set. 🔥 ✅
-  - **Library**
-    - [ClassicDiscoveriesApp](https://github.com/adr5240/ClassicDiscoveriesApp) - An online literary library that can be used to search for books or authors. Users can even save books for later on their bookshelves. It was built using React.js/Flux for the front-end and Ruby on Rails for the back-end. 👴 ✅
-    - [Books-app](https://github.com/Temmarie/Books-app) - app that allows you to register books you've read and group them based on their genres. 🔥 🚀
-    - [circulate](https://github.com/rubyforgood/circulate) - An operating system for lending libraries 🔥 🚀
-  - **Map**
-    - [terrastories](https://github.com/Terrastories/terrastories) - Terrastories is a geostorytelling application built to enable local communities to locate and map their own oral storytelling traditions about places of significant meaning or value to them. 🔥 ✅ 🚀
-    - [ghgvc](https://github.com/ebimodeling/ghgvc) - Ecosystem Climate Regulation Services Calculator 🔥 ✅ 🚀
-    - [tag-along](https://github.com/leighhalliday/tag-along) - Real-time geo tracking using Rails, ActionCable, React, MobX, and MapBox 👴 ✅ 🚀
-  - **Productivity**
-    - [StarDuck](https://github.com/JerChuang/StartDuck) - StartDuck is a productivity app that generates activities based on user's choice of category and input hours. 🔥 ✅ 🚀
-    - [FinalCapstone](https://github.com/Dandush03/FinalCapstone.BackEnd) - This project is designed so you can keep your daily task like; working, sleeping, etc. and see a resume of your day. 🔥 ✅
-  - **Real Estate**
-    - [property_web_builder](https://github.com/etewiah/property_web_builder) - ⛺ The ultimate Ruby on Rails engine for creating real estate websites 🔥 ✅ 🚀
-  - **Reservation/Appointment**
-    - [star-table](https://github.com/zw301/star-table) - ⭐ A restaurant reservation web application. Using Ruby on Rails, PostgreSQL, JavaScript/React/Redux, JSX, SCSS. 🔥 ✅ 🚀
-    - [doctors](https://github.com/carloshdelreal/doctors) - Doctor's Appointment application that is intended to showcase full-stack web development skills, particularly in Ruby on Rails and React. 🔥 ✅
-    - [calagator](https://github.com/calagator/calagator) - An open source community calendar platform written in Ruby on Rails 🔥 ✅
-    - [calreact](https://github.com/learnetto/calreact) - React and Rails 5 calendar appointment app 🔥 👴 ✅
-  - **Snippet Manager**
-    - [snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager 🔥 ✅ 🚀
-    - [snippet_app](https://github.com/SnippetSafe/snippet_app) - A social code snippet sharing app that allows you to create, file and share code snippets with anyone. 🔥 ✅ 🚀
-    - [codervault](https://github.com/codervault/codervault) - An Open Source, Self-Hosted, Snippet Manager 🔥 👴 ✅
-  - **Social Network/Community**
-    - [Diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network. 🔥 ✅ 🚀
-    - [hackershare](https://github.com/hackershare/hackershare) - Hackershare is a powerful social bookmarking service and a knowledge-sharing community, with advanced search and tag management feature 🔥 ✅ 🚀
-    - [Coderwall](https://github.com/coderwall/coderwall-next) - Professional network for software engineers 🔥 ✅ 🚀
-    - [ting](https://github.com/Aufree/ting) - A music social networking project written in Ruby on Rails and Semantic-UI 🔥 ✅
-    - [casply](https://github.com/vitalyliber/casply) - The cosplayers community 🔥 ✅
-    - [mutual-aid](https://github.com/rubyforgood/mutual-aid) - Mutual aid management platform for groups who build, support, and strengthen community resilience. 🔥 ✅
-    - [usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done. 🔥 🚀
-    - [fed.ialis.me](https://github.com/ialisme/fed.ialis.me) - fed.ialis.me — the guide to the fediverse 🔥 🚀
-    - [evemonk](https://github.com/evemonk/evemonk) - EveMonk is helper software for EVE Online. 🔥 🚀
-    - [babywearing](https://github.com/rubyforgood/babywearing) - A lending library for Babywearing communities that manages baby carrier inventory and memberships 🔥 🚀
-    - [socify](https://github.com/scaffeinate/socify) - Socify is an open source social networking platform written in Ruby on Rails 👴 ✅ 🚀
-    - [Insoshi](https://github.com/insoshi/insoshi) - An open source social networking platform in Ruby on Rails 👴 ✅
-  - **Support/Campaign/Non-Profit**
-    - [support-your-local-businesses](https://github.com/mikejahn/support-your-local-businesses) - A web application to support supporting your local businesses online 🔥 ✅ 🚀
-    - [earthquake-croatia](https://github.com/vlado/earthquake-croatia) - Code for app hosted on https://potres.herokuapp.com used for helping people in need during the earthquake crisis in Croatia 🔥 🚀
-    - [covid-volunteers](https://github.com/helpwithcovid/covid-volunteers) - Organizing and matching volunteers with COVID-19 projects 🔥 ✅ 🚀
-    - [diaper](https://github.com/rubyforgood/diaper) - Diaperbase is an inventory system for diaper banks, to aid them in tracking their inventory and providing statistics about their inventory flows. 🔥 ✅ 🚀
-    - [voices-of-consent](https://github.com/rubyforgood/voices-of-consent) - Open source tracking and inventory management application for nonprofit, Voices of Consent 🔥 ✅
-    - [ConexionFelina](https://github.com/infusionvlc/ConexionFelina) - 🐱 ❤️ Web application for taking care of street cats 🔥 ✅
-    - [covidliste](https://github.com/hostolab/covidliste) - Covidliste makes it easy to manage waiting lists for vaccination centers. 🔥 ✅ 🚀
-    - [casa](https://github.com/rubyforgood/casa) - Volunteer management system for nonprofit CASA, which serves foster youth in counties across America. 🔥 ✅
-    - [worldcubeassociation.org](https://github.com/thewca/worldcubeassociation.org) - All of the code that runs on worldcubeassociation.org 🔥 ✅ 🚀
-    - [EBWiki](https://github.com/EBWiki/EBWiki) - repository of police abuse cases against people of color 🔥 ✅ 🚀
-    - [Champaign](https://github.com/SumOfUs/Champaign) - SumOfUs Online Campaign Platform. 🔥 ✅ 🚀
-    - [refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms) - REFUGE restrooms indexes and maps safe restroom locations for trans, intersex, and gender nonconforming individuals. 🔥 ✅ 🚀
-    - [india2019.vote](https://github.com/bodhish/india2019.vote) - A prediction app created for indian elections 2019. 🔥 🚀
-    - [reentry](https://github.com/rubyforgood/reentry) - Social Services Aggregator and Distribution Hub 👴 ✅ 🚀
-    - [playtime](https://github.com/rubyforgood/playtime) - Supporting children and families experiencing homelessness in Washington, DC 👴 ✅
-  - **Ticketing**
-    - [tebukuro](https://github.com/shinosakarb/tebukuro) - Build communities and ticketing 🔥 ✅
-  - **Time**
-    - [tomatoes](https://github.com/tomatoes-app/tomatoes) - Pomodoro Technique® online time tracker 🔥 ✅ 🚀
-    - [timeoverflow](https://github.com/coopdevs/timeoverflow) - 🏦 ⌛ A time banking system 🔥 ✅ 🚀
-    - [Happyhours](https://github.com/DefactoSoftware/Hours) - Time registration that doesn't suck 🔥 ✅ 🚀
-  - **Travel**
-    - [roam](https://github.com/sofiajonsson/roam) - Rails Travel App
+
+# Ads
+  - [code_fund_ads](https://github.com/gitcoinco/code_fund_ads) - CodeFund is an open source platform that helps fund maintainers, bloggers, and builders through non-tracking ethical ads 🔥 ✅ 🚀
 
 # Analytics
 - [Hypercable](https://github.com/HyperCable/hypercable) - Hypercable Analytics is a fully featured high performance scalable alternative to Google Analytics, build with timescaledb openresty redis and rails. 🔥 ✅ 🚀
 - [abalone](https://github.com/rubyforgood/abalone) - A data tracking and analytics app for abalone conservation efforts. 🔥 ✅ 🚀
+ 
+# Anime
+  - [annict](https://github.com/annict/annict) - The platform for anime addicts built with Rails and Stimulus.js. 🔥 🚀
+ 
+# Arts
+  - [art-book-app](https://github.com/anastassia-b/art-book-app/) - 🖼   ArtBook is a full-stack web app for exploring art portfolios. Ruby on Rails, PostgreSQL, React+Redux. 🔥 🚀
 
 # Background Job
 - [Sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby 🔥 ✅ 🚀
@@ -372,6 +279,20 @@ Hey friend! Help me out for a couple of ☕️
     - [Chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform 🔥 ✅ 🚀
     - [Chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥 ✅ 🚀
 
+# Collaboration Tool
+  - [loomio](https://github.com/loomio/loomio) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. 🔥 ✅ 🚀
+  - [publiclab](https://github.com/publiclab/plots2) - a collaborative knowledge-exchange platform in Rails 🔥 ✅
+  - [lale-help](https://github.com/lale-help/lale-help) - A collaborative platform for volunteer refugee support. 🔥 ✅ 🚀
+  - [teambox](https://github.com/redbooth/teambox) - This is the legacy version of Teambox - the award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter. 👴 ✅
+  
+# Crowdfunding
+  - [Catarse](https://github.com/catarse/catarse) - The first open source crowdfunding platform for creative projects in the world 🔥 ✅ 🚀
+  
+# Donation
+  - [shelter-gifts](https://github.com/anthonygharvey/shelter-gifts) - A Ruby on Rails app that makes it easy to donate directly to shelters by scraping their Amazon wishlists 🔥 ✅ 🚀
+  - [membership (debtcollective)](https://github.com/debtcollective/membership) - 💰 Member dues and Donations platform 🔥 ✅ 🚀
+  - [scan-donation](https://github.com/rubyforgood/scan-donation) - Donation app for Stop Child Abuse Now of Northern VA 👴 ✅
+  
 # DevOp
 - [Vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments. 🔥 ✅ 🚀
 - [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem. 🔥 ✅ 🚀
@@ -406,7 +327,7 @@ Hey friend! Help me out for a couple of ☕️
 - [docshub](https://github.com/w3cub/docshub) - API Documentation Browser based Github Pages service 🔥
 - [orientation](https://github.com/orientation/orientation) - Your best weapon in the fight against outdated documentation. 🔥 ✅ 🚀
 - [just-the-docs](https://github.com/pmarsceill/just-the-docs) A modern, high customizable, responsive Jekyll theme for documention with built-in search. 🔥 ✅ 🚀
-
+  
 # Ecommerce/Marketplace
 - [Spree](https://github.com/spree/spree) - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! 🔥 ✅ 🚀
 - [Solidus](https://github.com/solidusio/solidus) - 🛒 Solidus, Rails eCommerce System 🔥 ✅ 🚀
@@ -416,9 +337,20 @@ Hey friend! Help me out for a couple of ☕️
   - **Marketplace**
     - [Sharetribe](https://github.com/sharetribe/sharetribe) - Sharetribe Go is a source available marketplace software, also available as a hosted, no-code SaaS product. 🔥 ✅ 🚀
 
+# Editor
+  - **IDE**
+    - [diakonos](https://github.com/pistos/diakonos) - Linux console text editor for the masses. 🔥
+    - [ruber](https://github.com/stcrocco/ruber) - An IDE for Ruby written in Ruby using KDE 👴 ✅ 🚀
+    - [redcar](https://github.com/danlucraft/redcar) - A cross-platform programmer's editor written in Ruby. 👴 ✅
+    - [arcadia](https://github.com/angal/arcadia) - Light Ruby Ide 👴
+  - **WYSIWYG**
+    - [mercury](https://github.com/jejacks0n/mercury) - Mercury Editor: The Rails WYSIWYG editor that allows embedding full page editing capabilities directly inline. 🔥 ✅ 🚀
+    - [block-editor](https://github.com/yamasolutions/block-editor) - A block editor for Ruby on Rails
+
 # Email
 - [Postal](https://github.com/postalhq/postal) - 📨  A fully featured open source mail delivery platform for incoming & outgoing e-mail 🔥 ✅ 🚀
 - [lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats. 👴 ✅ 🚀
+- [super-imap](https://github.com/rustyio/super-imap) - SuperIMAP - Monitor inboxes for incoming email, at scale. 👴 ✅
   - **newsletter**
     - [newsletter](https://github.com/rilian/newsletter) - This project aims to streamline delivery of quality IT reading/watching resources to curious developers 🔥 🚀
     - [iReach](https://github.com/LoneStarInternet/newsletter) - A Ruby on Rails email newsletter template design and wysiwyg editor. 🔥 ✅ 🚀
@@ -429,6 +361,25 @@ Hey friend! Help me out for a couple of ☕️
     - [sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client 🔥 🚀
     - [rumble](https://github.com/yegor256/rumble) - Command Line Tool to Send Newsletters 🔥 🚀
 
+# Event
+  - [osem](https://github.com/openSUSE/osem) - Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences. 🔥 ✅ 🚀
+  - [klmeetups](https://github.com/alienxp03/klmeetups) - Find tech events in Malaysia 🔥 
+  - [Jetify](https://github.com/shadeying/Jetify) - Jetify is an app that allows you to see events happening in your area and creates a playlist based on those events  🔥 ✅ 
+  - [infusion](https://github.com/infusionvlc/infusion) - 📆 Web application for managing the community meetups 🔥 ✅ 🚀
+  - [nu-appoinments](https://github.com/UribeNelson/nu-appointments) - simple appointments app 🔥 ✅ 🚀
+  - [meetsync](https://github.com/dsc-umass/meetsync) - An Application to Meet and Sync with people 🔥 ✅ 🚀
+  - [react_rails_event_scheduler](https://github.com/AndresFMoya/react-rails_event_scheduler) - This project consist of building a mobile web app for an Events Scheduler using Rails API as backend, and ReactJS as frontend. 🔥 ✅ 🚀
+  - [eventx](https://github.com/andela/eventx) - for Event Managers who are not interested in the complexities of Event Management, but want to organize a world-class event! 👴 ✅ 🚀
+  
+# Fitness
+  - [reactfit](https://github.com/learnetto/reactfit) - A fitness dashboard app built using Rails 5.1 and React.js 👴 ✅
+  
+# Food/Drink
+  - [localorbit](https://github.com/LocalOrbit/localorbit) - Local Orbit is an open source web application and service that empowers food hubs to efficiently sell and distribute local food. 🔥 ✅ 🚀
+  - [JustEats](https://github.com/as6730/JustEats) - Full-Stack web application that allows users to search, discover and review restaurants 🔥 ✅
+  - [Eatry](https://github.com/dannam83/Eatery) - a website that shows restaurants and reviews of those restaurants. 🔥 ✅
+  - [coffee](https://github.com/kubilaycaglayan/coffee) - ☕  Choose your favorite coffee beans. 🔥 
+  
 # Facebook
 - [Koala](https://github.com/arsduo/koala) - A lightweight Facebook library supporting the Graph, Marketing, and Atlas APIs, realtime updates, test users, and OAuth. 🔥
 
@@ -455,7 +406,10 @@ Hey friend! Help me out for a couple of ☕️
 # GUI
 - [shoes4](https://github.com/shoes/shoes4) - Shoes is a little DSL for cross-platform (Mac, Windows, and Linux) GUI programming. 🔥 🚀
 
-# Open Source/Github
+# Government
+  - [consul](https://github.com/consul/consul) - Open Government and E-Participation Web Software 🔥 ✅ 🚀
+
+# Github/Open Source
 - [24pullrequests](https://github.com/24pullrequests/24pullrequests) - 🎄 Giving back to open source for the holidays 🔥 ✅ 🚀
 - [simple_review_app](https://github.com/ChrisBr/simple_review_app) - A simple way to create review apps for your open pull requests 🔥 🚀
 - [past.codesa](https://github.com/gjtorikian/past.codes) - Remember the repositories you starred on GitHub 🔥 ✅ 🚀
@@ -474,6 +428,9 @@ Hey friend! Help me out for a couple of ☕️
 - [git_time_extractor](https://github.com/rietta/git_time_extractor) - Analyzes Git repository commit logs to compute developer working hours, weekly activity, and to detect death marches in software development. 👴 ✅
 - [heaven](https://github.com/atmos/heaven) - 🚶 Rails app for GitHub Flow 👴 ✅
 - [pull-request-roulette](https://github.com/davearonson/pull-request-roulette) - Site to match up developers with people willing to comment on their pull requests 👴 🚀
+  
+# Health
+  - [ifme](https://github.com/ifmeorg/ifme) - Free, open source mental health communication web app to share experiences with loved ones 🔥 ✅ 🚀
 
 # Human Resources (HR)
 - [hrms](https://github.com/rilian/hrms) - Advanced HR management system. Manage company Employees (profiles, vacations, attachments, notes, notifications) and Candidates (vacancies, HR status funnel) 🔥 ✅ 🚀
@@ -485,16 +442,17 @@ Hey friend! Help me out for a couple of ☕️
 - [Octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with <3 by GitHub 🔥 ✅ 🚀
 - [evil-icons](https://github.com/evil-icons/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN 🔥 ✅ 🚀
 
-# Editor
-  - **IDE**
-    - [diakonos](https://github.com/pistos/diakonos) - Linux console text editor for the masses. 🔥
-    - [ruber](https://github.com/stcrocco/ruber) - An IDE for Ruby written in Ruby using KDE 👴 ✅ 🚀
-    - [redcar](https://github.com/danlucraft/redcar) - A cross-platform programmer's editor written in Ruby. 👴 ✅
-    - [arcadia](https://github.com/angal/arcadia) - Light Ruby Ide 👴
-  - **WYSIWYG**
-    - [mercury](https://github.com/jejacks0n/mercury) - Mercury Editor: The Rails WYSIWYG editor that allows embedding full page editing capabilities directly inline. 🔥 ✅ 🚀
-    - [block-editor](https://github.com/yamasolutions/block-editor) - A block editor for Ruby on Rails
-
+# Kindle
+  - [highlights](https://github.com/tobi/highlights) - download your kindle highlights and email random ones to your inbox 🔥 ✅ 🚀
+  
+# Language
+  - [stacks_tracker_app](https://github.com/MuriloRoque/stacks_tracker_app) - In this app, you are able to track which languages you already know. You can choose which ones you are currently learning and see your learning progress, based on a goal you set. 🔥 ✅
+  
+# Library
+  - [ClassicDiscoveriesApp](https://github.com/adr5240/ClassicDiscoveriesApp) - An online literary library that can be used to search for books or authors. Users can even save books for later on their bookshelves. It was built using React.js/Flux for the front-end and Ruby on Rails for the back-end. 👴 ✅
+  - [Books-app](https://github.com/Temmarie/Books-app) - app that allows you to register books you've read and group them based on their genres. 🔥 🚀
+  - [circulate](https://github.com/rubyforgood/circulate) - An operating system for lending libraries 🔥 🚀
+  
 # LMS
 - [canvas-lms)](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc. 🔥 ✅ 🚀
 - [pupilfirst](https://github.com/pupilfirst/pupilfirst) - A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interaction. 🔥 ✅ 🚀
@@ -505,6 +463,11 @@ Hey friend! Help me out for a couple of ☕️
 - [CascadeLMS](https://github.com/mikehelmick/CascadeLMS) - Cascade Learning Management System 👴 ✅ 🚀
 - [grasp](https://github.com/graspapp/grasp) - an open-source LMS for Common Core classrooms. 👴 ✅ 🚀
 
+# Map
+  - [terrastories](https://github.com/Terrastories/terrastories) - Terrastories is a geostorytelling application built to enable local communities to locate and map their own oral storytelling traditions about places of significant meaning or value to them. 🔥 ✅ 🚀
+  - [ghgvc](https://github.com/ebimodeling/ghgvc) - Ecosystem Climate Regulation Services Calculator 🔥 ✅ 🚀
+  - [tag-along](https://github.com/leighhalliday/tag-along) - Real-time geo tracking using Rails, ActionCable, React, MobX, and MapBox 👴 ✅ 🚀
+  
 # Mobile/Desktop App/IOS
 - [Homebrew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) 🔥 ✅ 🚀
 - [fastlane](https://github.com/fastlane/fastlane) - The easiest way to automate building and releasing your iOS and Android apps 🔥 ✅ 🚀
@@ -532,6 +495,10 @@ Hey friend! Help me out for a couple of ☕️
 - [notesclub](https://github.com/notesclub/notesclub) - Notes Club 🔥 🚀
 - [fiber-note](https://github.com/namiwang/fiber-note) - A networked note-taking app, open and self-hosted, inspired by roam-research, obsidian and others. 🔥 ✅ 🚀
 
+# Productivity
+  - [StarDuck](https://github.com/JerChuang/StartDuck) - StartDuck is a productivity app that generates activities based on user's choice of category and input hours. 🔥 ✅ 🚀
+  - [FinalCapstone](https://github.com/Dandush03/FinalCapstone.BackEnd) - This project is designed so you can keep your daily task like; working, sleeping, etc. and see a resume of your day. 🔥 ✅
+  
 # Payment/Billing/Invoice
 - [open-source-billing](https://github.com/vteams/open-source-billing) - Open Source Billing a super simple way to create and send invoices and receive payments online. 🔥 ✅ 🚀
 - [invoice_printer](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing 🔥 ✅ 🚀
@@ -559,7 +526,7 @@ Hey friend! Help me out for a couple of ☕️
 - [chiliproject](https://github.com/chiliproject/chiliproject) - web based project management system built on Ruby on Rails 👴 ✅ 
 
 # Prototyping
-- [FireApp](https://github.com/KKBOX/FireApp) - Fire.app is a HTML prototyping tool with Sass/Compass/ERB/Haml/Slim/Markdown support 🔥 ✅ 🚀
+- [FireApp](https://github.com/KKBOX/FireApp) - Fire.app is a HTML prototyping tool with Sass/Compass/ERB/Haml/Slim/Markdown support 🔥 ✅ 🚀  
 
 # Ruby and Rails
 - [rubytogether.org](https://github.com/rubytogether/rubytogether.org) - The Ruby Together website 🔥 ✅ 🚀
@@ -599,6 +566,50 @@ Hey friend! Help me out for a couple of ☕️
     - [feedbin](https://github.com/feedbin/feedbin) - a simple, fast and nice looking RSS reader. 🔥 ✅ 🚀
     - [FeedBunch](https://github.com/amatriain/feedbunch) - A simple and elegant feed reader. 🔥 ✅ 🚀
 
+# Real Estate
+  - [property_web_builder](https://github.com/etewiah/property_web_builder) - ⛺ The ultimate Ruby on Rails engine for creating real estate websites 🔥 ✅ 🚀
+ 
+# Reservation/Appointment
+  - [star-table](https://github.com/zw301/star-table) - ⭐ A restaurant reservation web application. Using Ruby on Rails, PostgreSQL, JavaScript/React/Redux, JSX, SCSS. 🔥 ✅ 🚀
+  - [doctors](https://github.com/carloshdelreal/doctors) - Doctor's Appointment application that is intended to showcase full-stack web development skills, particularly in Ruby on Rails and React. 🔥 ✅
+  - [calagator](https://github.com/calagator/calagator) - An open source community calendar platform written in Ruby on Rails 🔥 ✅
+  - [calreact](https://github.com/learnetto/calreact) - React and Rails 5 calendar appointment app 🔥 👴 ✅
+  
+# Snippet Manager
+  - [snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager 🔥 ✅ 🚀
+  - [snippet_app](https://github.com/SnippetSafe/snippet_app) - A social code snippet sharing app that allows you to create, file and share code snippets with anyone. 🔥 ✅ 🚀
+  - [codervault](https://github.com/codervault/codervault) - An Open Source, Self-Hosted, Snippet Manager 🔥 👴 ✅
+  
+# Social Network/Community
+  - [Diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network. 🔥 ✅ 🚀
+  - [hackershare](https://github.com/hackershare/hackershare) - Hackershare is a powerful social bookmarking service and a knowledge-sharing community, with advanced search and tag management feature 🔥 ✅ 🚀
+  - [Coderwall](https://github.com/coderwall/coderwall-next) - Professional network for software engineers 🔥 ✅ 🚀
+  - [ting](https://github.com/Aufree/ting) - A music social networking project written in Ruby on Rails and Semantic-UI 🔥 ✅
+  - [casply](https://github.com/vitalyliber/casply) - The cosplayers community 🔥 ✅
+  - [mutual-aid](https://github.com/rubyforgood/mutual-aid) - Mutual aid management platform for groups who build, support, and strengthen community resilience. 🔥 ✅
+  - [usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done. 🔥 🚀
+  - [fed.ialis.me](https://github.com/ialisme/fed.ialis.me) - fed.ialis.me — the guide to the fediverse 🔥 🚀
+  - [evemonk](https://github.com/evemonk/evemonk) - EveMonk is helper software for EVE Online. 🔥 🚀
+  - [babywearing](https://github.com/rubyforgood/babywearing) - A lending library for Babywearing communities that manages baby carrier inventory and memberships 🔥 🚀
+  - [socify](https://github.com/scaffeinate/socify) - Socify is an open source social networking platform written in Ruby on Rails 👴 ✅ 🚀
+  - [Insoshi](https://github.com/insoshi/insoshi) - An open source social networking platform in Ruby on Rails 👴 ✅
+  
+# Support/Campaign/Non-Profit
+  - [support-your-local-businesses](https://github.com/mikejahn/support-your-local-businesses) - A web application to support supporting your local businesses online 🔥 ✅ 🚀
+  - [earthquake-croatia](https://github.com/vlado/earthquake-croatia) - Code for app hosted on https://potres.herokuapp.com used for helping people in need during the earthquake crisis in Croatia 🔥 🚀
+  - [covid-volunteers](https://github.com/helpwithcovid/covid-volunteers) - Organizing and matching volunteers with COVID-19 projects 🔥 ✅ 🚀
+  - [diaper](https://github.com/rubyforgood/diaper) - Diaperbase is an inventory system for diaper banks, to aid them in tracking their inventory and providing statistics about their inventory flows. 🔥 ✅ 🚀
+  - [voices-of-consent](https://github.com/rubyforgood/voices-of-consent) - Open source tracking and inventory management application for nonprofit, Voices of Consent 🔥 ✅
+  - [ConexionFelina](https://github.com/infusionvlc/ConexionFelina) - 🐱 ❤️ Web application for taking care of street cats 🔥 ✅
+  - [covidliste](https://github.com/hostolab/covidliste) - Covidliste makes it easy to manage waiting lists for vaccination centers. 🔥 ✅ 🚀
+  - [casa](https://github.com/rubyforgood/casa) - Volunteer management system for nonprofit CASA, which serves foster youth in counties across America. 🔥 ✅
+  - [worldcubeassociation.org](https://github.com/thewca/worldcubeassociation.org) - All of the code that runs on worldcubeassociation.org 🔥 ✅ 🚀
+  - [EBWiki](https://github.com/EBWiki/EBWiki) - repository of police abuse cases against people of color 🔥 ✅ 🚀
+  - [Champaign](https://github.com/SumOfUs/Champaign) - SumOfUs Online Campaign Platform. 🔥 ✅ 🚀
+  - [refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms) - REFUGE restrooms indexes and maps safe restroom locations for trans, intersex, and gender nonconforming individuals. 🔥 ✅ 🚀
+  - [india2019.vote](https://github.com/bodhish/india2019.vote) - A prediction app created for indian elections 2019. 🔥 🚀
+  - [reentry](https://github.com/rubyforgood/reentry) - Social Services Aggregator and Distribution Hub 👴 ✅ 🚀
+  - [playtime](https://github.com/rubyforgood/playtime) - Supporting children and families experiencing homelessness in Washington, DC 👴 ✅
 
 # Security
 - [HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs. 🔥 🚀
@@ -616,6 +627,17 @@ Hey friend! Help me out for a couple of ☕️
 - [slack-bot-on-rails](https://github.com/slack-ruby/slack-bot-on-rails) - A Rails + React application with a slack bot. 🔥 ✅ 🚀
 - [Virtual-Coffee-Bot](https://github.com/Virtual-Coffee/Virtual-Coffee-Bot) - A friendly bot to give us a heads up when the next events are. 🔥 🚀
 
+# Ticketing
+  - [tebukuro](https://github.com/shinosakarb/tebukuro) - Build communities and ticketing 🔥 ✅
+  
+# Time
+  - [tomatoes](https://github.com/tomatoes-app/tomatoes) - Pomodoro Technique® online time tracker 🔥 ✅ 🚀
+  - [timeoverflow](https://github.com/coopdevs/timeoverflow) - 🏦 ⌛ A time banking system 🔥 ✅ 🚀
+  - [Happyhours](https://github.com/DefactoSoftware/Hours) - Time registration that doesn't suck 🔥 ✅ 🚀
+  
+# Travel
+  - [roam](https://github.com/sofiajonsson/roam) - Rails Travel App
+  
 # Telegram
 - [upwork_telegram_notifier](https://github.com/vitalyliber/upwork_telegram_notifier) - Get notifications for new Upwork jobs right into your Telegram 🔥 🚀
 - [eatmore](https://github.com/marckohlbrugge/eatmore) - Telegram bot that reminds you to eat more 🔥 🚀
@@ -654,6 +676,7 @@ Hey friend! Help me out for a couple of ☕️
   - [tty-table](https://github.com/piotrmurach/tty-table) - A flexible and intuitive table generator 🔥 ✅ 🚀
 
 # Tools
+- [backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems 🔥 ✅ 🚀
 - [RESTular](https://github.com/georgewambold/RESTular) - Easy to understand RESTful routing for Sinatra / Ruby on Rails app
   - **Students Monitoring**
     - [ved_akadem_students](https://github.com/KyivKrishnaAcademy/ved_akadem_students) - Students attendance and progress monitoring tool. 🔥 ✅ 🚀
