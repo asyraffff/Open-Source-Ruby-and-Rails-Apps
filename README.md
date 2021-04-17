@@ -474,10 +474,11 @@ Hey friend! Help me out for a couple of ☕️
 - [RubyGateway](https://github.com/johnfairh/RubyGateway) - Embed Ruby in Swift: load Gems, run scripts, call APIs seamlessly in both directions. 🔥 ✅ 🚀
 - [Dryrun](https://github.com/cesarferreira/dryrun) - Try any android library hosted online directly from the command line 🔥 🚀
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods) - CocoaPods manages dependencies for your Xcode projects. 🔥 ✅ 🚀
-- [nsrails](https://github.com/dingbat/nsrails) - iOS/Mac OS framework for Rails 👴 ✅
 - [pwa-demo](https://github.com/dmcd/pwa-demo) - Progressive Web App Demo using Rails and React 🔥 ✅ 🚀
+- [SwiftyBadgeButton](https://github.com/raphaelcruzeiro/SwiftyBadgeButton) - A simple, fully tested, 100% Swift badge button. 🔥 🚀
 - [miaudota](https://github.com/Davigl/miaudota) - 🐱 🐶  app that automates the pet adoption process. (rails api + react native) 🔥 ✅ 🚀
 - [GetOut](https://github.com/tylerreichle/GetOut) - React Native App to meet and chat with nearby people who share similar interests 🔥 ✅ 🚀
+- [nsrails](https://github.com/dingbat/nsrails) - iOS/Mac OS framework for Rails 👴 ✅
 
 # Music
 - [MailTape](https://github.com/MailTape/MailTape.github.io) - Feed your inspiration with music, every Sunday morning. 🔥 ✅ 🚀
