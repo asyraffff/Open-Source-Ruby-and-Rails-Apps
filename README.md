@@ -475,6 +475,7 @@ Hey friend! Help me out for a couple of ☕️
 - [Dryrun](https://github.com/cesarferreira/dryrun) - Try any android library hosted online directly from the command line 🔥 🚀
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods) - CocoaPods manages dependencies for your Xcode projects. 🔥 ✅ 🚀
 - [pwa-demo](https://github.com/dmcd/pwa-demo) - Progressive Web App Demo using Rails and React 🔥 ✅ 🚀
+- [badge](https://github.com/HazAT/badge) - add a badge to your tvOS/iOS/Android app icon 🔥 🚀
 - [SwiftyBadgeButton](https://github.com/raphaelcruzeiro/SwiftyBadgeButton) - A simple, fully tested, 100% Swift badge button. 🔥 🚀
 - [miaudota](https://github.com/Davigl/miaudota) - 🐱 🐶  app that automates the pet adoption process. (rails api + react native) 🔥 ✅ 🚀
 - [GetOut](https://github.com/tylerreichle/GetOut) - React Native App to meet and chat with nearby people who share similar interests 🔥 ✅ 🚀
