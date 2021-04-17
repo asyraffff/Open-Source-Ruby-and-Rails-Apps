@@ -428,9 +428,12 @@ Hey friend! Help me out for a couple of ☕️
 - [git_time_extractor](https://github.com/rietta/git_time_extractor) - Analyzes Git repository commit logs to compute developer working hours, weekly activity, and to detect death marches in software development. 👴 ✅
 - [heaven](https://github.com/atmos/heaven) - 🚶 Rails app for GitHub Flow 👴 ✅
 - [pull-request-roulette](https://github.com/davearonson/pull-request-roulette) - Site to match up developers with people willing to comment on their pull requests 👴 🚀
+
+# Hack
+- [miteru](https://github.com/ninoseki/miteru) - An experimental phishing kit detection tool 🔥 🚀
   
 # Health
-  - [ifme](https://github.com/ifmeorg/ifme) - Free, open source mental health communication web app to share experiences with loved ones 🔥 ✅ 🚀
+- [ifme](https://github.com/ifmeorg/ifme) - Free, open source mental health communication web app to share experiences with loved ones 🔥 ✅ 🚀
 
 # Human Resources (HR)
 - [hrms](https://github.com/rilian/hrms) - Advanced HR management system. Manage company Employees (profiles, vacations, attachments, notes, notifications) and Candidates (vacancies, HR status funnel) 🔥 ✅ 🚀
