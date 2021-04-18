@@ -554,6 +554,8 @@ Hey friend! Help me out for a couple of ☕️
     - [social-login-in-rails](https://github.com/mohitjain/social-login-in-rails) - A small application with integrates with Devise + Twitter + Facebook + Linkedin + Google + Github. 🔥 ✅ 
   - **gems**
     - [decidim](https://github.com/decidim/decidim) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails 🔥 ✅ 🚀
+  - **Interpreter**
+    - [for-the-graal](https://github.com/NicholasLYang/for-the-graal) A simple but absurd language implemented in Ruby-Java-JavaScript 🔥 🚀
   - **Liscense**
     - [LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies.
   - **Markup Lanugage**
