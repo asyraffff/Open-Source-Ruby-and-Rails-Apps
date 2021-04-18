@@ -472,10 +472,11 @@ Hey friend! Help me out for a couple of ☕️
   - [ghgvc](https://github.com/ebimodeling/ghgvc) - Ecosystem Climate Regulation Services Calculator 🔥 ✅ 🚀
   - [tag-along](https://github.com/leighhalliday/tag-along) - Real-time geo tracking using Rails, ActionCable, React, MobX, and MapBox 👴 ✅ 🚀
   
-# Mobile/Desktop App/IOS
+# Mobile/Desktop App/IOS/Swift
 - [Homebrew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) 🔥 ✅ 🚀
 - [fastlane](https://github.com/fastlane/fastlane) - The easiest way to automate building and releasing your iOS and Android apps 🔥 ✅ 🚀
 - [RubyGateway](https://github.com/johnfairh/RubyGateway) - Embed Ruby in Swift: load Gems, run scripts, call APIs seamlessly in both directions. 🔥 ✅ 🚀
+- [RouterX](https://github.com/jasl/RouterX) - A Ruby on Rails flavoured URL routing engine in Swift. 🔥 🚀
 - [Dryrun](https://github.com/cesarferreira/dryrun) - Try any android library hosted online directly from the command line 🔥 🚀
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods) - CocoaPods manages dependencies for your Xcode projects. 🔥 ✅ 🚀
 - [pwa-demo](https://github.com/dmcd/pwa-demo) - Progressive Web App Demo using Rails and React 🔥 ✅ 🚀
