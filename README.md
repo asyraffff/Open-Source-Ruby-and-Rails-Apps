@@ -418,6 +418,7 @@ Hey friend! Help me out for a couple of ☕️
 - [linguist]*https://github.com/github/linguist) - This library is used on GitHub.com to detect blob languages, ignore binary or vendored files, suppress generated files in diffs, and generate language breakdown graphs. 🔥 ✅ 🚀
 - [libraries.io](https://github.com/librariesio/libraries.io) - 📚 The Open Source Discovery Service 🔥 ✅ 🚀
 - [Codetriage](https://github.com/codetriage/CodeTriage) - Discover the best way to get started contributing to Open Source projects 🔥 ✅ 🚀
+- [Github explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub 🔥 🚀
 - [issuehub.io](https://github.com/despo/issuehub.io) - Find open source issues to work on! 🔥 ✅ 🚀
 - [gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend. 🔥 ✅ 🚀
 - [github-awards](https://github.com/vdaubry/github-awards) - Discover your ranking on github 🔥 🚀
