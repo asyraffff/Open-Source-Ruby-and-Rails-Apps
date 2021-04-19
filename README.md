@@ -412,6 +412,7 @@ Hey friend! Help me out for a couple of ☕️
 # Github/Open Source
 - [24pullrequests](https://github.com/24pullrequests/24pullrequests) - 🎄 Giving back to open source for the holidays 🔥 ✅ 🚀
 - [simple_review_app](https://github.com/ChrisBr/simple_review_app) - A simple way to create review apps for your open pull requests 🔥 🚀
+- [hyrax](https://github.com/samvera/hyrax) - Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications. 🔥 ✅ 🚀
 - [past.codesa](https://github.com/gjtorikian/past.codes) - Remember the repositories you starred on GitHub 🔥 ✅ 🚀
 - [opensourcefriday](https://github.com/github/opensourcefriday) - 🚲 Contribute to the open source community every Friday 🔥 🚀
 - [Octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications 🔥 ✅ 🚀
