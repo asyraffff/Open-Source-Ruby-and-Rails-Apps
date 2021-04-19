@@ -431,6 +431,7 @@ Hey friend! Help me out for a couple of ☕️
 - [pull-request-roulette](https://github.com/davearonson/pull-request-roulette) - Site to match up developers with people willing to comment on their pull requests 👴 🚀
 
 # Hack
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework  🔥 ✅ 🚀
 - [miteru](https://github.com/ninoseki/miteru) - An experimental phishing kit detection tool 🔥 🚀
   
 # Health
