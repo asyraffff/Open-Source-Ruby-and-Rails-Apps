@@ -468,9 +468,9 @@ Hey friend! Help me out for a couple of ☕️
 - [grasp](https://github.com/graspapp/grasp) - an open-source LMS for Common Core classrooms. 👴 ✅ 🚀
 
 # Map
-  - [terrastories](https://github.com/Terrastories/terrastories) - Terrastories is a geostorytelling application built to enable local communities to locate and map their own oral storytelling traditions about places of significant meaning or value to them. 🔥 ✅ 🚀
-  - [ghgvc](https://github.com/ebimodeling/ghgvc) - Ecosystem Climate Regulation Services Calculator 🔥 ✅ 🚀
-  - [tag-along](https://github.com/leighhalliday/tag-along) - Real-time geo tracking using Rails, ActionCable, React, MobX, and MapBox 👴 ✅ 🚀
+- [terrastories](https://github.com/Terrastories/terrastories) - Terrastories is a geostorytelling application built to enable local communities to locate and map their own oral storytelling traditions about places of significant meaning or value to them. 🔥 ✅ 🚀
+- [ghgvc](https://github.com/ebimodeling/ghgvc) - Ecosystem Climate Regulation Services Calculator 🔥 ✅ 🚀
+- [tag-along](https://github.com/leighhalliday/tag-along) - Real-time geo tracking using Rails, ActionCable, React, MobX, and MapBox 👴 ✅ 🚀
   
 # Mobile/Desktop App/IOS/Swift
 - [Homebrew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) 🔥 ✅ 🚀
@@ -609,6 +609,7 @@ Hey friend! Help me out for a couple of ☕️
   - [covid-volunteers](https://github.com/helpwithcovid/covid-volunteers) - Organizing and matching volunteers with COVID-19 projects 🔥 ✅ 🚀
   - [diaper](https://github.com/rubyforgood/diaper) - Diaperbase is an inventory system for diaper banks, to aid them in tracking their inventory and providing statistics about their inventory flows. 🔥 ✅ 🚀
   - [voices-of-consent](https://github.com/rubyforgood/voices-of-consent) - Open source tracking and inventory management application for nonprofit, Voices of Consent 🔥 ✅
+  - [eol](https://github.com/EOL/eol) - Encyclopedia of Life 🔥 ✅ 🚀
   - [ConexionFelina](https://github.com/infusionvlc/ConexionFelina) - 🐱 ❤️ Web application for taking care of street cats 🔥 ✅
   - [covidliste](https://github.com/hostolab/covidliste) - Covidliste makes it easy to manage waiting lists for vaccination centers. 🔥 ✅ 🚀
   - [casa](https://github.com/rubyforgood/casa) - Volunteer management system for nonprofit CASA, which serves foster youth in counties across America. 🔥 ✅
@@ -724,4 +725,3 @@ Hey friend! Help me out for a couple of ☕️
 - [compile-to-web](https://github.com/ChristianMurphy/compile-to-web) - Discover what languages can be compiled to Web Assembly 🔥 🚀
 - [transrate](https://github.com/blahah/transrate) - Understand your transcriptome assembly 🔥 🚀
 - [pre-assembly](https://github.com/sul-dlss/pre-assembly) - Rails app - prepares objects for assembly workflow and allows discovery report 🔥 🚀
-
