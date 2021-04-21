@@ -660,6 +660,7 @@ Hey friend! Help me out for a couple of ☕️
 - [t](https://github.com/sferik/t) - A command-line power tool for Twitter. 🔥 ✅ 🚀
 - [Homebrew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) 🔥 ✅ 🚀
 - [startup-time](https://github.com/chocolateboy/startup-time) - A command-line benchmarking tool to measure the startup times of programs in various languages 🔥 🚀
+- [bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator 🔥
 - [rainbow](https://github.com/sickill/rainbow) - Ruby gem for colorizing printed text on ANSI terminals 🔥
 - [pastel](https://github.com/piotrmurach/pastel) - 🌈 Terminal output styling with intuitive and clean API. 🔥 🚀
 - [lit](https://github.com/refIekt/lit) - Shine a light on terminal commands. 🔥
