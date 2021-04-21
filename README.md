@@ -494,6 +494,7 @@ Hey friend! Help me out for a couple of ☕️
 - [alonetone](https://github.com/sudara/alonetone) - A free, open source, non-commercial home for musicians and their music 🔥 🚀
 - [rockburg](https://github.com/Rockburg/rockburg) - Rockburg is a music industry simulation game. 🤘 🔥 ✅ 🚀
 - [plylst](https://github.com/Shpigford/plylst) - Smart playlists for Spotify! Stop relying on fancy pants algorithms to organize your library and instead build playlists the way you want. 🔥 🚀
+- [so-nice](https://github.com/sunny/so-nice) - Small Web interface to control iTunes, Spotify, Rdio, MPD, Rhythmbox, Amarok and XMMS2. ♫ 🔥 ✅
 - [fraudify](https://github.com/jamesball27/fraudify) - Free music streaming app built with Rails and React 🔥 ✅
 - [live-music](https://github.com/Dounx/live-music) - Web version of NetEase Cloud Music to listen to songs synchronously. 🔥 
 - [black_candy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server 🔥 ✅ 🚀
