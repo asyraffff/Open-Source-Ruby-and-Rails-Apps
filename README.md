@@ -671,6 +671,7 @@ Hey friend! Help me out for a couple of ☕️
 - [pastel](https://github.com/piotrmurach/pastel) - 🌈 Terminal output styling with intuitive and clean API. 🔥 🚀
 - [lit](https://github.com/refIekt/lit) - Shine a light on terminal commands. 🔥
 - [md2man](https://github.com/sunaku/md2man) - md2man is a Ruby library and a set of command-line programs that convert Markdown into UNIX manpages as well as HTML webpages using Redcarpet. 🔥 🚀
+- [til-rb](https://github.com/pjambet/til-rb) - A cli to help managing a TIL repo 🔥 🚀
 - [lolcat](https://github.com/busyloop/lolcat) - 🌈 Rainbow your terminal 🔥 🚀
 - [developer_news_cli_app](https://github.com/anthonygharvey/developer_news_cli_app) - A Ruby CLI app that scrapes article information from FreeCodeCamp, HackerNoon, Codeburst and A List Apart. 🔥 🚀
 - [colorls](https://github.com/athityakumar/colorls) - 🎉 A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. 🔥 🚀 
