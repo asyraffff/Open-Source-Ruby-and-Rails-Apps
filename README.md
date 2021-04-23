@@ -604,6 +604,7 @@ Hey friend! Help me out for a couple of ☕️
   - [fed.ialis.me](https://github.com/ialisme/fed.ialis.me) - fed.ialis.me — the guide to the fediverse 🔥 🚀
   - [evemonk](https://github.com/evemonk/evemonk) - EveMonk is helper software for EVE Online. 🔥 🚀
   - [babywearing](https://github.com/rubyforgood/babywearing) - A lending library for Babywearing communities that manages baby carrier inventory and memberships 🔥 🚀
+  - [airesis](https://github.com/airesis/airesis) - The Social Network for eDemocracy 🔥 ✅ 🚀
   - [socify](https://github.com/scaffeinate/socify) - Socify is an open source social networking platform written in Ruby on Rails 👴 ✅ 🚀
   - [Insoshi](https://github.com/insoshi/insoshi) - An open source social networking platform in Ruby on Rails 👴 ✅
   
