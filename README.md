@@ -538,6 +538,9 @@ Hey friend! Help me out for a couple of ☕️
 # Prototyping
 - [FireApp](https://github.com/KKBOX/FireApp) - Fire.app is a HTML prototyping tool with Sass/Compass/ERB/Haml/Slim/Markdown support 🔥 ✅ 🚀  
 
+# Redis
+- [redis-in-ruby](https://github.com/pjambet/redis-in-ruby) - Redis, but in Ruby 🔥 ✅ 🚀
+
 # Ruby and Rails
 - [rubytogether.org](https://github.com/rubytogether/rubytogether.org) - The Ruby Together website 🔥 ✅ 🚀
 - [Ruby-git](https://github.com/ruby-git/ruby-git) - Ruby/Git is a Ruby library that can be used to create, read and manipulate Git repositories by wrapping system calls to the git binary. 🔥 ✅ 🚀
