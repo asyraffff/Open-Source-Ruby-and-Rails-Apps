@@ -600,6 +600,7 @@ Hey friend! Help me out for a couple of ☕️
   - [casply](https://github.com/vitalyliber/casply) - The cosplayers community 🔥 ✅
   - [mutual-aid](https://github.com/rubyforgood/mutual-aid) - Mutual aid management platform for groups who build, support, and strengthen community resilience. 🔥 ✅
   - [usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done. 🔥 🚀
+  - [kitesocial](https://github.com/buildkite/kitesocial) - A super basic not-Twitter, for interviews. 🔥 🚀
   - [fed.ialis.me](https://github.com/ialisme/fed.ialis.me) - fed.ialis.me — the guide to the fediverse 🔥 🚀
   - [evemonk](https://github.com/evemonk/evemonk) - EveMonk is helper software for EVE Online. 🔥 🚀
   - [babywearing](https://github.com/rubyforgood/babywearing) - A lending library for Babywearing communities that manages baby carrier inventory and memberships 🔥 🚀
