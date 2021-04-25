@@ -514,6 +514,9 @@ Hey friend! Help me out for a couple of ☕️
 - [invoice_printer](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing 🔥 ✅ 🚀
 - [bill-process](https://github.com/anastassia-b/bill-process) - Fullstack bill processing app-- enables various account types to collaborate on bill actions before it is sent to a customer. Rails, PostgreSQL, React/Redux 🔥
 
+# Photo
+- [photo-stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream
+
 # Platform
 - [zipsell](https://github.com/yongfook/zipsell) - A free open source platform for selling digital downloads such as ebooks 🔥 ✅ 🚀
 
