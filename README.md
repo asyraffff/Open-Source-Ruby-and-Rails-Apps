@@ -232,6 +232,7 @@ Hey friend! Help me out for a couple of ☕️
 
 # Books
 - [kitabu](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown using Ruby. Using the Prince PDF generator, you'll be able to get high quality PDFs. Also supports EPUB, Mobi, Text and HTML generation. 🔥 ✅ 🚀
+- [kindle highlights](https://github.com/tobi/highlights) - download your kindle highlights and email random ones to your inbox
 
 
 # Bugs
