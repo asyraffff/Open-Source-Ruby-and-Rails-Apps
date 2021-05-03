@@ -394,6 +394,7 @@ Hey friend! Help me out for a couple of ☕️
     - [thredded](https://github.com/thredded/thredded) - The best Rails forums engine ever. 🔥 ✅ 🚀
 
 # Games
+- [vglist](https://github.com/connorshea/vglist) - A video game library tracking web app built in Rails and powered by Wikidata 🔥 ✅ 🚀
 - [ruby2d](https://github.com/ruby2d/ruby2d) - 🎮 The Ruby 2D gem 🔥 🚀
 - [gosu](https://github.com/gosu/gosu/) - 2D game development library for Ruby and C++ 🔥
 - [RN-Rock-Paper-Scissors](https://github.com/ShivamJoker/RN-Rock-Paper-Scissors) - Simple Rock Paper Scissors Game Made in React Native runs on Android, iOS, Web, MacOS, Windows 🔥 ✅ 🚀
