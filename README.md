@@ -600,6 +600,7 @@ Hey friend! Help me out for a couple of ☕️
 # Snippet Manager
   - [snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager 🔥 ✅ 🚀
   - [snippet_app](https://github.com/SnippetSafe/snippet_app) - A social code snippet sharing app that allows you to create, file and share code snippets with anyone. 🔥 ✅ 🚀
+  - [ruby-fiddle](https://github.com/jwo/ruby-fiddle-web) - Because JSFiddle is awesome. Persist, Version, and Fork Ruby Snippets. 🔥 👴 ✅
   - [codervault](https://github.com/codervault/codervault) - An Open Source, Self-Hosted, Snippet Manager 🔥 👴 ✅
   
 # Social Network/Community
