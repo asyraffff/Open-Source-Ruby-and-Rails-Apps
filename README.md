@@ -377,6 +377,7 @@ Hey friend! Help me out for a couple of ☕️
   
 # Food/Drink
   - [localorbit](https://github.com/LocalOrbit/localorbit) - Local Orbit is an open source web application and service that empowers food hubs to efficiently sell and distribute local food. 🔥 ✅ 🚀
+  - [growstuff](https://github.com/Growstuff/growstuff) - Open data project for small-scale food growers 🔥 ✅ 🚀
   - [JustEats](https://github.com/as6730/JustEats) - Full-Stack web application that allows users to search, discover and review restaurants 🔥 ✅
   - [Eatry](https://github.com/dannam83/Eatery) - a website that shows restaurants and reviews of those restaurants. 🔥 ✅
   - [coffee](https://github.com/kubilaycaglayan/coffee) - ☕  Choose your favorite coffee beans. 🔥 
