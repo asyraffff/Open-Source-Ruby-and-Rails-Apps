@@ -566,6 +566,8 @@ Hey friend! Help me out for a couple of ☕️
 - [pluginGeek](https://github.com/thomasklemm/pluginGeek) - Discover great Ruby gems and Javascript plugins. Like AirBnB but for Space Travel. 👴 🚀
   - **Auth**
     - [social-login-in-rails](https://github.com/mohitjain/social-login-in-rails) - A small application with integrates with Devise + Twitter + Facebook + Linkedin + Google + Github. 🔥 ✅ 
+  - **Compiler**
+    - [run.rb](https://github.com/jasoncharnes/run.rb) - Run Ruby in the browser using WebAssembly
   - **gems**
     - [decidim](https://github.com/decidim/decidim) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails 🔥 ✅ 🚀
   - **Interpreter**
