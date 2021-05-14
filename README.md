@@ -513,6 +513,9 @@ Hey friend! Help me out for a couple of ☕️
 # Productivity
   - [StarDuck](https://github.com/JerChuang/StartDuck) - StartDuck is a productivity app that generates activities based on user's choice of category and input hours. 🔥 ✅ 🚀
   - [FinalCapstone](https://github.com/Dandush03/FinalCapstone.BackEnd) - This project is designed so you can keep your daily task like; working, sleeping, etc. and see a resume of your day. 🔥 ✅
+
+# Protocol
+  - [net-ssh](https://github.com/net-ssh/net-ssh) - Pure Ruby implementation of an SSH (protocol 2) client
   
 # Payment/Billing/Invoice
 - [open-source-billing](https://github.com/vteams/open-source-billing) - Open Source Billing a super simple way to create and send invoices and receive payments online. 🔥 ✅ 🚀
