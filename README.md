@@ -718,6 +718,9 @@ Hey friend! Help me out for a couple of ☕️
 # Video
 - [VideoCall-React-Component---Tutorial](https://github.com/nicolaseschneider/VideoCall-React-Component---Tutorial) - A quick and painless VideoCall component that can be easily implemented with a rails backend 🔥 ✅ 🚀
 
+# Vim
+- [iro.vim](https://github.com/pocke/iro.vim) - Vim plugin that is a next generation syntax highlighter.
+
 # XCode
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods) - CocoaPods manages dependencies for your Xcode projects. 🔥 ✅ 🚀
 - [Xcodeproj](https://github.com/CocoaPods/Xcodeproj) - Create and modify Xcode projects from Ruby. 🔥 ✅ 🚀
