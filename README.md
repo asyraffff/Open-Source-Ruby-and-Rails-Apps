@@ -404,6 +404,7 @@ Hey friend! Help me out for a couple of ☕️
 - [chess.rb](https://github.com/jamesball27/chess.rb) - Command-line based chess game for two human players, written in Ruby. 🔥
 - [jinro](https://github.com/fshin1988/jinro_rails) - open source werewolf game application. You can play the werewolf game with chat. 🔥 🚀
 - [frogatto](https://github.com/frogatto/frogatto) - Frogatto & Friends is an action-adventure game, starring a certain quixotic frog. 🔥 🚀
+- [HuntersKeepers](https://github.com/ChaelCodes/HuntersKeepers) - An app to make managing games of Monster of the Week easier. 🔥 🚀
 - [BvY_Chess](https://github.com/minusobjects/BvY_Chess) - Terminal chess game, built in Ruby. 👴 🔥
 - [overwatch-team-comps](https://github.com/cheshire137/overwatch-team-comps) - Plan your Overwatch team composition per map. Share your team comp with others. 👴 🚀
 
