@@ -669,6 +669,7 @@ Hey friend! Help me out for a couple of ☕️
   - [Happyhours](https://github.com/DefactoSoftware/Hours) - Time registration that doesn't suck 🔥 ✅ 🚀
   
 # Travel
+  - [workcation](https://github.com/ledermann/workcation) - 🔥 ✅ 🚀
   - [roam](https://github.com/sofiajonsson/roam) - Rails Travel App
   
 # Telegram
