@@ -372,6 +372,7 @@ Hey friend! Help me out for a couple of ☕️
   - [meetsync](https://github.com/dsc-umass/meetsync) - An Application to Meet and Sync with people 🔥 ✅ 🚀
   - [react_rails_event_scheduler](https://github.com/AndresFMoya/react-rails_event_scheduler) - This project consist of building a mobile web app for an Events Scheduler using Rails API as backend, and ReactJS as frontend. 🔥 ✅ 🚀
   - [eventx](https://github.com/andela/eventx) - for Event Managers who are not interested in the complexities of Event Management, but want to organize a world-class event! 👴 ✅ 🚀
+  - [hcxp](https://github.com/hcxp/hcxp) - 📅 Independent online hardcore punk events directory 👴 ✅ 🚀
   
 # Fitness
   - [reactfit](https://github.com/learnetto/reactfit) - A fitness dashboard app built using Rails 5.1 and React.js 👴 ✅
