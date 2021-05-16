@@ -401,6 +401,7 @@ Hey friend! Help me out for a couple of ☕️
 - [gosu](https://github.com/gosu/gosu/) - 2D game development library for Ruby and C++ 🔥
 - [RN-Rock-Paper-Scissors](https://github.com/ShivamJoker/RN-Rock-Paper-Scissors) - Simple Rock Paper Scissors Game Made in React Native runs on Android, iOS, Web, MacOS, Windows 🔥 ✅ 🚀
 - [PorkChop](https://github.com/PorkChopClub/porkchop) - A ping pong scoreboard and stat-tracking application. 🔥
+- [jinro_rails](https://github.com/fshin1988/jinro_rails) - Werewolf game on Ruby on Rails 🔥 🚀
 - [chess.rb](https://github.com/jamesball27/chess.rb) - Command-line based chess game for two human players, written in Ruby. 🔥
 - [jinro](https://github.com/fshin1988/jinro_rails) - open source werewolf game application. You can play the werewolf game with chat. 🔥 🚀
 - [frogatto](https://github.com/frogatto/frogatto) - Frogatto & Friends is an action-adventure game, starring a certain quixotic frog. 🔥 🚀
