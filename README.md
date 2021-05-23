@@ -501,6 +501,7 @@ Hey friend! Help me out for a couple of ☕️
 # Music
 - [MailTape](https://github.com/MailTape/MailTape.github.io) - Feed your inspiration with music, every Sunday morning. 🔥 ✅ 🚀
 - [uke](https://github.com/janlelis/uke) - 🎶  Ukulele CLI Support 🔥
+- [beatoftheday](https://github.com/dezman/beatoftheday) - 🎵 Make music with others 🔥 ✅ 🚀
 - [alonetone](https://github.com/sudara/alonetone) - A free, open source, non-commercial home for musicians and their music 🔥 🚀
 - [rockburg](https://github.com/Rockburg/rockburg) - Rockburg is a music industry simulation game. 🤘 🔥 ✅ 🚀
 - [plylst](https://github.com/Shpigford/plylst) - Smart playlists for Spotify! Stop relying on fancy pants algorithms to organize your library and instead build playlists the way you want. 🔥 🚀
