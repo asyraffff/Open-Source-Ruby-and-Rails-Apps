@@ -325,6 +325,7 @@ Hey friend! Help me out for a couple of ☕️
 - [yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for "Yay!" 🔥 ✅ 🚀
 - [rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. 🔥 ✅ 🚀
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API 🔥 
+- [rubydocs](https://github.com/rubydocs/app) - Fancy docs for any Ruby project
 - [Devdocs](https://github.com/freeCodeCamp/devdocs) - combines multiple developer documentations in a clean and organized web UI 🔥 ✅ 🚀
 - [docshub](https://github.com/w3cub/docshub) - API Documentation Browser based Github Pages service 🔥
 - [orientation](https://github.com/orientation/orientation) - Your best weapon in the fight against outdated documentation. 🔥 ✅ 🚀
@@ -564,6 +565,7 @@ Hey friend! Help me out for a couple of ☕️
 - [ruby-lang.org](https://github.com/ruby/www.ruby-lang.org) - Source of the https://www.ruby-lang.org website. 🔥 ✅ 🚀
 - [ruby-conferences.github.io](https://github.com/ruby-conferences/ruby-conferences.github.io) - A simple list of Ruby conferences 🔥 🚀
 - [rubytoolbox](https://github.com/rubytoolbox/rubytoolbox) - Find actively maintained & popular open source software libraries for the Ruby programming language 🔥 ✅ 🚀
+- [rubydocs](https://github.com/rubydocs/app) - Fancy docs for any Ruby project
 - [Ruby-Starter-Kits](https://github.com/Ruby-Starter-Kits/) - Starter kits to help you get up and running with Ruby quickly. 🔥 🚀
 - [Rubygems](https://github.com/rubygems/rubygems) - Library packaging and distribution for Ruby. 🔥 ✅ 🚀
 - [rubydoc.info](https://github.com/docmeta/rubydoc.info) - Next generation rdoc.info site 🔥 ✅ 🚀
