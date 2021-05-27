@@ -118,6 +118,7 @@ Hey friend! Help me out for a couple of ☕️
      - [lucha](https://github.com/azuzunaga/lucha) - Strava clone app with a (slight) Spanish flavor. It uses a Rails/PostgreSQL backend, React.js and Redux on the frontend, and the Google Maps API for map interactivity. 🔥 ✅ 🚀
    - **Todoist**
      - [todoist-tribute](https://github.com/rohitpaulk/todoist-tribute) - Todoist clone, written in Rails + Vue 🔥 ✅ 🚀
+     - [open_todoist](https://github.com/oliveira-andre/open_todoist) - Open source project inspired on todoist.com 🔥 ✅ 🚀
    - **Trello**
      - [trello](https://github.com/emilosman/trello-clone) - A Trello clone made in Ruby on Rails and Vue.js 🔥 ✅ 🚀
      - [trello-clone](https://github.com/MrGrillet/trello-clone) - Project management boards with draggable lists and cards. Built with Rails and Vue.js 🔥 ✅
