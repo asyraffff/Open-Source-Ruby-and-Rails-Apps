@@ -116,6 +116,8 @@ Hey friend! Help me out for a couple of ☕️
      - [DownBeat](https://github.com/masag0/DownBeat) - a Spotify inspired web application streaming music player-- Ruby on Rails, React, Redux, and PostgreSQL 👴 ✅
    - **Strava**
      - [lucha](https://github.com/azuzunaga/lucha) - Strava clone app with a (slight) Spanish flavor. It uses a Rails/PostgreSQL backend, React.js and Redux on the frontend, and the Google Maps API for map interactivity. 🔥 ✅ 🚀
+   - **Todoist**
+     - [todoist-tribute](https://github.com/rohitpaulk/todoist-tribute) - Todoist clone, written in Rails + Vue 🔥 ✅ 🚀
    - **Trello**
      - [trello](https://github.com/emilosman/trello-clone) - A Trello clone made in Ruby on Rails and Vue.js 🔥 ✅ 🚀
      - [trello-clone](https://github.com/MrGrillet/trello-clone) - Project management boards with draggable lists and cards. Built with Rails and Vue.js 🔥 ✅
