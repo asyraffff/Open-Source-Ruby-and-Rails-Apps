@@ -237,8 +237,6 @@ Hey friend! Help me out for a couple of ☕️
 # Books
 - [kitabu](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown using Ruby. Using the Prince PDF generator, you'll be able to get high quality PDFs. Also supports EPUB, Mobi, Text and HTML generation. 🔥 ✅ 🚀
 - [kindle highlights](https://github.com/tobi/highlights) - download your kindle highlights and email random ones to your inbox 🔥 ✅ 🚀
-- [citationstyles.org](https://github.com/citation-style-language/styles) - Official repository for Citation Style Language (CSL) citation styles 🔥 ✅ 🚀
-
 
 # Bugs
 - [errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant 🔥 ✅ 🚀
@@ -253,6 +251,10 @@ Hey friend! Help me out for a couple of ☕️
 # Chrome Extension
 - [latercart](https://github.com/bonitac/latercart) - A chrome extension that allows the user to create aggregate wishlists while shopping on different websites such as Ikea, Amazon, Tentree and more. 🔥 🚀
 - [rails_panel](https://github.com/dejan/rails_panel) - Chrome/Firefox extension for Rails development 🔥 🚀
+  
+# Citation
+- [anystyle](https://github.com/inukshuk/anystyle) - Fast and smart citation reference parsing 🔥 ✅ 🚀
+- [citationstyles.org](https://github.com/citation-style-language/styles) - Official repository for Citation Style Language (CSL) citation styles 🔥 ✅ 🚀
 
 # CMS
 - [weby](https://github.com/cercomp/weby) - A simple, flexible and extensible CMS in Ruby on Rails 🔥 ✅
