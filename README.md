@@ -347,14 +347,16 @@ Hey friend! Help me out for a couple of ☕️
     - [Sharetribe](https://github.com/sharetribe/sharetribe) - Sharetribe Go is a source available marketplace software, also available as a hosted, no-code SaaS product. 🔥 ✅ 🚀
 
 # Editor
-  - **IDE**
-    - [diakonos](https://github.com/pistos/diakonos) - Linux console text editor for the masses. 🔥
-    - [ruber](https://github.com/stcrocco/ruber) - An IDE for Ruby written in Ruby using KDE 👴 ✅ 🚀
-    - [redcar](https://github.com/danlucraft/redcar) - A cross-platform programmer's editor written in Ruby. 👴 ✅
-    - [arcadia](https://github.com/angal/arcadia) - Light Ruby Ide 👴
-  - **WYSIWYG**
-    - [mercury](https://github.com/jejacks0n/mercury) - Mercury Editor: The Rails WYSIWYG editor that allows embedding full page editing capabilities directly inline. 🔥 ✅ 🚀
-    - [block-editor](https://github.com/yamasolutions/block-editor) - A block editor for Ruby on Rails
+- **EMAC**
+  - [textbringer](https://github.com/shugo/textbringer) - An Emacs-like text editor written in Ruby 🔥 ✅ 🚀
+- **IDE**
+  - [diakonos](https://github.com/pistos/diakonos) - Linux console text editor for the masses. 🔥
+  - [ruber](https://github.com/stcrocco/ruber) - An IDE for Ruby written in Ruby using KDE 👴 ✅ 🚀
+  - [redcar](https://github.com/danlucraft/redcar) - A cross-platform programmer's editor written in Ruby. 👴 ✅
+  - [arcadia](https://github.com/angal/arcadia) - Light Ruby Ide 👴
+- **WYSIWYG**
+  - [mercury](https://github.com/jejacks0n/mercury) - Mercury Editor: The Rails WYSIWYG editor that allows embedding full page editing capabilities directly inline. 🔥 ✅ 🚀
+  - [block-editor](https://github.com/yamasolutions/block-editor) - A block editor for Ruby on Rails
 
 # Email
 - [Postal](https://github.com/postalhq/postal) - 📨  A fully featured open source mail delivery platform for incoming & outgoing e-mail 🔥 ✅ 🚀
