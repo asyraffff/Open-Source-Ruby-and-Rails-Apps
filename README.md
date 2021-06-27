@@ -380,6 +380,7 @@ Hey friend! Help me out for a couple of ☕️
   - [nu-appoinments](https://github.com/UribeNelson/nu-appointments) - simple appointments app 🔥 ✅ 🚀
   - [meetsync](https://github.com/dsc-umass/meetsync) - An Application to Meet and Sync with people 🔥 ✅ 🚀
   - [diversity_ticketing](https://github.com/rubymonsters/diversity_ticketing) - An app to make diversifying conferences easier! 🔥 ✅ 🚀
+  - [rgbapp](https://github.com/rubymonsters/rgbapp) - This is an app that supports the work of the code curious organizers team 🔥 ✅ 🚀
   - [react_rails_event_scheduler](https://github.com/AndresFMoya/react-rails_event_scheduler) - This project consist of building a mobile web app for an Events Scheduler using Rails API as backend, and ReactJS as frontend. 🔥 ✅ 🚀
   - [eventx](https://github.com/andela/eventx) - for Event Managers who are not interested in the complexities of Event Management, but want to organize a world-class event! 👴 ✅ 🚀
   - [hcxp](https://github.com/hcxp/hcxp) - 📅 Independent online hardcore punk events directory 👴 ✅ 🚀
