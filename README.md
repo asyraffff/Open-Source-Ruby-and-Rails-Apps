@@ -528,6 +528,7 @@ Hey friend! Help me out for a couple of ☕️
 # Notes
 - [StandardNotes](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.org 🔥 ✅ 🚀
 - [notesclub](https://github.com/notesclub/notesclub) - Notes Club 🔥 🚀
+- [Wreeto](https://github.com/chrisvel/wreeto_official) - Wreeto is an open source note-taking, knowledge management and wiki system. 🔥 ✅ 🚀
 - [fiber-note](https://github.com/namiwang/fiber-note) - A networked note-taking app, open and self-hosted, inspired by roam-research, obsidian and others. 🔥 ✅ 🚀
 - [mykonote](https://github.com/panter/mykonote) - The note taking app with an extra shot mykonian sun
 
