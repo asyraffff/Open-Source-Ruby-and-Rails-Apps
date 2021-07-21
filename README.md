@@ -598,6 +598,8 @@ Hey friend! Help me out for a couple of ☕️
     - [run.rb](https://github.com/jasoncharnes/run.rb) - Run Ruby in the browser using WebAssembly
   - **gems**
     - [decidim](https://github.com/decidim/decidim) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails 🔥 ✅ 🚀
+  - **Hosting**
+    - [geminabox](https://github.com/geminabox/geminabox) - Really simple rubygem hosting 🔥 ✅ 🚀
   - **Interpreter**
     - [for-the-graal](https://github.com/NicholasLYang/for-the-graal) A simple but absurd language implemented in Ruby-Java-JavaScript 🔥 🚀
   - **Liscense**
