@@ -361,6 +361,7 @@ Hey friend! Help me out for a couple of ☕️
 
 # Email
 - [Postal](https://github.com/postalhq/postal) - 📨  A fully featured open source mail delivery platform for incoming & outgoing e-mail 🔥 ✅ 🚀
+- [sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client 🔥 ✅ 🚀
 - [lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats. 👴 ✅ 🚀
 - [super-imap](https://github.com/rustyio/super-imap) - SuperIMAP - Monitor inboxes for incoming email, at scale. 👴 ✅
   - **newsletter**
