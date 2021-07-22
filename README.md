@@ -297,6 +297,10 @@ Hey friend! Help me out for a couple of ☕️
   - [lale-help](https://github.com/lale-help/lale-help) - A collaborative platform for volunteer refugee support. 🔥 ✅ 🚀
   - [teambox](https://github.com/redbooth/teambox) - This is the legacy version of Teambox - the award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter. 👴 ✅
   
+# Crypto
+  - [tip4commit](https://github.com/tip4commit/tip4commit) - Donate bitcoins to open source projects or make commits and get tips for it. 🔥 ✅ 🚀
+  - [kuruwan](https://github.com/kuruwandotcom/kuruwan) - Earn cryptocurrency by contribution to open source projects 🔥 🚀
+  
 # Crowdfunding
   - [Catarse](https://github.com/catarse/catarse) - The first open source crowdfunding platform for creative projects in the world 🔥 ✅ 🚀
   
