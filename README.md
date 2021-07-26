@@ -293,6 +293,7 @@ Hey friend! Help me out for a couple of ☕️
 
 # Collaboration Tool
   - [loomio](https://github.com/loomio/loomio) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. 🔥 ✅ 🚀
+  - [brainstormer](https://github.com/LoneKP/brainstormer) - Brainstormer.online is a fun tool that helps people come up with ideas together remotely.
   - [publiclab](https://github.com/publiclab/plots2) - a collaborative knowledge-exchange platform in Rails 🔥 ✅
   - [lale-help](https://github.com/lale-help/lale-help) - A collaborative platform for volunteer refugee support. 🔥 ✅ 🚀
   - [teambox](https://github.com/redbooth/teambox) - This is the legacy version of Teambox - the award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter. 👴 ✅
