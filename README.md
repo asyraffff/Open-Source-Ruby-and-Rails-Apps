@@ -592,6 +592,7 @@ Hey friend! Help me out for a couple of ☕️
 - [ruby-lang.org](https://github.com/ruby/www.ruby-lang.org) - Source of the https://www.ruby-lang.org website. 🔥 ✅ 🚀
 - [ruby-conferences.github.io](https://github.com/ruby-conferences/ruby-conferences.github.io) - A simple list of Ruby conferences 🔥 🚀
 - [rubytoolbox](https://github.com/rubytoolbox/rubytoolbox) - Find actively maintained & popular open source software libraries for the Ruby programming language 🔥 ✅ 🚀
+- [rails_new_io](https://github.com/miatrinity/rails_new_io) - railsnew.io is an app to create and verify new rails applications using an intuitive UI. 🔥 🚀
 - [rubydocs](https://github.com/rubydocs/app) - Fancy docs for any Ruby project
 - [Ruby-Starter-Kits](https://github.com/Ruby-Starter-Kits/) - Starter kits to help you get up and running with Ruby quickly. 🔥 🚀
 - [Rubygems](https://github.com/rubygems/rubygems) - Library packaging and distribution for Ruby. 🔥 ✅ 🚀
