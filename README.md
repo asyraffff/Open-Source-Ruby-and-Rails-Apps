@@ -102,6 +102,8 @@ Hey friend! Help me out for a couple of ☕️
      - [ThinkPiece](https://github.com/Gabriel-Lewis/ThinkPiece) - A blogging website inspired by Medium 👴 ✅ 🚀
    - **MeetUp**
      - [wiigo](https://github.com/spacether/wiigo) - A 'Meetup' clone made with Ruby on Rails and React/Redux. 👴 ✅ 🚀
+  - **Netflix**
+     - [spaceflix](https://github.com/ehecker/spaceflix) - Spaceflix is a pixel-perfect clone of Netflix 🔥 ✅ 🚀
    - **Quora**
      - [quora](https://github.com/huacnlee/quora) - Quora clone write in Ruby on Rails. 👴 ✅ 
    - **Reddit**
