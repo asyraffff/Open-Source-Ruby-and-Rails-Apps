@@ -631,6 +631,7 @@ Hey friend! Help me out for a couple of ☕️
 # RSS
 - [dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search Engine experience you can find. 🔥 ✅ 🚀
 - [filter-app](https://github.com/zealot128/filter-app) -  news aggregator that powers http://hrfilter.de and http://fahrrad-filter.de 🔥 ✅ 🚀
+- [rssbox](https://github.com/stefansundin/rssbox) - This app uses the API of other websites and gives you an RSS feed in return. 🔥 ✅ 🚀
   - **Reader**
     - [Stringer](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader. 🔥 ✅ 🚀
     - [feedbin](https://github.com/feedbin/feedbin) - a simple, fast and nice looking RSS reader. 🔥 ✅ 🚀
