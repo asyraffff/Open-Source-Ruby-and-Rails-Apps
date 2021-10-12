@@ -675,6 +675,7 @@ Hey friend! Help me out for a couple of ☕️
   - [covid-volunteers](https://github.com/helpwithcovid/covid-volunteers) - Organizing and matching volunteers with COVID-19 projects 🔥 ✅ 🚀
   - [diaper](https://github.com/rubyforgood/diaper) - Diaperbase is an inventory system for diaper banks, to aid them in tracking their inventory and providing statistics about their inventory flows. 🔥 ✅ 🚀
   - [voices-of-consent](https://github.com/rubyforgood/voices-of-consent) - Open source tracking and inventory management application for nonprofit, Voices of Consent 🔥 ✅
+  - [human-essentials](https://github.com/rubyforgood/human-essentials) - Human Essentials is an inventory management system for essentials banks, to aid them in distributing items to their partners, tracking their inventory, and providing statistics about their inventory flows. 🔥 ✅ 🚀
   - [otwarchive](https://github.com/otwcode/otwarchive) - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project 🔥 ✅ 🚀
   - [eol](https://github.com/EOL/eol) - Encyclopedia of Life 🔥 ✅ 🚀
   - [fiftypercent](https://github.com/rubymonsters/fiftypercent) - "50 Prozent" documents, how many women* there are. 🔥 ✅ 🚀
