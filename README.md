@@ -557,6 +557,7 @@ Hey friend! Help me out for a couple of ☕️
 - [open-source-billing](https://github.com/vteams/open-source-billing) - Open Source Billing a super simple way to create and send invoices and receive payments online. 🔥 ✅ 🚀
 - [invoice_printer](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing 🔥 ✅ 🚀
 - [bill-process](https://github.com/anastassia-b/bill-process) - Fullstack bill processing app-- enables various account types to collaborate on bill actions before it is sent to a customer. Rails, PostgreSQL, React/Redux 🔥
+- [Miru](https://github.com/saeloun/miru-web) - Miru is an open-source tool, for time tracking, invoicing & quick payments for freelancers and small to medium team sizes. 🔥 ✅ 🚀 
 
 # Photo
 - [photo-stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream
