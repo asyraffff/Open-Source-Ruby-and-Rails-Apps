@@ -669,7 +669,8 @@ Hey friend! Help me out for a couple of ☕️
   - [airesis](https://github.com/airesis/airesis) - The Social Network for eDemocracy 🔥 ✅ 🚀
   - [socify](https://github.com/scaffeinate/socify) - Socify is an open source social networking platform written in Ruby on Rails 👴 ✅ 🚀
   - [Insoshi](https://github.com/insoshi/insoshi) - An open source social networking platform in Ruby on Rails 👴 ✅
-  
+  - [iNaturalist](https://github.com/inaturalist/inaturalist) -  iNaturalist is a social network of naturalists, citizen scientists, and biologists built on the concept of mapping and sharing observations of biodiversity across the globe.
+
 # Support/Campaign/Non-Profit
   - [support-your-local-businesses](https://github.com/mikejahn/support-your-local-businesses) - A web application to support supporting your local businesses online 🔥 ✅ 🚀
   - [earthquake-croatia](https://github.com/vlado/earthquake-croatia) - Code for app hosted on https://potres.herokuapp.com used for helping people in need during the earthquake crisis in Croatia 🔥 🚀
