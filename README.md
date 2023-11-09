@@ -49,7 +49,7 @@ Hey friend! Help me out for a couple of ☕️
 - [astuto](https://github.com/riggraz/astuto) - 🦊 A free, open source, self-hosted customer feedback tool 🔥 🚀 ✅
 - [Chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform 🔥 ✅ 🚀
 - [Chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥 ✅ 🚀
-- [monocle](https://github.com/maccman/monocle) - Link and news sharing 🔥 ✅ 🚀
+- [monocle](https://github.com/maccman/monocle) - Link and news sharing 👴 ✅
 - [openstreetmap](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap 🔥 ✅ 🚀
 - [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything! 🔥 ✅ 🚀
 - [Openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce 🔥 ✅ 🚀
