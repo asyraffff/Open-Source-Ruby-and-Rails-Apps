@@ -691,6 +691,7 @@ Hey friend! Help me out for a couple of ☕️
 
 # Security
 - [HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs. 🔥 🚀
+- [Ronin](https://ronin-rb.dev) - A free and Open Source Ruby toolkit for security research and development. 🔥 ✅ 🚀
 - [sheepsafe](https://github.com/nicksieger/sheepsafe) - Sheepsafe is a small utility to keep you safe from FireSheep! It's a tool for mobile geeks. 👴 🚀
 
 # Services
