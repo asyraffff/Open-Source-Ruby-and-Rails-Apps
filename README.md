@@ -284,6 +284,9 @@ Hey friend! Help me out for a couple of ☕️
   - **App**
     - [whitehall](https://github.com/alphagov/whitehall) - a Ruby on Rails content management application for content published by government departments and agencies. 🔥 ✅ 🚀
 
+# CPaaS
+- [Somleng](https://github.com/somleng) - The world's only Open Source Communications-Platform-as-Service (CPaaS) and Telco-as-a-service (TaaS). With the support of UNICEF, Somleng is helping to save lives by reaching some of the most remote and vulnerable communities around the world. ✅ 🧒 🏥 📞
+
 # Customer Support/CRM
 - [Zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system  🔥 ✅ 🚀
 - [astuto](https://github.com/riggraz/astuto) - 🦊 A free, open source, self-hosted customer feedback tool 🔥 🚀 ✅
