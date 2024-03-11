@@ -183,7 +183,8 @@ Hey friend! Help me out for a couple of ☕️
 
 # Background Job
   - [Sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby 🔥 ✅ 🚀
-  
+  - [Karafka](https://github.com/karafka/karafka) - Ruby and Rails multi-threaded efficient Kafka processing framework 🔥 ✅ 🚀
+
 # Banking
   - [timeoverflow](https://github.com/coopdevs/timeoverflow) - 🏦 ⌛ A time banking system 🔥 ✅ 🚀
 
