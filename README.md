@@ -225,7 +225,6 @@ Hey friend! Help me out for a couple of ☕️
 - **Docker**
   - [docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose. 🔥
   - [rails-react-typescript-docker-example](https://github.com/ohbarye/rails-react-typescript-docker-example) - An example app built on Ruby on Rails 6.1 + React.js 17 + TypeScript 4.1 + Docker Compose 🔥 🚀
-  - [rails-react-typescript-docker-example](https://github.com/ohbarye/rails-react-typescript-docker-example) - An example app built on Ruby on Rails 6.1 + React.js 17 + TypeScript 4.1 + Docker Compose 🔥 🚀
   - [rails_react_graphql_docker_boilerplate](https://github.com/K-Sato1995/Rails_React_GraphQL_Docker_Boilerplate) - 🤡 Rails + React + GraphQL + Docker 🔥
 - **React + Rails**
   - [react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial) - Example of integration of Rails, react, redux, using the react_on_rails gem, webpack, enabling the es7 and jsx transpilers, and node integration. And React Native!  🔥 🚀
