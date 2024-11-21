@@ -475,6 +475,7 @@ Hey friend! Help me out for a couple of ☕️
 - [ifme](https://github.com/ifmeorg/ifme) - Free, open source mental health communication web app to share experiences with loved ones 🔥 ✅ 🚀
 
 # Human Resources (HR)
+- [FreeATS](https://github.com/freeats/freeats/) - An open source applicant tracking system with self-hosting capabilities 🔥 ✅ 🚀
 - [hrms](https://github.com/rilian/hrms) - Advanced HR management system. Manage company Employees (profiles, vacations, attachments, notes, notifications) and Candidates (vacancies, HR status funnel) 🔥 ✅ 🚀
 
 # I18N
