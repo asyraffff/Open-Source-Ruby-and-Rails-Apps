@@ -47,7 +47,6 @@ Hey friend! Help me out for a couple of ☕️
 - [autolab](https://github.com/autolab/Autolab) - Course management service that enables auto-graded programming assignments. 🔥 🚀 ✅
 - [bluedoc](https://github.com/huacnlee/bluedoc) - An open-source document management tool for enterprise self host. 🔥 ✅ 🚀
 - [astuto](https://github.com/riggraz/astuto) - 🦊 A free, open source, self-hosted customer feedback tool 🔥 🚀 ✅
-- [Chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform 🔥 ✅ 🚀
 - [Chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥 ✅ 🚀
 - [monocle](https://github.com/maccman/monocle) - Link and news sharing 👴 ✅
 - [openstreetmap](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap 🔥 ✅ 🚀
@@ -293,7 +292,6 @@ Hey friend! Help me out for a couple of ☕️
 - [fatfreecrm](https://github.com/fatfreecrm/fat_free_crm) - An open source, Ruby on Rails customer relationship management (CRM) platform . 🔥 ✅ 🚀
 - [railsCRM](https://github.com/brobertsaz/railscrm) - Ruby on Rails CRM for lead tracking made with MongoDB, Twitter Bootstrap and Devise. 👴 ✅
   - **Live Chat**
-    - [Chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform 🔥 ✅ 🚀
     - [Chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥 ✅ 🚀
 
 # Collaboration Tool
