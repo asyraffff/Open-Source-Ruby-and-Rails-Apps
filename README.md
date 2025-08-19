@@ -52,6 +52,7 @@ Hey friend! Help me out for a couple of ☕️
 - [openstreetmap](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap 🔥 ✅ 🚀
 - [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything! 🔥 ✅ 🚀
 - [Openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce 🔥 ✅ 🚀
+- [VPN9-Portal](https://github.com/vpn9labs/vpn9-portal) - VPN9 Rails portal: website, admin, and public API for VPN9. Anonymous accounts, crypto payments, zero-log posture by design.  🔥 ✅ 🚀
    - **AirBnb**
      - [airbnb_clone](https://github.com/mrkchoi/airbnb_clone) - Airbnb clone with React, Redux, and Rails backend. Allows users to sign up, find listings, book a stay and much more! 🔥 ✅ 🚀
    - **AllRecipes**
