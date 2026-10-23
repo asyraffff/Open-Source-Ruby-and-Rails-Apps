@@ -580,6 +580,7 @@ Hey friend! Help me out for a couple of ☕️
 - [reru_scrum](https://github.com/joshrendek/reru_scrum) - Open source rails scrum tool 👴 
 - [fulcrum](https://github.com/fulcrum-agile/fulcrum) - An agile project planning tool 👴 ✅
 - [chiliproject](https://github.com/chiliproject/chiliproject) - web based project management system built on Ruby on Rails 👴 ✅ 
+- [Fizzy](https://github.com/basecamp/fizzy) - Kanban tracking tool for issues and ideas by 37signals 🔥 ✅ 🚀
 
 # Prototyping
 - [FireApp](https://github.com/KKBOX/FireApp) - Fire.app is a HTML prototyping tool with Sass/Compass/ERB/Haml/Slim/Markdown support 🔥 ✅ 🚀  
