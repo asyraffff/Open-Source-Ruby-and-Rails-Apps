@@ -52,7 +52,7 @@ Hey friend! Help me out for a couple of ☕️
 - [Chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥 ✅ 🚀
 - [monocle](https://github.com/maccman/monocle) - Link and news sharing 👴 ✅
 - [openstreetmap](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap 🔥 ✅ 🚀
-- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything! 🔥 ✅ 🚀
+- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything! 🔥 ✅ 🚀 (Note: Servers have shut down and project is no longer maintained)
 - [Openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce 🔥 ✅ 🚀
 - [VPN9-Portal](https://github.com/vpn9labs/vpn9-portal) - VPN9 Rails portal: website, admin, and public API for VPN9. Anonymous accounts, crypto payments, zero-log posture by design.  🔥 ✅ 🚀
    - **AirBnb**
