@@ -40,6 +40,7 @@ Hey friend! Help me out for a couple of ☕️
 - [mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community 🔥 ✅ 🚀
 - [manageiq](https://github.com/ManageIQ/manageiq) - ManageIQ is an open-source Management Platform that delivers the insight, control, and automation that enterprises need to address the challenges of managing hybrid IT environments. 🔥 ✅ 🚀
 - [Gitlab](https://github.com/gitlabhq/gitlabhq) - The canonical source of GitLab where all development takes place is hosted on GitLab.com. 🔥 ✅ 🚀
+- [Gumroad](https://github.com/antiwork/gumroad) - The e-commerce platform that enables creators to sell products directly to consumers. 🔥 ✅ 🚀
 - [Lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion 🔥 ✅ 🚀
 - [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. 🔥 ✅ 🚀
 - [code.org](https://github.com/code-dot-org/code-dot-org) - The code powering code.org and studio.code.org 🔥 ✅ 🚀
