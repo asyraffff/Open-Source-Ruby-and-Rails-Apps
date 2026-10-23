@@ -47,6 +47,7 @@ Hey friend! Help me out for a couple of ☕️
 - [autolab](https://github.com/autolab/Autolab) - Course management service that enables auto-graded programming assignments. 🔥 🚀 ✅
 - [bluedoc](https://github.com/huacnlee/bluedoc) - An open-source document management tool for enterprise self host. 🔥 ✅ 🚀
 - [astuto](https://github.com/riggraz/astuto) - 🦊 A free, open source, self-hosted customer feedback tool 🔥 🚀 ✅
+- [docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative for document filling and signing. 🔥 ✅ 🚀
 - [Chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥 ✅ 🚀
 - [monocle](https://github.com/maccman/monocle) - Link and news sharing 👴 ✅
 - [openstreetmap](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap 🔥 ✅ 🚀
@@ -448,7 +449,7 @@ Hey friend! Help me out for a couple of ☕️
 - [past.codesa](https://github.com/gjtorikian/past.codes) - Remember the repositories you starred on GitHub 🔥 ✅ 🚀
 - [opensourcefriday](https://github.com/github/opensourcefriday) - 🚲 Contribute to the open source community every Friday 🔥 🚀
 - [Octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications 🔥 ✅ 🚀
-- [linguist]*https://github.com/github/linguist) - This library is used on GitHub.com to detect blob languages, ignore binary or vendored files, suppress generated files in diffs, and generate language breakdown graphs. 🔥 ✅ 🚀
+- [linguist](https://github.com/github/linguist) - This library is used on GitHub.com to detect blob languages, ignore binary or vendored files, suppress generated files in diffs, and generate language breakdown graphs. 🔥 ✅ 🚀
 - [libraries.io](https://github.com/librariesio/libraries.io) - 📚 The Open Source Discovery Service 🔥 ✅ 🚀
 - [Codetriage](https://github.com/codetriage/CodeTriage) - Discover the best way to get started contributing to Open Source projects 🔥 ✅ 🚀
 - [Github explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub 🔥 🚀
