@@ -319,6 +319,7 @@ Hey friend! Help me out for a couple of ☕️
 - [Vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments. 🔥 ✅ 🚀
 - [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem. 🔥 ✅ 🚀
 - [puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application 🔥 ✅ 🚀
+- [KeyHarbour]([http://example.com/](https://github.com/KeyHarbour/KeyHarbourCE.git)) - KeyHarbour gives IT and DevSecOps teams a single, secure environment for their operational data: Terraform state files, secrets, software licenses, certificates and tokens. 🔥 ✅ 🚀
 - [open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs 🔥
 - [lazylead](https://github.com/dgroup/lazylead) - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows automating (without admin access) daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. 🔥 ✅ 🚀
 - [Kontena](https://github.com/kontena/kontena) - The developer friendly container and micro services platform. Works on any cloud, easy to setup, simple to use. 🔥 ✅ 🚀
